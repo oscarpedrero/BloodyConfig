@@ -1,0 +1,6673 @@
+[
+  {
+    "name": "Astilla estigia superior",
+    "ItemID": 576389135,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de ilusi\u00F3n",
+    "ItemID": 606339127,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de ballestas ancestrales",
+    "ItemID": 2061238391,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa emplumada morada",
+    "ItemID": 1677983904,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de mago oscuro",
+    "ItemID": -46006079,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de espadones ancestrales",
+    "ItemID": -1743584975,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n sombr\u00EDo",
+    "ItemID": 1322254792,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zafiro perfecto",
+    "ItemID": -2020212226,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grasa mutante",
+    "ItemID": -1527315816,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de guardabosques siniestro",
+    "ItemID": -752418019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedraniebla en bruto",
+    "ItemID": -1129708579,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hilo de algod\u00F3n",
+    "ItemID": 444400639,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Suelos de la sastrer\u00EDa",
+    "ItemID": -137886670,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chatarra tecnol\u00F3gica",
+    "ItemID": 834864259,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco oxidado",
+    "ItemID": 1364460757,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa de hielo ceniza",
+    "ItemID": 239338934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tela",
+    "ItemID": -700774739,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de alquimia peque\u00F1o",
+    "ItemID": 11798247,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de nigromante",
+    "ItemID": -1601304786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de Dr\u00E1cula del temor",
+    "ItemID": 1392314162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lamento de Mortira",
+    "ItemID": -859437190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Jarrones y plantas",
+    "ItemID": 1428883363,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fuente grande",
+    "ItemID": -1171060793,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de cobre despiadadas",
+    "ItemID": 660670410,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de nigromante",
+    "ItemID": 336922685,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla de alma del b\u00E9gimo",
+    "ItemID": 1247086852,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de materiales peque\u00F1o",
+    "ItemID": -513865346,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ar\u00E1cnido",
+    "ItemID": 2015299972,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n encantada",
+    "ItemID": 492964298,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo sanguinario",
+    "ItemID": -655095317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco del general no muerto",
+    "ItemID": 764480170,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Serr\u00EDn",
+    "ItemID": -1979905169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas de hierro despiadadas",
+    "ItemID": 1850870666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n sangu\u00EDneo",
+    "ItemID": -1173681254,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Abrigo de Alucard",
+    "ItemID": 1712262077,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo sombr\u00EDo",
+    "ItemID": 567413754,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla de alma del horror alado",
+    "ItemID": -1260254082,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Clar\u00EDn del infierno",
+    "ItemID": 813370507,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de mago oscuro",
+    "ItemID": -595456862,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cola del archidemonio",
+    "ItemID": 1863126275,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Algod\u00F3n",
+    "ItemID": 362941759,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00E1scara de espantap\u00E1jaros",
+    "ItemID": 403967307,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes guardahuesos reforzados",
+    "ItemID": 1746537832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de antorchas encantadas",
+    "ItemID": 879103343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mantenimiento del castillo",
+    "ItemID": 421203343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza sombr\u00EDa",
+    "ItemID": 1307774440,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bloque de hierro",
+    "ItemID": 988417522,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leotardos colmillohueco",
+    "ItemID": 12127911,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de pistolas ancestrales",
+    "ItemID": 1040125618,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de mago oscuro",
+    "ItemID": -2127687996,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colecci\u00F3n de sof\u00E1s y divanes",
+    "ItemID": 2053574378,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del caminante de sombras",
+    "ItemID": 1014370193,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hueso",
+    "ItemID": 1328680870,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Llanto de sirena",
+    "ItemID": 781586362,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de \u00E1lamo tembl\u00F3n",
+    "ItemID": 1996361886,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de plata oscura",
+    "ItemID": -814739263,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de nigromante",
+    "ItemID": -651554566,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera de escarcha",
+    "ItemID": 1381699867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hueso",
+    "ItemID": -786493143,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de hachas ancestrales",
+    "ItemID": 442700150,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Madera melanc\u00F3lica",
+    "ItemID": -1740500585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de sangre de nivel 4",
+    "ItemID": 271061481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00E1scara del doctor de la plaga",
+    "ItemID": -262204844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chimeneas",
+    "ItemID": -946597284,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Diagrama",
+    "ItemID": 2085163661,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espiral sanguinaria",
+    "ItemID": 1785926321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de cobre",
+    "ItemID": -331345186,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de vigilante del crep\u00FAsculo",
+    "ItemID": 1912738568,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Corona de cenizo",
+    "ItemID": -1988816037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de cobre",
+    "ItemID": 1370755976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de materiales grande",
+    "ItemID": -1061940339,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta sanguinaria",
+    "ItemID": 1389040540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Llave del castillo de oro\nde nivel 4/5",
+    "ItemID": 551949280,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Furia de sangre",
+    "ItemID": 343217159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de Dr\u00E1cula",
+    "ItemID": -204401621,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gorrito de criada",
+    "ItemID": -1721887666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas del caminante de sombras",
+    "ItemID": 1101206623,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esqueleto",
+    "ItemID": -836889492,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de la coraza del temor",
+    "ItemID": 1192629421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de hierro",
+    "ItemID": -2081286944,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de maza ancestral",
+    "ItemID": 1963988265,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gusano de seda",
+    "ItemID": 930747930,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera de los malditos",
+    "ItemID": 1479677538,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rosa de sangre",
+    "ItemID": 1726420644,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Paneles de pared cordiales",
+    "ItemID": -581757157,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de joyas",
+    "ItemID": -1870194782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de sangre de nivel 1",
+    "ItemID": -113436752,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Caminos de adoquines",
+    "ItemID": 2094602185,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de karambits ancestrales",
+    "ItemID": -1390536751,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de hierro despiadada",
+    "ItemID": 1778128946,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco del merodeador",
+    "ItemID": 1850873910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas del erudito malvado",
+    "ItemID": -1958602686,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla de alma de Dr\u00E1cula",
+    "ItemID": 666638454,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lirio de luto",
+    "ItemID": -363718499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del caballero vampiro",
+    "ItemID": -745793193,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pargo del crep\u00FAsculo",
+    "ItemID": -570287766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zafiro en bruto",
+    "ItemID": 552409457,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de guardabosques siniestro",
+    "ItemID": -668460646,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Explosi\u00F3n \u00F3sea",
+    "ItemID": -1123608041,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco de esclavo",
+    "ItemID": 1587354182,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de Alucard",
+    "ItemID": -1214309698,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de esquivamaneceres",
+    "ItemID": -224716062,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Odre vac\u00EDo",
+    "ItemID": -810738866,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cortina de rel\u00E1mpagos",
+    "ItemID": 394140527,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lamento de Mortira",
+    "ItemID": 1801132968,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leotardos guardahuesos reforzados",
+    "ItemID": -2036196416,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de tejehechizos",
+    "ItemID": 1310923765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piel gruesa",
+    "ItemID": -2047402903,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n de hierro despiadado",
+    "ItemID": 869276797,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gorro de paja",
+    "ItemID": 1375804543,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n menor de resistencia solar",
+    "ItemID": 756555009,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astillas de arco largo ancestral",
+    "ItemID": 285875674,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fuente de sangre",
+    "ItemID": -312598876,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza sanguinaria",
+    "ItemID": -567468235,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maceteros de jard\u00EDn modestos",
+    "ItemID": -1383718976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zafiro inmaculado",
+    "ItemID": -1147920398,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mercaderes",
+    "ItemID": -696770536,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedra por defecto",
+    "ItemID": -2017255390,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de jinete",
+    "ItemID": -1242947472,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1grima de \u00F3nice",
+    "ItemID": -651878258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cortina de rel\u00E1mpagos",
+    "ItemID": -2134499162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Farolas",
+    "ItemID": 776216743,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mineral de plata",
+    "ItemID": 1686577386,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de cobre despiadada",
+    "ItemID": 1048518929,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de la coraza del temor",
+    "ItemID": 750788905,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Murci\u00E9lago de escarcha",
+    "ItemID": -309124704,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de la tormenta",
+    "ItemID": -556391992,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aceite",
+    "ItemID": -242277891,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Elemental de sangre",
+    "ItemID": -2141642225,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Paneles de pared fog\u00F3n",
+    "ItemID": -106224889,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zafiro normal",
+    "ItemID": 131015492,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maceteros de jard\u00EDn simples",
+    "ItemID": 1307976528,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maldici\u00F3n vamp\u00EDrica",
+    "ItemID": -2137054310,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n de hierro despiadado",
+    "ItemID": 82781195,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espina",
+    "ItemID": 424158416,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de cobre despiadadas",
+    "ItemID": -491969324,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de esquivamaneceres",
+    "ItemID": -1542642288,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moneda de plata",
+    "ItemID": -949672483,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Topacio normal",
+    "ItemID": -2118441460,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n de rosa de sangre",
+    "ItemID": -895015382,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Banshee",
+    "ItemID": -1513937321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas sanguinarias",
+    "ItemID": -2044057823,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Manto carmes\u00ED",
+    "ItemID": -1755568324,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de plata oscura",
+    "ItemID": -352704566,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "N\u00FAcleo de poder",
+    "ItemID": -1190647720,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Resonador",
+    "ItemID": -1629804427,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n de hierro despiadado",
+    "ItemID": 1126901893,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de Dr\u00E1cula siniestros",
+    "ItemID": 1039083725,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de guada\u00F1a ancestral",
+    "ItemID": -413259500,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de vigilante del crep\u00FAsculo",
+    "ItemID": -69916288,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya del caos de nivel 3",
+    "ItemID": -1601295908,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de comandante carmes\u00ED",
+    "ItemID": -1063966176,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla de alma de Solarus",
+    "ItemID": -21943750,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Murci\u00E9lago de escarcha",
+    "ItemID": -1530254765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas de hierro despiadadas",
+    "ItemID": 14297698,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de guardabosques siniestro",
+    "ItemID": -15390086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n de plata oscura",
+    "ItemID": 674704033,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo de hierro despiadado",
+    "ItemID": 710159072,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a sombr\u00EDa",
+    "ItemID": -465491217,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de sauce llor\u00F3n",
+    "ItemID": 858598154,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esmeralda perfecta",
+    "ItemID": 1354115931,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piel pr\u00EDstina",
+    "ItemID": 1658596502,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de caballero siniestro",
+    "ItemID": -996201260,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa empapada de qu\u00EDmicos",
+    "ItemID": -1324340002,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Topacio perfecto",
+    "ItemID": -1983566585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de tormenta de nivel 2",
+    "ItemID": 876293388,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gema en bruto",
+    "ItemID": -2039337521,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo de cobre",
+    "ItemID": 532033005,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n sangu\u00EDneo",
+    "ItemID": 730869315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astillas de l\u00E1tigo ancestral",
+    "ItemID": -1222824286,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de hueso",
+    "ItemID": -20041991,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas sanguinarias",
+    "ItemID": 1071656850,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de hierro despiadada",
+    "ItemID": 1526542305,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leotardos de acechador nocturno",
+    "ItemID": 1925394440,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fibra de planta",
+    "ItemID": -1409142667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del erudito malvado",
+    "ItemID": -1512099553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esencia de sangre mayor",
+    "ItemID": 271594022,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esporas alucin\u00F3genas",
+    "ItemID": 1915695899,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Necr\u00F3fago",
+    "ItemID": 2042311455,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Trance neblinoso",
+    "ItemID": 2075997018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco del general no muerto",
+    "ItemID": 409678749,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Descarga",
+    "ItemID": 1448686547,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Traje del baile de medianoche",
+    "ItemID": 538326235,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit sombr\u00EDo",
+    "ItemID": 506082542,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nova de hielo",
+    "ItemID": 1947940084,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amatista normal",
+    "ItemID": -1962855117,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya profana de nivel 3",
+    "ItemID": -647547545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de hierro despiadada",
+    "ItemID": 937375187,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rayo de sombras",
+    "ItemID": 738473666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de hueso de sangre",
+    "ItemID": -652069131,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de hueso reforzadas",
+    "ItemID": -1391446205,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de Dr\u00E1cula del temor",
+    "ItemID": 205207385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Componente m\u00E1gico excepcional",
+    "ItemID": 1488205677,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de espadones ancestrales",
+    "ItemID": 747911021,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de Dr\u00E1cula malvadas",
+    "ItemID": 1531721602,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": -114411609,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Las gemelas rojas",
+    "ItemID": 2099198078,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas de hierro",
+    "ItemID": 769603740,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo de hierro despiadado",
+    "ItemID": 1393113320,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semilla de girasol",
+    "ItemID": -473351958,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Suelos de la fragua",
+    "ItemID": -1233700610,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de ventanas",
+    "ItemID": 1905539368,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza espectral",
+    "ItemID": 998259069,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rub\u00ED en bruto",
+    "ItemID": 287586809,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leotardos guardahuesos",
+    "ItemID": 1355823667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cicl\u00F3n",
+    "ItemID": 994654794,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza sanguinaria",
+    "ItemID": -126076280,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Apocalipsis",
+    "ItemID": 1272855317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera del caos",
+    "ItemID": 1112619884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "9cf16903e72643c8b23710b7e9f4567b",
+    "ItemID": -1838793646,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Suelos del laboratorio de alquimia",
+    "ItemID": 978074988,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semilla de cardo",
+    "ItemID": -1370210913,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amatista perfecta",
+    "ItemID": -106283194,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitra",
+    "ItemID": -548847761,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de hierro",
+    "ItemID": -1714012261,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Las gemelas rojas",
+    "ItemID": 1239564213,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de cristal",
+    "ItemID": -390381611,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera de los malditos",
+    "ItemID": -593608743,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marco de cuadro",
+    "ItemID": 1553481703,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo de hierro despiadado",
+    "ItemID": 1705984031,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vallas y fuentes nobles",
+    "ItemID": 679755989,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo del enterrador",
+    "ItemID": -1588051702,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de karambits ancestrales",
+    "ItemID": 1271087499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Calavera corrupta",
+    "ItemID": 140526202,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vestido del baile de medianoche",
+    "ItemID": -511360389,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de tejehechizos",
+    "ItemID": 759775881,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chal del viajero",
+    "ItemID": -1819786494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de alquimia grande",
+    "ItemID": -67943596,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n de resistencia a la plata",
+    "ItemID": 272647158,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semilla de algod\u00F3n",
+    "ItemID": -1289010178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nova de hielo",
+    "ItemID": -535477182,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "PEM",
+    "ItemID": -1447213995,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de Dr\u00E1cula malvados",
+    "ItemID": 1592149279,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mosquito",
+    "ItemID": -826325611,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vac\u00EDo",
+    "ItemID": -2054797612,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de la coraza del temor",
+    "ItemID": -1161279574,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zarza de la peste",
+    "ItemID": 1474643910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cabeza de lobo",
+    "ItemID": -1169471531,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto del templario carmes\u00ED",
+    "ItemID": 626083889,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Presagio del fin",
+    "ItemID": 1630030026,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Furia de sangre",
+    "ItemID": -1952560879,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cabeza de merodeador nocturno",
+    "ItemID": -2073081569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de caballero vampiro",
+    "ItemID": 830032282,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lobo espectral",
+    "ItemID": 455494178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de cobre",
+    "ItemID": 518802008,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de ilusi\u00F3n",
+    "ItemID": -1206629745,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rollo de moqueta",
+    "ItemID": 1046366876,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Explosi\u00F3n \u00F3sea",
+    "ItemID": 977816262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cuero pr\u00EDstino",
+    "ItemID": -2043983118,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de guada\u00F1a ancestral",
+    "ItemID": -2136716453,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": -1205777419,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo sombr\u00EDo",
+    "ItemID": 1283345494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Caballero de la muerte",
+    "ItemID": -340571020,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tela ensangrentada",
+    "ItemID": 150621304,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": -811840389,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pergamino",
+    "ItemID": 2065714452,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada sanguinaria",
+    "ItemID": 1075465533,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Coraz\u00F3n contaminado",
+    "ItemID": 947998050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00FAnica de harapos",
+    "ItemID": -1723445833,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de caballero",
+    "ItemID": -1658630722,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Molde para arcilla",
+    "ItemID": -1257026088,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de abedul",
+    "ItemID": 1552240197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Flor de nieve",
+    "ItemID": 106516056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla de alma del monstruo",
+    "ItemID": -1619308732,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Trance neblinoso",
+    "ItemID": 101601247,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de ballestas ancestrales",
+    "ItemID": 517296275,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de vigilante del crep\u00FAsculo",
+    "ItemID": 1474515294,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Estrella del alba",
+    "ItemID": 950358400,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza sanguinaria",
+    "ItemID": 1994084762,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de sillas para el castillo",
+    "ItemID": -1929817673,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rayo de sombras",
+    "ItemID": 1279283644,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Linternas colgantes",
+    "ItemID": -452767162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de Dr\u00E1cula malvados",
+    "ItemID": -1899539896,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de Dr\u00E1cula sombr\u00EDo",
+    "ItemID": 933057100,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semilla de flor de nieve",
+    "ItemID": 1985892973,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astillas de l\u00E1tigo ancestral",
+    "ItemID": 1340494453,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedraniebla normal",
+    "ItemID": 802050789,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amatista en bruto",
+    "ItemID": 225530658,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto colmillohueco",
+    "ItemID": -604941435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Muros de piedra majestuosos",
+    "ItemID": 1884115881,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de armarios",
+    "ItemID": 1691702273,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla estigia",
+    "ItemID": 2103989354,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de mago oscuro",
+    "ItemID": -2066262923,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hueso reforzada",
+    "ItemID": -796306296,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pez sabio",
+    "ItemID": 736318803,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cualquier gema",
+    "ItemID": 1128027535,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de Dr\u00E1cula del temor",
+    "ItemID": 1982551454,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de caballero",
+    "ItemID": -425306671,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Llave del castillo de hierro\nde nivel 3",
+    "ItemID": -950839771,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de lanza ancestral",
+    "ItemID": 2142983740,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco de cazavampiros",
+    "ItemID": 974739126,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa del cazador",
+    "ItemID": 786585343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de luna sombr\u00EDa",
+    "ItemID": -1260890289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bola de rayos",
+    "ItemID": -1927784576,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto del erudito malvado",
+    "ItemID": -1840162782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Andrajos de los no muertos",
+    "ItemID": -305440546,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto del erudito malvado",
+    "ItemID": -919709436,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de gemas peque\u00F1o",
+    "ItemID": 1150376281,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de estanter\u00EDas de almacenamiento amplias",
+    "ItemID": 1519475093,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semillas de zarza de la peste",
+    "ItemID": -1495639636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hierro",
+    "ItemID": -903587404,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de hierro despiadada",
+    "ItemID": -1783670291,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gema normal",
+    "ItemID": -2099422426,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rinc\u00F3n de artesanos",
+    "ItemID": -1221174479,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de cazador de sangre",
+    "ItemID": -1788912715,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de hueso",
+    "ItemID": 1557814269,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mochila cuero pr\u00EDstino",
+    "ItemID": 1117281334,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de hierro",
+    "ItemID": -314614708,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esencia de sangre primigenia",
+    "ItemID": 1566989408,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de karambits ancestrales",
+    "ItemID": 3759455,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esencia de sangre",
+    "ItemID": 862477668,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de hierro",
+    "ItemID": 836066667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mochila cima de monta\u00F1a",
+    "ItemID": -1922998918,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya",
+    "ItemID": 1075994038,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de noble de medianoche",
+    "ItemID": 213736942,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de hueso reforzada",
+    "ItemID": 1402953369,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo real del buf\u00F3n",
+    "ItemID": 379281083,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capota",
+    "ItemID": -152150271,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de cobre",
+    "ItemID": 1499160417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedraniebla perfecta",
+    "ItemID": 750542699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de hierro despiadado",
+    "ItemID": 866934844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polvo espectral",
+    "ItemID": -2130812821,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa del Rey Inmortal",
+    "ItemID": -1067360120,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de la tormenta",
+    "ItemID": 182214837,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de mago oscuro",
+    "ItemID": -1147510581,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de hierro despiadada",
+    "ItemID": -517906196,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de maza ancestral",
+    "ItemID": -1810734832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n menor de resistencia solar",
+    "ItemID": -38051433,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hueso",
+    "ItemID": 269771183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sobrecarga",
+    "ItemID": -1090887222,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del templario carmes\u00ED",
+    "ItemID": -1344118299,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de cobre",
+    "ItemID": -1277074895,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedraniebla inmaculada",
+    "ItemID": -1963826510,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lingote de oro",
+    "ItemID": -1027710236,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cambio de polaridad",
+    "ItemID": -844537086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semilla de uva sagrada",
+    "ItemID": -1681104075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de armaduras",
+    "ItemID": 207381334,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de almas del general",
+    "ItemID": 1887724512,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de tormenta de nivel 3",
+    "ItemID": 189228039,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de materiales y gemas",
+    "ItemID": 686122001,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de lanza ancestral",
+    "ItemID": -958110636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gusano de seda",
+    "ItemID": -11246506,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alas de los ca\u00EDdos",
+    "ItemID": -1930402723,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Presagio del fin",
+    "ItemID": 1759077469,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polvobruja",
+    "ItemID": -223452038,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Documento",
+    "ItemID": 1334469825,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hueso",
+    "ItemID": -2085919458,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de cobre despiadada",
+    "ItemID": -1636801169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de grandes braseros",
+    "ItemID": 835610037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zapatos de harapos",
+    "ItemID": -2137364987,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de vigilante del crep\u00FAsculo",
+    "ItemID": -1595316636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de equipamiento",
+    "ItemID": 1249076837,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de escarcha de nivel 4",
+    "ItemID": -147757377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Azufre",
+    "ItemID": 880699252,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Madera maldita",
+    "ItemID": 608397239,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mil tormentas",
+    "ItemID": -1674680373,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Adornos de piedra",
+    "ItemID": -449615886,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": -1798608844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de escarcha",
+    "ItemID": 1729390800,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n de ferocidad",
+    "ItemID": -269326085,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de plata oscura",
+    "ItemID": 6711686,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de profeta profano",
+    "ItemID": 860383634,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya profana de nivel 4",
+    "ItemID": 1412786604,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de caballero siniestro",
+    "ItemID": 2020764183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla de alma del horror alado",
+    "ItemID": -222860772,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera de escarcha",
+    "ItemID": -483235215,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mochila cuero de murci\u00E9lago",
+    "ItemID": -181179773,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gema inmaculada",
+    "ItemID": 1613130430,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Oaksong",
+    "ItemID": 1102277512,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante del hechicero",
+    "ItemID": 587164554,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo de hierro",
+    "ItemID": -1993708658,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Coraz\u00F3n sangriento",
+    "ItemID": -135435342,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a sanguinaria",
+    "ItemID": -105026635,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n de hierro",
+    "ItemID": -768054337,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de luna sombr\u00EDa",
+    "ItemID": 1871735757,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Componente de sastrer\u00EDa excepcional",
+    "ItemID": 828271620,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de maceteros de semillas",
+    "ItemID": 1336896559,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo de plata oscura",
+    "ItemID": -960205578,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de pescado",
+    "ItemID": -205820651,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de nigromante",
+    "ItemID": 1939500376,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de ballestas ancestrales",
+    "ItemID": 572026243,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Coraz\u00F3n inmaculado",
+    "ItemID": -204051056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aguijonero feroz",
+    "ItemID": 447901086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco del caminante de sombras",
+    "ItemID": -849449432,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de escarcha de nivel 3",
+    "ItemID": 223899244,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polvo de gema",
+    "ItemID": 820932258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semilla de rosa de sangre",
+    "ItemID": 531984050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de nigromante",
+    "ItemID": 1840869087,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rata mutada",
+    "ItemID": -338333923,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco del caminante de sombras",
+    "ItemID": 763326246,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de espada ancestral",
+    "ItemID": -1421775051,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Apocalipsis",
+    "ItemID": 820408138,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de hachas ancestrales",
+    "ItemID": -1024626758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones del erudito malvado",
+    "ItemID": 703230071,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00E1scara de calavera",
+    "ItemID": -2125696865,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de Dr\u00E1cula siniestras",
+    "ItemID": 1646489863,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hueso",
+    "ItemID": 1821405450,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco de nigromante",
+    "ItemID": 2025615662,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lluvia del caos",
+    "ItemID": 1243967840,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de acechador nocturno",
+    "ItemID": -1183157751,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de luna sombr\u00EDa",
+    "ItemID": -262114802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tabla reforzada",
+    "ItemID": -1397591435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo sanguinario",
+    "ItemID": 722498174,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit sanguinario",
+    "ItemID": 1322545846,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Choque g\u00E9lido",
+    "ItemID": 55473000,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de coraza del temor",
+    "ItemID": -2104396934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fuente de sangre",
+    "ItemID": -1624411159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de \u00E1lamo oto\u00F1al",
+    "ItemID": -2035190786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colecci\u00F3n de moquetas espl\u00E9ndidas",
+    "ItemID": -96701352,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n de rosa de sangre",
+    "ItemID": 800879747,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bola de rayos",
+    "ItemID": 973763812,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botella llena de agua",
+    "ItemID": -1382451936,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de escarcha",
+    "ItemID": -1190496962,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bloque de piedra",
+    "ItemID": 689272399,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Topacio inmaculado",
+    "ItemID": -2051574178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mochila hilo de plata",
+    "ItemID": -261654929,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza espectral",
+    "ItemID": -455117097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pozo de agua",
+    "ItemID": -1205373095,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de cristal",
+    "ItemID": 594180030,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de Dr\u00E1cula malvado",
+    "ItemID": 114259912,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de luna sombr\u00EDa",
+    "ItemID": 1485993952,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa emplumada toki",
+    "ItemID": -589858836,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fuente de sangre",
+    "ItemID": 1755478077,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta sanguinaria",
+    "ItemID": 1856338018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chal de man\u00E1",
+    "ItemID": -2091288477,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tejido de sombras",
+    "ItemID": -1458997116,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla de alma de Solarus",
+    "ItemID": 2019195024,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza espectral",
+    "ItemID": 665418354,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Obsidiana",
+    "ItemID": -543524210,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de hierro despiadada",
+    "ItemID": -922125625,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de vigilante del crep\u00FAsculo",
+    "ItemID": 610958202,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto albaespina",
+    "ItemID": -930514044,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Suelos de la biblioteca",
+    "ItemID": -946177070,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Flor de fuego",
+    "ItemID": 455638025,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de cobre despiadada",
+    "ItemID": -192381912,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Madera sagrada",
+    "ItemID": -2014020548,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco de criado",
+    "ItemID": -353076115,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco de cenizo",
+    "ItemID": -1607893829,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de Dr\u00E1cula siniestros",
+    "ItemID": 993033515,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de plata oscura",
+    "ItemID": -184713893,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de hierro despiadado",
+    "ItemID": 1930526079,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza sanguinaria",
+    "ItemID": -1931117134,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera del caos",
+    "ItemID": -374243736,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "a45f2523444840c29f964f2d43ada733",
+    "ItemID": -167936394,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gachas radiantes",
+    "ItemID": 1851490036,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guarida de murci\u00E9lagos",
+    "ItemID": 1262845777,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": 526090146,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mordisquitos, la Rata P\u00FAtrida",
+    "ItemID": 927039475,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Manto de destructor viperino",
+    "ItemID": 136740861,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de la coraza del temor",
+    "ItemID": -1296203752,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mil tormentas",
+    "ItemID": 124616797,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rata",
+    "ItemID": 2029158532,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas sanguinarias",
+    "ItemID": -349470582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Explosi\u00F3n \u00F3sea",
+    "ItemID": -749764415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pargo de sangre",
+    "ItemID": -1779269313,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa llamarada ceniza",
+    "ItemID": -1023114892,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Quitina",
+    "ItemID": -953253466,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de merlot sangriento",
+    "ItemID": 991396285,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frasco de resistencia a sagrado",
+    "ItemID": 639992282,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de la ira",
+    "ItemID": -2013887729,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo sanguinario",
+    "ItemID": 1177453385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de hierro despiadada",
+    "ItemID": -276593802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o maldito",
+    "ItemID": -1897495615,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Caballero de la muerte",
+    "ItemID": -173571027,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astillas de l\u00E1tigo ancestral",
+    "ItemID": 1490846791,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semillas de lirio de luto",
+    "ItemID": -1386314668,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya profana de nivel 2",
+    "ItemID": -860388090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones del merodeador",
+    "ItemID": -2095610608,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera de escarcha",
+    "ItemID": 2134082866,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de esquivamaneceres",
+    "ItemID": 50824544,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cualquier pez",
+    "ItemID": 300582272,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del erudito malvado",
+    "ItemID": 1508214166,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cables de cobre",
+    "ItemID": -456161884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sombrero de copa",
+    "ItemID": 690259405,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de luna sombr\u00EDa",
+    "ItemID": -1752332712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo del fantasma",
+    "ItemID": -227965303,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de d\u00F3mina carga",
+    "ItemID": -1424521314,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bater\u00EDa cargada",
+    "ItemID": -412448857,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Papel",
+    "ItemID": 780044299,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de Alucard",
+    "ItemID": -1522497513,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo de hierro despiadado",
+    "ItemID": 1951565953,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n menor de resistencia al ajo",
+    "ItemID": 423790753,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de escarcha de nivel 1",
+    "ItemID": 1908312304,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hilo basto",
+    "ItemID": -1562867444,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rub\u00ED inmaculado",
+    "ItemID": 74811721,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Corcel de Rowdain",
+    "ItemID": -1270904319,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de plata oscura",
+    "ItemID": -1455388114,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de ilusi\u00F3n",
+    "ItemID": -941913536,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merlot sangriento",
+    "ItemID": 1223264867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lubina dorada de r\u00EDo",
+    "ItemID": 67930804,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de guardabosques siniestro",
+    "ItemID": 347441899,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mano del invierno",
+    "ItemID": 675187526,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cristal de sangre",
+    "ItemID": -1913156733,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ung\u00FCento de alima\u00F1a",
+    "ItemID": -1885959251,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de acechador nocturno",
+    "ItemID": -1354920908,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de gemas peque\u00F1o",
+    "ItemID": 1455590675,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de abedul oto\u00F1al",
+    "ItemID": 2000981302,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de bruja",
+    "ItemID": 1510182325,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de cazador de sangre",
+    "ItemID": -777417289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de archinigromante",
+    "ItemID": -749171183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del caminante de sombras",
+    "ItemID": 181112381,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cabeza de hombre lobo",
+    "ItemID": -2020831626,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de conocimiento grande",
+    "ItemID": 1823379076,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Trucha arco\u00EDris",
+    "ItemID": -149778795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de taquillas de almacenamiento",
+    "ItemID": -999518496,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Caja de explosivos mayor",
+    "ItemID": -1021407417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arcos y p\u00E9rgolas de jard\u00EDn",
+    "ItemID": -1645899934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada sanguinaria",
+    "ItemID": 195858450,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de harapos",
+    "ItemID": 1216450741,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u003Ccolor=#C52443\u003ELlave de sangre\u003C/color\u003E",
+    "ItemID": 1655869633,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de cobre despiadada",
+    "ItemID": -1455124124,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones del merodeador",
+    "ItemID": 1172935197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de Alucard",
+    "ItemID": -1564372276,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de espada ancestral",
+    "ItemID": -830893351,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de caballero siniestro",
+    "ItemID": -1385786654,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de huesos",
+    "ItemID": -1347054873,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lingote de cobre",
+    "ItemID": -1237019921,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas del merodeador",
+    "ItemID": 362386181,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Estanter\u00EDa de sangre ancha",
+    "ItemID": 489001758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chal de ermita\u00F1o",
+    "ItemID": 2147390246,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de pistolas ancestrales",
+    "ItemID": -1038642372,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de nigromante",
+    "ItemID": 1458279255,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de luna sombr\u00EDa",
+    "ItemID": -706178162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada sombr\u00EDa",
+    "ItemID": -1215982687,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botella de vidrio vac\u00EDa",
+    "ItemID": -437611596,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Paredes de c\u00E1rcel",
+    "ItemID": -2086890414,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hierro despiadada",
+    "ItemID": 1427084419,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo del caos",
+    "ItemID": -2133879652,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de luna sombr\u00EDa",
+    "ItemID": -1921018689,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya del caos de nivel 1",
+    "ItemID": 2130810069,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de hierro despiadada",
+    "ItemID": 1065194820,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de hierro",
+    "ItemID": -1579575933,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de hachas ancestrales",
+    "ItemID": -2147445292,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de nigromante",
+    "ItemID": -117205517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Estrella del alba",
+    "ItemID": -671246832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera del caos",
+    "ItemID": -209873380,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de pistolas ancestrales",
+    "ItemID": -1502177717,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de lanza ancestral",
+    "ItemID": 1717016192,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Electricidad",
+    "ItemID": -77555820,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de hueso",
+    "ItemID": 2038011836,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bufanda de Beatriz",
+    "ItemID": -2081646636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de escarcha de nivel 2",
+    "ItemID": 1030854657,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Trance neblinoso",
+    "ItemID": -1513121786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n encantada",
+    "ItemID": 248289327,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sacerdote esqueleto",
+    "ItemID": 1252366498,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Calavera corrupta",
+    "ItemID": -1508992859,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes colmillohueco",
+    "ItemID": -406808302,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00E1rgola de sangre",
+    "ItemID": -1199531707,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de hierro despiadadas",
+    "ItemID": -1596352033,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hilo imperial",
+    "ItemID": -898917584,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de vigilante del crep\u00FAsculo",
+    "ItemID": 322804535,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de roble",
+    "ItemID": -626353315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Brincanubes",
+    "ItemID": -2068145306,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza sombr\u00EDa",
+    "ItemID": 160471982,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya profana de nivel 1",
+    "ItemID": 803445709,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de cortinas reales",
+    "ItemID": 285318201,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones del templario carmes\u00ED",
+    "ItemID": 1328323768,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de cobre despiadada",
+    "ItemID": -1690985210,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de Dr\u00E1cula sombr\u00EDos",
+    "ItemID": -1826382550,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitra de nigromante",
+    "ItemID": 607559019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cuero grueso",
+    "ItemID": -305160765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de Dr\u00E1cula sombr\u00EDos",
+    "ItemID": -345596442,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rub\u00ED perfecto",
+    "ItemID": 188653143,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Venas de gemas normales",
+    "ItemID": 889298519,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de cobre despiadada",
+    "ItemID": -1003381140,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Setas alucin\u00F3genas",
+    "ItemID": -1566269773,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de resistencia al ajo",
+    "ItemID": 791584738,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de carpinter\u00EDa grande",
+    "ItemID": 206151993,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de caballero siniestro",
+    "ItemID": -1023762087,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco de nigromante",
+    "ItemID": -2100321922,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedra",
+    "ItemID": -1531666018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maldici\u00F3n vamp\u00EDrica",
+    "ItemID": -1844141622,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ritual de sangre",
+    "ItemID": -2059886133,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de caballero siniestro",
+    "ItemID": -534142437,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de mago oscuro",
+    "ItemID": 138060378,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Luces flotantes",
+    "ItemID": 1594270493,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Manto real de los reyes cenizos",
+    "ItemID": 584164197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mant\u00F3n cosido glacial",
+    "ItemID": -24337506,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de consumibles peque\u00F1o",
+    "ItemID": -1624005683,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hilo de lana",
+    "ItemID": 1872733144,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco de acechador nocturno",
+    "ItemID": -957963240,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silla de caballo vampiro",
+    "ItemID": -1209228232,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Choque g\u00E9lido",
+    "ItemID": -441408420,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": -684874624,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada sanguinaria",
+    "ItemID": -774462329,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de tejehechizos superior",
+    "ItemID": -1306155896,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moneda de orosol",
+    "ItemID": -571562864,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9plica",
+    "ItemID": 685024499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de resistencia al ajo",
+    "ItemID": -2139183850,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas de plata oscura",
+    "ItemID": 674407758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9gida fantasmal",
+    "ItemID": 870884715,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pila de cad\u00E1veres de sangre",
+    "ItemID": 34841965,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de mago oscuro",
+    "ItemID": 1247389106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polvo de tumba",
+    "ItemID": -608131642,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hueso",
+    "ItemID": -1905547794,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de vigilante del crep\u00FAsculo",
+    "ItemID": 735880687,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de soportes de velas finas",
+    "ItemID": 1341367867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maldici\u00F3n vamp\u00EDrica",
+    "ItemID": -1337809256,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": 1110550218,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya del caos de nivel 4",
+    "ItemID": -1796954295,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de cobre despiadada",
+    "ItemID": 790210443,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Murci\u00E9lago de escarcha",
+    "ItemID": 1793042384,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de hueso reforzado",
+    "ItemID": 926722036,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Descarga",
+    "ItemID": 1533847605,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bruja de sangre",
+    "ItemID": 1452779821,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de hueso",
+    "ItemID": -152327780,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tabla",
+    "ItemID": -1017402979,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de hueso reforzada",
+    "ItemID": -1998017941,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amatista inmaculada",
+    "ItemID": 1705028227,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "El Pez",
+    "ItemID": 176401052,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mineral de hierro",
+    "ItemID": 1332980397,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del merodeador",
+    "ItemID": -764630320,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espiral sanguinaria",
+    "ItemID": 75934448,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hueso",
+    "ItemID": 1413130999,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo sanguinario",
+    "ItemID": -1033721040,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de la coraza del temor",
+    "ItemID": 1395895315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de cazador de sangre",
+    "ItemID": -2102875089,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes guardahuesos",
+    "ItemID": -2029933415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de Dr\u00E1cula",
+    "ItemID": 125611165,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Disfraz de barril",
+    "ItemID": -82465606,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cavatumbas",
+    "ItemID": 2106567892,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto del templario carmes\u00ED",
+    "ItemID": -1641042717,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Venas de gemas inmaculadas",
+    "ItemID": 301051123,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de tejehechizos",
+    "ItemID": 1012837641,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astillas de arco largo ancestral",
+    "ItemID": 649637190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esmeralda normal",
+    "ItemID": 357608868,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de la ira",
+    "ItemID": -1568756102,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas de hierro",
+    "ItemID": -1265586439,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ritual de sangre",
+    "ItemID": 1881059081,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de ilusi\u00F3n de nivel 4",
+    "ItemID": 97169184,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa de las mil puntadas",
+    "ItemID": 1275572025,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sobrecarga",
+    "ItemID": -1166627007,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piel resistente",
+    "ItemID": -1222725729,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silla de qu\u00EDmico de la peste",
+    "ItemID": -554782766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de hueso reforzada",
+    "ItemID": 1244180446,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Algod\u00F3n",
+    "ItemID": -656822228,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mineral de azufre",
+    "ItemID": 1501868129,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones del templario carmes\u00ED",
+    "ItemID": 680112231,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta sombr\u00EDa",
+    "ItemID": 1957540013,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gran yelmo del Rey Inmortal",
+    "ItemID": 238268650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Calavera corrupta",
+    "ItemID": -1183600395,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de la tormenta",
+    "ItemID": -1416449755,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9plica",
+    "ItemID": -651841188,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de guardabosques siniestro",
+    "ItemID": -1242910338,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de cobre",
+    "ItemID": -2037272000,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seda",
+    "ItemID": 702067317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nova de hielo",
+    "ItemID": 1123463900,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vac\u00EDo",
+    "ItemID": 157004582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a sanguinaria",
+    "ItemID": -2053917766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de pinturas elegantes",
+    "ItemID": 38319072,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Morador de pantanos",
+    "ItemID": 177845365,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cardo",
+    "ItemID": -598100816,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas del templario carmes\u00ED",
+    "ItemID": -1329744719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ant\u00E1rbol de sangre",
+    "ItemID": -112151309,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes albaespina",
+    "ItemID": 2055058719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lluvia del caos",
+    "ItemID": -1111771702,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo de hierro despiadado",
+    "ItemID": -1003309553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de ilusi\u00F3n de nivel 2",
+    "ItemID": 437696083,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mochila de bandidos",
+    "ItemID": -219760992,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de hierbas peque\u00F1o",
+    "ItemID": -853559619,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de hierro despiadada",
+    "ItemID": 1177597629,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de resistencia a sagrado",
+    "ItemID": 890484447,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de cazador de sangre",
+    "ItemID": 1067300584,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lobo espectral",
+    "ItemID": -1444759832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de mago oscuro",
+    "ItemID": -454576348,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de hierro despiadado",
+    "ItemID": 1942009728,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla estigia primigenia",
+    "ItemID": 28358550,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lingote de hierro",
+    "ItemID": -1750550553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de minero",
+    "ItemID": -687294429,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polvo vamp\u00EDrico",
+    "ItemID": 805157024,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de cobre despiadada",
+    "ItemID": 343324920,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de guada\u00F1a ancestral",
+    "ItemID": 886814985,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vac\u00EDo",
+    "ItemID": 666089763,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Estanter\u00EDa de sangre estrecha",
+    "ItemID": -130369231,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de materiales y gemas",
+    "ItemID": -651642571,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de tejehechizos",
+    "ItemID": -886916793,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de nigromante",
+    "ItemID": -1913800363,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n de resistencia al fuego",
+    "ItemID": 2114304481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de Dr\u00E1cula",
+    "ItemID": 1055898174,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo sanguinario",
+    "ItemID": 1860352606,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de hueso",
+    "ItemID": -1958888844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Topacio en bruto",
+    "ItemID": 867351268,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de vigilante del crep\u00FAsculo",
+    "ItemID": -809059551,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de hierbas grande",
+    "ItemID": 473545520,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Coraz\u00F3n pr\u00EDstino",
+    "ItemID": -1413694594,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de conocimiento peque\u00F1o",
+    "ItemID": -1394295910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de piedrazote",
+    "ItemID": -650855520,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a sanguinaria",
+    "ItemID": 1350548439,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit sanguinario",
+    "ItemID": 821410795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gema normal",
+    "ItemID": -36717533,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas albaespina",
+    "ItemID": 560446510,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto guardahuesos",
+    "ItemID": 329301090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de oro",
+    "ItemID": -1749304196,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedra de afilar",
+    "ItemID": 1252507075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mant\u00F3n del Rey Inmortal",
+    "ItemID": 1284160983,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sobrecarga",
+    "ItemID": 1168555540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Oaksong",
+    "ItemID": -557203874,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lluvia del caos",
+    "ItemID": 818069106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto colmillohueco",
+    "ItemID": -625033436,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Paredes de piedra decorativas",
+    "ItemID": -1957642407,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ca\u00F1a de pescar",
+    "ItemID": -1766408331,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de sangre",
+    "ItemID": -431964258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de archinigromante",
+    "ItemID": 1380368392,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Quemadura del alma",
+    "ItemID": 1277476884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Quitina",
+    "ItemID": -1199259626,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Caminos de gravilla",
+    "ItemID": -94650344,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F3bido gordo",
+    "ItemID": -1642545082,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colecci\u00F3n de moquetas elegantes",
+    "ItemID": -1696677607,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit sanguinario",
+    "ItemID": 615301463,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de caballero siniestro",
+    "ItemID": -1279475298,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de hierro despiadada",
+    "ItemID": -977419819,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pescado fresco",
+    "ItemID": 193249843,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o melanc\u00F3lico",
+    "ItemID": -1800289670,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cuero",
+    "ItemID": -1907572080,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00E1scara guardahuesos",
+    "ItemID": -2111388989,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espiral sanguinaria",
+    "ItemID": -562511117,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de espada maestra",
+    "ItemID": 1702347530,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de hierro despiadadas",
+    "ItemID": 198951695,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de maza ancestral",
+    "ItemID": -1845443712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Surtido de braseros finos",
+    "ItemID": 742900616,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas del merodeador",
+    "ItemID": -1359494169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de resistencia a la plata",
+    "ItemID": 2107622409,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de cerezo blanco en flor",
+    "ItemID": 1738392650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Traje formal empapado de qu\u00EDmicos",
+    "ItemID": 821609569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mobiliario de jard\u00EDn y linternas",
+    "ItemID": -1060453249,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cambio de polaridad",
+    "ItemID": -944716649,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de sangre de nivel 2",
+    "ItemID": -996555621,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aleaci\u00F3n de radio",
+    "ItemID": 2116142390,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de le\u00F1ador",
+    "ItemID": 1541522788,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mano del invierno",
+    "ItemID": -915028618,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de guardabosques siniestro",
+    "ItemID": -1993947781,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de cipr\u00E9s",
+    "ItemID": -1043479168,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": 172410251,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa de Alucard",
+    "ItemID": -1177172544,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de cobre despiadado",
+    "ItemID": -1042299347,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones del caminante de sombras",
+    "ItemID": 1364444719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Quemadura del alma",
+    "ItemID": 282707515,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de hierro despiadada",
+    "ItemID": 2001389164,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anillo de vigilante del crep\u00FAsculo",
+    "ItemID": -293419350,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leotardos colmillohueco",
+    "ItemID": 1217578824,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco de guardabosques siniestro",
+    "ItemID": 1809631067,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de monedas",
+    "ItemID": -832387204,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de vigilante del crep\u00FAsculo",
+    "ItemID": 762038154,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hierro despiadada",
+    "ItemID": -435501075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas de hierro despiadadas",
+    "ItemID": 1370998844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guardi\u00E1n de sangre",
+    "ItemID": 886819019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de nigromante",
+    "ItemID": -399521517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmento de demonio",
+    "ItemID": -77477508,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de caballero vampiro",
+    "ItemID": 1966590385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de profeta profano",
+    "ItemID": -175650376,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de bruja",
+    "ItemID": -1563178470,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colecci\u00F3n de mesas de comedor elegantes",
+    "ItemID": -1236809045,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto guardahuesos reforzado",
+    "ItemID": -958936382,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esporas de seta fantasma",
+    "ItemID": 1762839393,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moneda de cobre",
+    "ItemID": 28625845,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de vigilante del crep\u00FAsculo",
+    "ItemID": 744344540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedrazote",
+    "ItemID": 1005440012,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leotardos albaespina",
+    "ItemID": -1555051415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lingote de plata oscura",
+    "ItemID": -762000259,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Corona del archimago",
+    "ItemID": -2128818978,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capucha de destructor",
+    "ItemID": -1797796642,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cortina de rel\u00E1mpagos",
+    "ItemID": -464466648,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mosquito",
+    "ItemID": 961990006,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cicl\u00F3n",
+    "ItemID": -341717525,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esmeralda inmaculada",
+    "ItemID": 1898237421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Suelo de la c\u00E1mara de joyer\u00EDa",
+    "ItemID": 626118128,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mosquito",
+    "ItemID": -928330249,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa del cardenal",
+    "ItemID": -1768698241,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de d\u00F3mina carga",
+    "ItemID": -1004351840,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fibra radiante",
+    "ItemID": -182923609,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bater\u00EDa descargada",
+    "ItemID": 1270271716,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco de caballero",
+    "ItemID": -1818243335,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Descarga",
+    "ItemID": -313733383,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espad\u00F3n sangu\u00EDneo",
+    "ItemID": 147836723,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa bermell\u00F3n gastada",
+    "ItemID": 707710831,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lobo espectral",
+    "ItemID": 1520619383,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de Dr\u00E1cula del temor",
+    "ItemID": -382349289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n de resistencia a la plata",
+    "ItemID": -1269116849,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas del caminante de sombras",
+    "ItemID": -383004511,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9gida fantasmal",
+    "ItemID": -1766731531,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco de la milicia",
+    "ItemID": 417648894,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de Dr\u00E1cula",
+    "ItemID": 1400688919,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de sastrer\u00EDa grande",
+    "ItemID": -63123159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de manzano",
+    "ItemID": 1226559814,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza sanguinaria",
+    "ItemID": -1396190808,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polen",
+    "ItemID": 855691699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mant\u00F3n de cazavampiros",
+    "ItemID": 1335546377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de Dr\u00E1cula siniestro",
+    "ItemID": 1033753207,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de rosa de sangre",
+    "ItemID": 429052660,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas sanguinarias",
+    "ItemID": -1519267007,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de sangre",
+    "ItemID": -1302801575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de comandante carmes\u00ED",
+    "ItemID": -104934480,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco de palad\u00EDn",
+    "ItemID": 1780339680,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de hueso reforzado",
+    "ItemID": 898159697,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bolsa de cuero",
+    "ItemID": -1991977825,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Brincanubes",
+    "ItemID": 1954207008,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas sombr\u00EDas",
+    "ItemID": 2100090213,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esporas de clar\u00EDn del infierno",
+    "ItemID": -1987586694,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Quemadura del alma",
+    "ItemID": 897635802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de ilusi\u00F3n de nivel 1",
+    "ItemID": 1387124262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones del erudito malvado",
+    "ItemID": -2049321404,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Madera tallada",
+    "ItemID": -793913499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tocadores y biombos",
+    "ItemID": -1676748911,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de cerezo en flor",
+    "ItemID": 1818351545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alas de los ca\u00EDdos",
+    "ItemID": 1570363331,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de cazador de sangre",
+    "ItemID": -1718233147,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de tormenta de nivel 1",
+    "ItemID": -560146452,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo del caos",
+    "ItemID": 155899991,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas guardahuesos reforzadas",
+    "ItemID": 1241831522,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Llanto de sirena",
+    "ItemID": -1401104184,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pistolas sanguinarias",
+    "ItemID": -944318126,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mant\u00F3n cosido del caos",
+    "ItemID": -168044197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Coraz\u00F3n exquisito",
+    "ItemID": -1965958712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de caballero siniestro",
+    "ItemID": -1261118965,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo de hierro",
+    "ItemID": -847062445,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bote lleno de lodo",
+    "ItemID": -1823614190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas colmillohueco",
+    "ItemID": -1837769884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza sanguinaria",
+    "ItemID": -850142339,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de ilusi\u00F3n de nivel 3",
+    "ItemID": 1540217782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de huesos",
+    "ItemID": -1913987811,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de cazador de sangre",
+    "ItemID": 206495029,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Brebaje vamp\u00EDrico",
+    "ItemID": -2102469163,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del templario carmes\u00ED",
+    "ItemID": -327754127,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de consumibles grande",
+    "ItemID": 824237901,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de huesos",
+    "ItemID": -1180115034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo de cobre despiadado",
+    "ItemID": 352247730,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta de hierro despiadada",
+    "ItemID": 1221976097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bufanda de criada",
+    "ItemID": -1460281233,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de sangre",
+    "ItemID": 828432508,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Odre lleno",
+    "ItemID": -1322000172,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rata gigante",
+    "ItemID": 213967097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de tormenta de nivel 4",
+    "ItemID": 2023809276,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polvo de piedra",
+    "ItemID": 1388962120,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco de guardabosques siniestro",
+    "ItemID": 1753801067,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante de esquivamaneceres",
+    "ItemID": -1046748791,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya del caos de nivel 2",
+    "ItemID": 1083105737,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arcilla",
+    "ItemID": 317317590,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de carpinter\u00EDa peque\u00F1o",
+    "ItemID": 1040245278,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de cristal",
+    "ItemID": -2117279191,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo de hierro despiadado",
+    "ItemID": -1793793429,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cabeza de ciervo",
+    "ItemID": 1707139699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cabeza de oso",
+    "ItemID": 714007172,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Manto del Rey Inmortal",
+    "ItemID": -1814109557,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cicl\u00F3n",
+    "ItemID": -1697520941,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moquetas simples",
+    "ItemID": 1383064284,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bola de rayos",
+    "ItemID": -1703746731,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de coraza del temor",
+    "ItemID": -481041545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semilla de flor de fuego",
+    "ItemID": 675013523,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes del merodeador",
+    "ItemID": -258808647,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones de harapos",
+    "ItemID": 725607617,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cristal fantasma",
+    "ItemID": -1748835106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa de destructor viperino",
+    "ItemID": 1410262258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo del caos",
+    "ItemID": 1613948207,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Llave del castillo de hueso\nde nivel 1",
+    "ItemID": 960030104,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lana fantasma",
+    "ItemID": 2106123809,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cuero de murci\u00E9lago",
+    "ItemID": -1886460367,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F3lem de sangre",
+    "ItemID": -364321170,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Harp\u00EDa sangrienta",
+    "ItemID": 215017089,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Caballero de la muerte",
+    "ItemID": -318118264,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Maza de hueso",
+    "ItemID": 1588258447,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Llave del castillo de cobre\nde nivel 2",
+    "ItemID": 724428437,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de sangre",
+    "ItemID": 1692133021,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de cobre despiadada",
+    "ItemID": -1219959051,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": -314251399,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reto\u00F1o de pino",
+    "ItemID": 1227483037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Barrera de los malditos",
+    "ItemID": 665184248,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de hierro despiadadas",
+    "ItemID": 1259464735,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de jinete",
+    "ItemID": 541321301,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de tejehechizos superior",
+    "ItemID": -1803818846,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rub\u00ED normal",
+    "ItemID": 51046573,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo de cobre despiadado",
+    "ItemID": 460843266,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cualquier flor",
+    "ItemID": -2101941878,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Uvas sagradas",
+    "ItemID": 88009216,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astillas de arco largo ancestral",
+    "ItemID": 19130904,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Furia de sangre",
+    "ItemID": 662891042,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ca\u00F1a de pescar",
+    "ItemID": 1302850112,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Invocatardeceres",
+    "ItemID": 1128262258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Casco de cazavampiros",
+    "ItemID": -1785271534,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mineral de cobre",
+    "ItemID": -1805325497,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Joya de sangre de nivel 3",
+    "ItemID": -41686151,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rata",
+    "ItemID": -869864524,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto del caballero vampiro",
+    "ItemID": 1953885108,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rayo de sombras",
+    "ItemID": 918613164,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cuarzo",
+    "ItemID": -1583485601,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Piedra de g\u00F3lem de asedio",
+    "ItemID": -1461326411,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Estandartes",
+    "ItemID": -1321865795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Esmeralda en bruto",
+    "ItemID": -237441421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arco largo de plata oscura",
+    "ItemID": -1830162796,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mosquito",
+    "ItemID": 902426262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas sanguinarias",
+    "ItemID": -102830349,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de la coraza del temor",
+    "ItemID": -196284663,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mineral de oro",
+    "ItemID": 660533034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espada de hierro despiadada",
+    "ItemID": 1637216050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rastreo de sangre",
+    "ItemID": -170922187,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hachas de plata oscura",
+    "ItemID": -1130238142,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amuleto de espada maestra",
+    "ItemID": -296161379,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9gida fantasmal",
+    "ItemID": 1123282909,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lingote de plata",
+    "ItemID": -1787563914,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de armas",
+    "ItemID": -1564741377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Girasol",
+    "ItemID": 1105981714,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guantes de caballero siniestro",
+    "ItemID": 998240678,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de espadones ancestrales",
+    "ItemID": -1638796801,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seta fantasma",
+    "ItemID": -164367832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Choque g\u00E9lido",
+    "ItemID": -930352575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gema",
+    "ItemID": 2115367516,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9plica",
+    "ItemID": 1035334240,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de luna sombr\u00EDa",
+    "ItemID": 502133568,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cristal",
+    "ItemID": -257494203,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaleco del merodeador",
+    "ItemID": -112921782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ballesta sanguinaria",
+    "ItemID": 935392085,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mant\u00F3n empapado de qu\u00EDmicos",
+    "ItemID": -1514540144,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fragmentos de espada ancestral",
+    "ItemID": 1048769481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n de resistencia al fuego",
+    "ItemID": 970650569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas guardahuesos",
+    "ItemID": 711062517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de hueso",
+    "ItemID": -588909332,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cavatumbas",
+    "ItemID": 220001518,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Caja de explosivos menor",
+    "ItemID": 1779299585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cambio de polaridad",
+    "ItemID": -189270614,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de nigromante",
+    "ItemID": 1204352435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Poci\u00F3n de sangre",
+    "ItemID": -1871776321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1tigo sanguinario",
+    "ItemID": 429323760,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Astilla de alma del monstruo",
+    "ItemID": -1581189572,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chal de destructor viperino",
+    "ItemID": -766642494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ladrillo de piedra",
+    "ItemID": 1788016417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alimentar al prisionero",
+    "ItemID": 1814558673,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": " ",
+    "ItemID": -1624770558,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de cazador de sangre",
+    "ItemID": 666433583,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Carb\u00F3n",
+    "ItemID": -1932461974,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Guada\u00F1a de cobre",
+    "ItemID": 1522792650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "666ae7ccf3c54914b76a623033db5fe6",
+    "ItemID": -580716317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Extraer esencia de sangre",
+    "ItemID": -911541799,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Peto de cazador de sangre",
+    "ItemID": 1561721357,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gorro de peregrino",
+    "ItemID": -1071187362,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Semilla de coraz\u00F3n sangriento",
+    "ItemID": -1463158090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ritual de sangre",
+    "ItemID": 1799289635,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vidrio",
+    "ItemID": -1233716303,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Madera",
+    "ItemID": -1593377811,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas del erudito malvado",
+    "ItemID": 1469185034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Infusi\u00F3n de ferocidad",
+    "ItemID": 1556544548,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Suelos de la c\u00E1rcel",
+    "ItemID": 1718353003,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Suelos del taller",
+    "ItemID": 1906638073,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pantalones del caminante de sombras",
+    "ItemID": -90702575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de Dr\u00E1cula sombr\u00EDas",
+    "ItemID": 1855323424,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karambit de plata oscura",
+    "ItemID": 633666898,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo del bosque",
+    "ItemID": 1063517722,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almacenamiento de sastrer\u00EDa peque\u00F1o",
+    "ItemID": -1304625582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanza de hierro",
+    "ItemID": 1853029976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Capa de cuero oscuro",
+    "ItemID": 1261174372,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Velo de escarcha",
+    "ItemID": -710738056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas del templario carmes\u00ED",
+    "ItemID": 1529216919,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arma ancestral",
+    "ItemID": -1573584970,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Colgante del hechicero",
+    "ItemID": 199425997,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Botas de vigilante del crep\u00FAsculo",
+    "ItemID": 51576788,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  }
+]

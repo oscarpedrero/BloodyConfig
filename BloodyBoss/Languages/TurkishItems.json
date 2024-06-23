@@ -1,0 +1,6673 @@
+[
+  {
+    "name": "B\u00FCy\u00FCk Stygian Par\u00E7as\u0131",
+    "ItemID": 576389135,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130ll\u00FCzyon \u00D6rt\u00FCs\u00FC",
+    "ItemID": 606339127,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Arbalet Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 2061238391,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mor T\u00FCyl\u00FC Pelerin",
+    "ItemID": 1677983904,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCc\u00FC Eldiveni",
+    "ItemID": -46006079,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma B\u00FCy\u00FCk K\u0131l\u0131\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1743584975,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk G\u00F6lge K\u0131l\u0131c\u0131",
+    "ItemID": 1322254792,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00FCkemmel Safir",
+    "ItemID": -2020212226,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mutant Ya\u011F\u0131",
+    "ItemID": -1527315816,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u011Fursuz Korucu Eldiveni",
+    "ItemID": -752418019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ham Pusta\u015F\u0131",
+    "ItemID": -1129708579,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pamuk \u0130pli\u011Fi",
+    "ItemID": 444400639,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Terzi Zemini D\u00F6\u015Femesi",
+    "ItemID": -137886670,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Teknolojik Hurda",
+    "ItemID": 834864259,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pasl\u0131 Mi\u011Ffer",
+    "ItemID": 1364460757,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FClhalk Kristali Buz Pelerin",
+    "ItemID": 239338934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kuma\u015F",
+    "ItemID": -700774739,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk Simya Deposu",
+    "ItemID": 11798247,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz \u00C7izmesi",
+    "ItemID": -1601304786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n Korkun\u00E7 G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 1392314162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mortira\u0027n\u0131n A\u011F\u0131t\u0131",
+    "ItemID": -859437190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vazolar ve Bitkiler",
+    "ItemID": 1428883363,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk \u00C7e\u015Fme",
+    "ItemID": -1171060793,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r Baltalar",
+    "ItemID": 660670410,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz\u0131n Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": 336922685,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Behemot\u0027un Ruh Par\u00E7ac\u0131\u011F\u0131",
+    "ItemID": 1247086852,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk Malzeme Deposu",
+    "ItemID": -513865346,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6r\u00FCmcek Yavrusu",
+    "ItemID": 2015299972,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCl\u00FC Dem",
+    "ItemID": 492964298,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 K\u0131rba\u00E7",
+    "ItemID": -655095317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ya\u015Fayan \u00D6l\u00FC General\u0027in Mi\u011Fferi",
+    "ItemID": 764480170,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tala\u015F",
+    "ItemID": -1979905169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Tabancalar",
+    "ItemID": 1850870666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Kanl\u0131 K\u0131l\u0131\u00E7",
+    "ItemID": -1173681254,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard\u0027\u0131n Paltosu",
+    "ItemID": 1712262077,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge K\u0131rbac\u0131",
+    "ItemID": 567413754,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanatl\u0131 Deh\u015Fet\u0027in Ruh Par\u00E7ac\u0131\u011F\u0131",
+    "ItemID": -1260254082,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cehennem Borusu",
+    "ItemID": 813370507,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCc\u00FC Pantolonu",
+    "ItemID": -595456862,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ba\u015F \u015Eeytan\u0131n Kuyru\u011Fu",
+    "ItemID": 1863126275,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pamuk",
+    "ItemID": 362941759,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkuluk Maskesi",
+    "ItemID": 403967307,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Z\u0131rhl\u0131 Kemik Muhaf\u0131z Eldiveni",
+    "ItemID": 1746537832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCl\u00FC Me\u015Fale \u00C7e\u015Fitleri",
+    "ItemID": 879103343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kale Bak\u0131m\u0131",
+    "ItemID": 421203343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge M\u0131zra\u011F\u0131",
+    "ItemID": 1307774440,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir G\u00F6vde",
+    "ItemID": 988417522,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "E\u011Fik Di\u015F Pantolonu",
+    "ItemID": 12127911,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Tabanca Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 1040125618,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCc\u00FC G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -2127687996,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanepe ve Divan Koleksiyonu",
+    "ItemID": 2053574378,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Gezgini Eldiveni",
+    "ItemID": 1014370193,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik K\u0131l\u0131\u00E7",
+    "ItemID": 1328680870,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Siren\u0027in Feryad\u0131",
+    "ItemID": 781586362,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Titrek Kavak Fidan\u0131",
+    "ItemID": 1996361886,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F Arbalet",
+    "ItemID": -814739263,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz\u0131n Kolyesi",
+    "ItemID": -651554566,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Bariyeri",
+    "ItemID": 1381699867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik K\u0131l\u0131\u00E7",
+    "ItemID": -786493143,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Balta Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 442700150,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kasvet Odunu",
+    "ItemID": -1740500585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "4. Kademe Kan M\u00FCcevheri",
+    "ItemID": 271061481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Veba Doktoru Maskesi",
+    "ItemID": -262204844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015E\u00F6mineler",
+    "ItemID": -946597284,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eematik",
+    "ItemID": 2085163661,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Yumak",
+    "ItemID": 1785926321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r G\u00FCrz",
+    "ItemID": -331345186,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FC Pantolonu",
+    "ItemID": 1912738568,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FClhalk Tac\u0131",
+    "ItemID": -1988816037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r M\u0131zrak",
+    "ItemID": 1370755976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Malzeme Deposu",
+    "ItemID": -1061940339,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Arbalet",
+    "ItemID": 1389040540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alt\u0131n Kale Anahtar\u0131\n4/5. Seviye",
+    "ItemID": 551949280,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00D6fkesi",
+    "ItemID": 343217159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n Eldiveni",
+    "ItemID": -204401621,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hizmet\u00E7i Ba\u015Fl\u0131\u011F\u0131",
+    "ItemID": -1721887666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Gezgini \u00C7izmesi",
+    "ItemID": 1101206623,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130skelet",
+    "ItemID": -836889492,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkun\u00E7 Plakal\u0131 \u00C7izme",
+    "ItemID": 1192629421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Orak",
+    "ItemID": -2081286944,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma G\u00FCrz Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 1963988265,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130pek B\u00F6ce\u011Fi",
+    "ItemID": 930747930,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanetliler M\u0131nt\u0131kas\u0131",
+    "ItemID": 1479677538,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan G\u00FCl\u00FC",
+    "ItemID": 1726420644,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u201CCandan\u201D Duvar Panelleri",
+    "ItemID": -581757157,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00FCcevher Deposu",
+    "ItemID": -1870194782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "1. Kademe Kan M\u00FCcevheri",
+    "ItemID": -113436752,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Parke Ta\u015F\u0131 Yollar",
+    "ItemID": 2094602185,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Han\u00E7er Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1390536751,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Orak",
+    "ItemID": 1778128946,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7apulcu Yele\u011Fi",
+    "ItemID": 1850873910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eeytani Alimin \u00C7izmesi",
+    "ItemID": -1958602686,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n Ruh Par\u00E7ac\u0131\u011F\u0131",
+    "ItemID": 666638454,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Matemli Zambak",
+    "ItemID": -363718499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir \u015E\u00F6valye Eldiveni",
+    "ItemID": -745793193,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seher Kapan",
+    "ItemID": -570287766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ham Safir",
+    "ItemID": 552409457,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u011Fursuz Korucu \u00C7izmesi",
+    "ItemID": -668460646,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Patlamas\u0131",
+    "ItemID": -1123608041,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6le Mi\u011Fferi",
+    "ItemID": 1587354182,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard\u0027\u0131n \u00C7izmesi",
+    "ItemID": -1214309698,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eafak Ko\u015Fucusunun Kolyesi",
+    "ItemID": -224716062,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bo\u015F Matara",
+    "ItemID": -810738866,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131ld\u0131r\u0131m Perdesi",
+    "ItemID": 394140527,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mortira\u0027n\u0131n A\u011F\u0131t\u0131",
+    "ItemID": 1801132968,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Z\u0131rhl\u0131 Kemik Muhaf\u0131z Pantolonu",
+    "ItemID": -2036196416,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCc\u00FCn\u00FCn Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": 1310923765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kal\u0131n Post",
+    "ItemID": -2047402903,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz B\u00FCy\u00FCk Demir K\u0131l\u0131\u00E7",
+    "ItemID": 869276797,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Has\u0131r \u015Eapka",
+    "ItemID": 1375804543,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ufak G\u00FCne\u015F Direnci Demi",
+    "ItemID": 756555009,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Uzun Yay Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 285875674,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00C7e\u015Fmesi",
+    "ItemID": -312598876,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 G\u00FCrz",
+    "ItemID": -567468235,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6steri\u015Fsiz Bah\u00E7e Saks\u0131lar\u0131",
+    "ItemID": -1383718976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusursuz Safir",
+    "ItemID": -1147920398,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tedarik\u00E7iler",
+    "ItemID": -696770536,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Varsay\u0131lan Ta\u015F",
+    "ItemID": -2017255390,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7oban \u0130ksiri",
+    "ItemID": -1242947472,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Onyx G\u00F6zya\u015F\u0131",
+    "ItemID": -651878258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131ld\u0131r\u0131m Perdesi",
+    "ItemID": -2134499162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lamba Direkleri",
+    "ItemID": 776216743,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCm\u00FC\u015F Cevheri",
+    "ItemID": 1686577386,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r Orak",
+    "ItemID": 1048518929,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkun\u00E7 Plakal\u0131 G\u00F6\u011F\u00FCsl\u00FCk",
+    "ItemID": 750788905,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Vuru\u015Fu",
+    "ItemID": -309124704,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "F\u0131rt\u0131na \u00D6rt\u00FCs\u00FC",
+    "ItemID": -556391992,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ya\u011F",
+    "ItemID": -242277891,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Elementi",
+    "ItemID": -2141642225,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u201CYuva\u201D Duvar Panelleri",
+    "ItemID": -106224889,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Safir",
+    "ItemID": 131015492,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Basit Bah\u00E7e Saks\u0131lar\u0131",
+    "ItemID": 1307976528,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir Laneti",
+    "ItemID": -2137054310,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz B\u00FCy\u00FCk Demir K\u0131l\u0131\u00E7",
+    "ItemID": 82781195,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131l\u00E7\u0131k",
+    "ItemID": 424158416,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r Baltalar",
+    "ItemID": -491969324,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eafak Ko\u015Fucusunun Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": -1542642288,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCm\u00FC\u015F Para",
+    "ItemID": -949672483,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Topaz",
+    "ItemID": -2118441460,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan G\u00FCl\u00FC Demi",
+    "ItemID": -895015382,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCm Perisi",
+    "ItemID": -1513937321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Baltalar",
+    "ItemID": -2044057823,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Koruyucu",
+    "ItemID": -1755568324,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F M\u0131zrak",
+    "ItemID": -352704566,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7 \u00C7ekirde\u011Fi",
+    "ItemID": -1190647720,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rezonat\u00F6r",
+    "ItemID": -1629804427,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz B\u00FCy\u00FCk Demir K\u0131l\u0131\u00E7",
+    "ItemID": 1126901893,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u00DCrpertici Eldiveni",
+    "ItemID": 1039083725,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Orak Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -413259500,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FC G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -69916288,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "3. Kademe Kaos M\u00FCcevheri",
+    "ItemID": -1601295908,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Komutan\u0131n Muskas\u0131",
+    "ItemID": -1063966176,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Solarus\u2019un Ruh Par\u00E7ac\u0131\u011F\u0131",
+    "ItemID": -21943750,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Vuru\u015Fu",
+    "ItemID": -1530254765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Tabancalar",
+    "ItemID": 14297698,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u011Fursuz Korucu \u00C7izmesi",
+    "ItemID": -15390086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCk G\u00FCm\u00FC\u015F K\u0131l\u0131\u00E7",
+    "ItemID": 674704033,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir K\u0131rba\u00E7",
+    "ItemID": 710159072,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ora\u011F\u0131",
+    "ItemID": -465491217,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A\u011Flayan S\u00F6\u011F\u00FCt Fidan\u0131",
+    "ItemID": 858598154,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00FCkemmel Z\u00FCmr\u00FCt",
+    "ItemID": 1354115931,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Saf Post",
+    "ItemID": 1658596502,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCrpertici \u015E\u00F6valye Pantolonu",
+    "ItemID": -996201260,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kimyasala Bat\u0131r\u0131lm\u0131\u015F Pelerin",
+    "ItemID": -1324340002,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00FCkemmel Topaz",
+    "ItemID": -1983566585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "2. Kademe F\u0131rt\u0131na M\u00FCcevheri",
+    "ItemID": 876293388,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ham Cevher",
+    "ItemID": -2039337521,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Uzun Yay",
+    "ItemID": 532033005,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Kanl\u0131 K\u0131l\u0131\u00E7",
+    "ItemID": 730869315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma K\u0131rba\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1222824286,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Arbalet",
+    "ItemID": -20041991,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Tabancalar",
+    "ItemID": 1071656850,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir G\u00FCrz",
+    "ItemID": 1526542305,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gece Avc\u0131s\u0131 Pantolonu",
+    "ItemID": 1925394440,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bitki Lifi",
+    "ItemID": -1409142667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eeytani Alimin Eldiveni",
+    "ItemID": -1512099553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Kan Esans\u0131",
+    "ItemID": 271594022,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hal\u00FCsinatif Sporlar",
+    "ItemID": 1915695899,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hortlak",
+    "ItemID": 2042311455,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pus Trans\u0131",
+    "ItemID": 2075997018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ya\u015Fayan \u00D6l\u00FC General\u0027in Mi\u011Fferi",
+    "ItemID": 409678749,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bo\u015Fal\u0131m",
+    "ItemID": 1448686547,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gece Yar\u0131s\u0131 Soylu G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 538326235,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Han\u00E7erler",
+    "ItemID": 506082542,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Novas\u0131",
+    "ItemID": 1947940084,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Ametist",
+    "ItemID": -1962855117,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "3. Kademe K\u00F6t\u00FCc\u00FCl M\u00FCcevher",
+    "ItemID": -647547545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Arbalet",
+    "ItemID": 937375187,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Oku",
+    "ItemID": 738473666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Kemik Y\u00FCz\u00FCk",
+    "ItemID": -652069131,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7lendirilmi\u015F Kemik Balta",
+    "ItemID": -1391446205,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n Korkun\u00E7 Pantolonu",
+    "ItemID": 205207385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131ra D\u0131\u015F\u0131 B\u00FCy\u00FC Bile\u015Feni",
+    "ItemID": 1488205677,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma B\u00FCy\u00FCk K\u0131l\u0131\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 747911021,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u015Eeytani \u00C7izmesi",
+    "ItemID": 1531721602,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": -114411609,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131rm\u0131z\u0131 \u0130kizler",
+    "ItemID": 2099198078,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Tabancalar",
+    "ItemID": 769603740,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir K\u0131rba\u00E7",
+    "ItemID": 1393113320,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ay\u00E7i\u00E7e\u011Fi Tohumu",
+    "ItemID": -473351958,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ocak Zemini D\u00F6\u015Femesi",
+    "ItemID": -1233700610,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pencere \u00C7e\u015Fitleri",
+    "ItemID": 1905539368,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet M\u0131zra\u011F\u0131",
+    "ItemID": 998259069,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ham Yakut",
+    "ItemID": 287586809,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Muhaf\u0131z Pantolonu",
+    "ItemID": 1355823667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kas\u0131rga",
+    "ItemID": 994654794,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 G\u00FCrz",
+    "ItemID": -126076280,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131yamet",
+    "ItemID": 1272855317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos Bariyeri",
+    "ItemID": 1112619884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "9cf16903e72643c8b23710b7e9f4567b",
+    "ItemID": -1838793646,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Simya Laboratuvar\u0131 Zemini D\u00F6\u015Femesi",
+    "ItemID": 978074988,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Devedikeni Tohumu",
+    "ItemID": -1370210913,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00FCkemmel Ametist",
+    "ItemID": -106283194,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Papaz Tac\u0131",
+    "ItemID": -548847761,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir G\u00FCrz",
+    "ItemID": -1714012261,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131rm\u0131z\u0131 \u0130kizler",
+    "ItemID": 1239564213,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kristal M\u0131zrak",
+    "ItemID": -390381611,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanetliler M\u0131nt\u0131kas\u0131",
+    "ItemID": -593608743,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tablo \u00C7er\u00E7evesi",
+    "ItemID": 1553481703,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir K\u0131rba\u00E7",
+    "ItemID": 1705984031,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Asil \u00C7itler ve \u00C7e\u015Fmeler",
+    "ItemID": 679755989,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mezarc\u0131 Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": -1588051702,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Han\u00E7er Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 1271087499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yoz Kafatas\u0131",
+    "ItemID": 140526202,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gece Balo K\u0131yafeti",
+    "ItemID": -511360389,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCc\u00FCn\u00FCn Kolyesi",
+    "ItemID": 759775881,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gezgin Sarg\u0131s\u0131",
+    "ItemID": -1819786494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Simya Deposu",
+    "ItemID": -67943596,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCm\u00FC\u015F Direnci Demi",
+    "ItemID": 272647158,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pamuk Tohumu",
+    "ItemID": -1289010178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Novas\u0131",
+    "ItemID": -535477182,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "EMP",
+    "ItemID": -1447213995,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u015Eeytani Pantolonu",
+    "ItemID": 1592149279,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sivrisinek",
+    "ItemID": -826325611,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hi\u00E7lik",
+    "ItemID": -2054797612,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkun\u00E7 Plakal\u0131 G\u00F6\u011F\u00FCsl\u00FCk",
+    "ItemID": -1161279574,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Veba \u00C7al\u0131s\u0131",
+    "ItemID": 1474643910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kurt Kafas\u0131",
+    "ItemID": -1169471531,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Tap\u0131nak\u00E7\u0131 G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 626083889,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131yamet Habercileri",
+    "ItemID": 1630030026,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00D6fkesi",
+    "ItemID": -1952560879,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gece Pusucusu Kafas\u0131",
+    "ItemID": -2073081569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir \u015E\u00F6valye \u00C7izmesi",
+    "ItemID": 830032282,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ruhani Kurt",
+    "ItemID": 455494178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Baltalar",
+    "ItemID": 518802008,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130ll\u00FCzyon \u00D6rt\u00FCs\u00FC",
+    "ItemID": -1206629745,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hal\u0131 Rulosu",
+    "ItemID": 1046366876,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Patlamas\u0131",
+    "ItemID": 977816262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Saf Deri",
+    "ItemID": -2043983118,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Orak Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -2136716453,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": -1205777419,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Uzun Yay",
+    "ItemID": 1283345494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCm \u015E\u00F6valyesi",
+    "ItemID": -340571020,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Lekeli Kuma\u015F",
+    "ItemID": 150621304,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": -811840389,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Par\u015F\u00F6men",
+    "ItemID": 2065714452,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 K\u0131l\u0131\u00E7",
+    "ItemID": 1075465533,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusurlu Kalp",
+    "ItemID": 947998050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pa\u00E7avra Ceket",
+    "ItemID": -1723445833,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015E\u00F6valyenin Kolyesi",
+    "ItemID": -1658630722,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kil Kal\u0131b\u0131",
+    "ItemID": -1257026088,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hu\u015F A\u011Fac\u0131 Fidan\u0131",
+    "ItemID": 1552240197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kar \u00C7i\u00E7e\u011Fi",
+    "ItemID": 106516056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Canavar\u0131n Ruh Par\u00E7ac\u0131\u011F\u0131",
+    "ItemID": -1619308732,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pus Trans\u0131",
+    "ItemID": 101601247,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Arbalet Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 517296275,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FCs\u00FCn\u00FCn Kolyesi",
+    "ItemID": 1474515294,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sabah Y\u0131ld\u0131z\u0131",
+    "ItemID": 950358400,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 G\u00FCrz",
+    "ItemID": 1994084762,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kale Sandalye \u00C7e\u015Fitlili\u011Fi",
+    "ItemID": -1929817673,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Oku",
+    "ItemID": 1279283644,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Asma Fenerler",
+    "ItemID": -452767162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u015Eeytani Eldiveni",
+    "ItemID": -1899539896,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n G\u00F6lge G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 933057100,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kar \u00C7i\u00E7e\u011Fi Tohumu",
+    "ItemID": 1985892973,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma K\u0131rba\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 1340494453,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Pusta\u015F\u0131",
+    "ItemID": 802050789,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ham Ametist",
+    "ItemID": 225530658,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "E\u011Fik Di\u015F G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -604941435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u201CG\u00F6rkemli\u201D Ta\u015F Duvarlar",
+    "ItemID": 1884115881,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dolap \u00C7e\u015Fitleri",
+    "ItemID": 1691702273,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Stygian Par\u00E7as\u0131",
+    "ItemID": 2103989354,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCc\u00FC G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -2066262923,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7lendirilmi\u015F Kemik K\u0131l\u0131\u00E7",
+    "ItemID": -796306296,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bilge Bal\u0131\u011F\u0131",
+    "ItemID": 736318803,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Herhangi Bir De\u011Ferli Ta\u015F",
+    "ItemID": 1128027535,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n Korkun\u00E7 Eldiveni",
+    "ItemID": 1982551454,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015E\u00F6valyenin Kolyesi",
+    "ItemID": -425306671,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Kale Anahtar\u0131\n3. Seviye",
+    "ItemID": -950839771,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma M\u0131zrak Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 2142983740,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir Avc\u0131s\u0131 Ba\u015Fl\u0131\u011F\u0131",
+    "ItemID": 974739126,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Avc\u0131 Pelerini",
+    "ItemID": 786585343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ay Pantolonu",
+    "ItemID": -1260890289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131ld\u0131r\u0131m Topu",
+    "ItemID": -1927784576,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eeytani Alimin G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -1840162782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ya\u015Fayan \u00D6l\u00FClerin Pa\u00E7avralar\u0131",
+    "ItemID": -305440546,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eeytani Alimin G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -919709436,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk Cevher Deposu",
+    "ItemID": 1150376281,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geni\u015F Depolama Raf\u0131 \u00C7e\u015Fitleri",
+    "ItemID": 1519475093,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Veba \u00C7al\u0131s\u0131 Tohumlar\u0131",
+    "ItemID": -1495639636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir K\u0131l\u0131\u00E7",
+    "ItemID": -903587404,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir M\u0131zrak",
+    "ItemID": -1783670291,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Cevherler",
+    "ItemID": -2099422426,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zanaat\u00E7\u0131 K\u00F6\u015Fesi",
+    "ItemID": -1221174479,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Avc\u0131s\u0131 \u00C7izmesi",
+    "ItemID": -1788912715,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Y\u00FCz\u00FCk",
+    "ItemID": 1557814269,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Saf Deri \u00C7anta",
+    "ItemID": 1117281334,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Han\u00E7erler",
+    "ItemID": -314614708,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Temel Kan Esans\u0131",
+    "ItemID": 1566989408,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Han\u00E7er Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 3759455,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00D6z\u00FC",
+    "ItemID": 862477668,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Arbalet",
+    "ItemID": 836066667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Da\u011Fc\u0131 \u00C7antas\u0131",
+    "ItemID": -1922998918,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00FCcevher",
+    "ItemID": 1075994038,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gece Yar\u0131s\u0131 Soylu Pantolonlar\u0131",
+    "ItemID": 213736942,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7lendirilmi\u015F Kemik Orak",
+    "ItemID": 1402953369,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Soytar\u0131n\u0131n Kraliyet \u00D6rt\u00FCs\u00FC",
+    "ItemID": 379281083,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eapka",
+    "ItemID": -152150271,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Han\u00E7erler",
+    "ItemID": 1499160417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00FCkemmel Pusta\u015F\u0131",
+    "ItemID": 750542699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Han\u00E7erler",
+    "ItemID": 866934844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ruhani Toz",
+    "ItemID": -2130812821,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCms\u00FCz Kral\u0131n Pelerini",
+    "ItemID": -1067360120,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "F\u0131rt\u0131na \u00D6rt\u00FCs\u00FC",
+    "ItemID": 182214837,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCc\u00FC \u00C7izmesi",
+    "ItemID": -1147510581,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Arbalet",
+    "ItemID": -517906196,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma G\u00FCrz Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1810734832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ufak G\u00FCne\u015F Direnci Demi",
+    "ItemID": -38051433,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik K\u0131l\u0131\u00E7",
+    "ItemID": 269771183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7 Dalgalanmas\u0131",
+    "ItemID": -1090887222,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Tap\u0131nak\u00E7\u0131 Eldiveni",
+    "ItemID": -1344118299,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Arbalet",
+    "ItemID": -1277074895,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusursuz Pusta\u015F\u0131",
+    "ItemID": -1963826510,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alt\u0131n K\u00FCl\u00E7esi",
+    "ItemID": -1027710236,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kutup De\u011Fi\u015Ftirme",
+    "ItemID": -844537086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kutsal \u00DCz\u00FCm \u00C7ekirde\u011Fi",
+    "ItemID": -1681104075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Z\u0131rh Deposu",
+    "ItemID": 207381334,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Generalin Ruh Ora\u011F\u0131",
+    "ItemID": 1887724512,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "3. Kademe F\u0131rt\u0131na M\u00FCcevheri",
+    "ItemID": 189228039,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Malzeme ve M\u00FCcevher Deposu",
+    "ItemID": 686122001,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma M\u0131zrak Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -958110636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130pek B\u00F6ce\u011Fi",
+    "ItemID": -11246506,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yitiklerin Kanatlar\u0131",
+    "ItemID": -1930402723,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131yamet Habercileri",
+    "ItemID": 1759077469,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cad\u0131 Tozu",
+    "ItemID": -223452038,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Belge",
+    "ItemID": 1334469825,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik K\u0131l\u0131\u00E7",
+    "ItemID": -2085919458,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r Arbalet",
+    "ItemID": -1636801169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Mangal \u00C7e\u015Fitleri",
+    "ItemID": 835610037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pa\u00E7avra Ayakkab\u0131",
+    "ItemID": -2137364987,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FC G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -1595316636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ekipman Deposu",
+    "ItemID": 1249076837,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "4. Kademe Buz M\u00FCcevheri",
+    "ItemID": -147757377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FCk\u00FCrt",
+    "ItemID": 880699252,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanetli Odun",
+    "ItemID": 608397239,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bin F\u0131rt\u0131na",
+    "ItemID": -1674680373,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ta\u015F S\u00FCsler",
+    "ItemID": -449615886,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": -1798608844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz \u00D6rt\u00FCs\u00FC",
+    "ItemID": 1729390800,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vah\u015Fet Demi",
+    "ItemID": -269326085,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F Orak",
+    "ItemID": 6711686,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hay\u0131rs\u0131z El\u00E7inin Muskas\u0131",
+    "ItemID": 860383634,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "4. Kademe K\u00F6t\u00FCc\u00FCl M\u00FCcevher",
+    "ItemID": 1412786604,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCrpertici \u015E\u00F6valye Eldiveni",
+    "ItemID": 2020764183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanatl\u0131 Deh\u015Fet\u0027in Ruh Par\u00E7ac\u0131\u011F\u0131",
+    "ItemID": -222860772,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Bariyeri",
+    "ItemID": -483235215,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yarasa Derisi \u00C7anta",
+    "ItemID": -181179773,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusursuz Cevher",
+    "ItemID": 1613130430,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Me\u015Fe Ezgisi",
+    "ItemID": 1102277512,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Afsuncunun Kolyesi",
+    "ItemID": 587164554,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Uzun Yay",
+    "ItemID": -1993708658,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kalp \u00C7i\u00E7e\u011Fi",
+    "ItemID": -135435342,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Orak",
+    "ItemID": -105026635,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Demir K\u0131l\u0131\u00E7",
+    "ItemID": -768054337,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ay G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 1871735757,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131ra D\u0131\u015F\u0131 Terzi Bile\u015Feni",
+    "ItemID": 828271620,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7e\u015Fitli Tohum Saks\u0131lar\u0131",
+    "ItemID": 1336896559,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F K\u0131rba\u00E7",
+    "ItemID": -960205578,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bal\u0131k Deposu",
+    "ItemID": -205820651,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz\u0131n Kolyesi",
+    "ItemID": 1939500376,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Arbalet Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 572026243,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lekesiz Kalp",
+    "ItemID": -204051056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u0131r\u00E7\u0131n Bal\u0131\u011F\u0131",
+    "ItemID": 447901086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Gezgini Yele\u011Fi",
+    "ItemID": -849449432,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "3. Kademe Buz M\u00FCcevheri",
+    "ItemID": 223899244,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cevher Tozu",
+    "ItemID": 820932258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan G\u00FCl\u00FC Tohumu",
+    "ItemID": 531984050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz Eldiveni",
+    "ItemID": 1840869087,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mutant S\u0131\u00E7an",
+    "ItemID": -338333923,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Gezgini Yele\u011Fi",
+    "ItemID": 763326246,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma K\u0131l\u0131\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1421775051,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131yamet",
+    "ItemID": 820408138,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Balta Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1024626758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eeytani Alimin Pantolonu",
+    "ItemID": 703230071,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kafatas\u0131 Maskesi",
+    "ItemID": -2125696865,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u00DCrpertici \u00C7izmesi",
+    "ItemID": 1646489863,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik",
+    "ItemID": 1821405450,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz\u0131n Yele\u011Fi",
+    "ItemID": 2025615662,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos Dalgas\u0131",
+    "ItemID": 1243967840,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gece Avc\u0131s\u0131 Eldiveni",
+    "ItemID": -1183157751,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ay Pantolonu",
+    "ItemID": -262114802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7lendirilmi\u015F Kalas",
+    "ItemID": -1397591435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Uzun Yay",
+    "ItemID": 722498174,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Han\u00E7erler",
+    "ItemID": 1322545846,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "So\u011Fuk Is\u0131r\u0131\u011F\u0131",
+    "ItemID": 55473000,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkun\u00E7 Plakal\u0131 Pantolon",
+    "ItemID": -2104396934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00C7e\u015Fmesi",
+    "ItemID": -1624411159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sonbahar Titrek Kavak Fidan\u0131",
+    "ItemID": -2035190786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u201CL\u00FCks\u201D Hal\u0131 Koleksiyonu",
+    "ItemID": -96701352,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan G\u00FCl\u00FC Demi",
+    "ItemID": 800879747,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131ld\u0131r\u0131m Topu",
+    "ItemID": 973763812,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Su Dolu \u015Ei\u015Fe",
+    "ItemID": -1382451936,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz \u00D6rt\u00FCs\u00FC",
+    "ItemID": -1190496962,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ta\u015F G\u00F6vdesi",
+    "ItemID": 689272399,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusursuz Topaz",
+    "ItemID": -2051574178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCm\u00FC\u015F \u0130plikli \u00C7anta",
+    "ItemID": -261654929,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet M\u0131zra\u011F\u0131",
+    "ItemID": -455117097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Su Kuyusu",
+    "ItemID": -1205373095,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kristal M\u0131zrak",
+    "ItemID": 594180030,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u015Eeytani G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 114259912,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ay Eldivenleri",
+    "ItemID": 1485993952,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Toki T\u00FCyl\u00FC Pelerin",
+    "ItemID": -589858836,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00C7e\u015Fmesi",
+    "ItemID": 1755478077,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Arbalet",
+    "ItemID": 1856338018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kudret \u015Eal\u0131",
+    "ItemID": -2091288477,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge \u00D6rg\u00FCs\u00FC",
+    "ItemID": -1458997116,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Solarus\u2019un Ruh Par\u00E7ac\u0131\u011F\u0131",
+    "ItemID": 2019195024,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet M\u0131zra\u011F\u0131",
+    "ItemID": 665418354,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Obsidyen",
+    "ItemID": -543524210,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Orak",
+    "ItemID": -922125625,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FCs\u00FCn\u00FCn Kolyesi",
+    "ItemID": 610958202,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eafak Dikeni G\u00F6\u011F\u00FCsl\u00FCk",
+    "ItemID": -930514044,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FCt\u00FCphane Zemini D\u00F6\u015Femesi",
+    "ItemID": -946177070,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ate\u015F \u00C7i\u00E7e\u011Fi",
+    "ItemID": 455638025,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r Arbalet",
+    "ItemID": -192381912,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kutsal Odun",
+    "ItemID": -2014020548,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ayvaz Mi\u011Fferi",
+    "ItemID": -353076115,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FClhalk Mi\u011Fferi",
+    "ItemID": -1607893829,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u00DCrpertici Pantolonu",
+    "ItemID": 993033515,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F G\u00FCrz",
+    "ItemID": -184713893,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Han\u00E7erler",
+    "ItemID": 1930526079,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 M\u0131zrak",
+    "ItemID": -1931117134,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos Bariyeri",
+    "ItemID": -374243736,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "a45f2523444840c29f964f2d43ada733",
+    "ItemID": -167936394,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "I\u015F\u0131lt\u0131l\u0131 \u00C7orba",
+    "ItemID": 1851490036,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yarasa Postu",
+    "ItemID": 1262845777,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": 526090146,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Koku\u015Fmu\u015F S\u0131\u00E7an Nibbles",
+    "ItemID": 927039475,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131k\u0131c\u0131 Y\u0131lan Mantosu",
+    "ItemID": 136740861,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkun\u00E7 Plakal\u0131 Eldiven",
+    "ItemID": -1296203752,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bin F\u0131rt\u0131na",
+    "ItemID": 124616797,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131\u00E7an",
+    "ItemID": 2029158532,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Tabancalar",
+    "ItemID": -349470582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Patlamas\u0131",
+    "ItemID": -749764415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Levre\u011Fi",
+    "ItemID": -1779269313,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FClhalk Ate\u015Fi Pelerini",
+    "ItemID": -1023114892,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kitin",
+    "ItemID": -953253466,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u015Earab\u0131 Muskas\u0131",
+    "ItemID": 991396285,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kutsal Diren\u00E7 \u015Ei\u015Fesi",
+    "ItemID": 639992282,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6fke \u0130ksiri",
+    "ItemID": -2013887729,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Uzun Yay",
+    "ItemID": 1177453385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir G\u00FCrz",
+    "ItemID": -276593802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanetli Fidan",
+    "ItemID": -1897495615,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCm \u015E\u00F6valyesi",
+    "ItemID": -173571027,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma K\u0131rba\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 1490846791,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Matemli Zambak Tohumu",
+    "ItemID": -1386314668,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "2. Kademe K\u00F6t\u00FCc\u00FCl M\u00FCcevher",
+    "ItemID": -860388090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7apulcu Pantolonu",
+    "ItemID": -2095610608,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Bariyeri",
+    "ItemID": 2134082866,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eafak Ko\u015Fucusunun Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": 50824544,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Herhangi Bir Bal\u0131k",
+    "ItemID": 300582272,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eeytani Alimin Eldiveni",
+    "ItemID": 1508214166,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Tel",
+    "ItemID": -456161884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silindir \u015Eapka",
+    "ItemID": 690259405,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ay Eldivenleri",
+    "ItemID": -1752332712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet \u00D6rt\u00FCs\u00FC",
+    "ItemID": -227965303,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boyun E\u011Fmez Y\u00FCk Kayna\u011F\u0131n\u0131n Muskas\u0131",
+    "ItemID": -1424521314,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dolu Batarya",
+    "ItemID": -412448857,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ka\u011F\u0131t",
+    "ItemID": 780044299,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard\u0027\u0131n Eldiveni",
+    "ItemID": -1522497513,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Uzun Yay",
+    "ItemID": 1951565953,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ufak Sar\u0131msak Direnci Demi",
+    "ItemID": 423790753,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "1. Kademe Buz M\u00FCcevheri",
+    "ItemID": 1908312304,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ham \u0130plik",
+    "ItemID": -1562867444,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusursuz Yakut",
+    "ItemID": 74811721,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rowdain\u0027in At\u0131",
+    "ItemID": -1270904319,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F K\u0131l\u0131\u00E7",
+    "ItemID": -1455388114,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130ll\u00FCzyon \u00D6rt\u00FCs\u00FC",
+    "ItemID": -941913536,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u015Earab\u0131",
+    "ItemID": 1223264867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alt\u0131n Nehir Levre\u011Fi",
+    "ItemID": 67930804,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u011Fursuz Korucu Pantolonu",
+    "ItemID": 347441899,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131\u015F\u0131n Eli",
+    "ItemID": 675187526,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Kristali",
+    "ItemID": -1913156733,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ha\u015Ferat Merhemi",
+    "ItemID": -1885959251,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gece Avc\u0131s\u0131 \u00C7izmesi",
+    "ItemID": -1354920908,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk Cevher Deposu",
+    "ItemID": 1455590675,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sonbahar Hu\u015F A\u011Fac\u0131 Fidan\u0131",
+    "ItemID": 2000981302,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cad\u0131 \u0130ksiri",
+    "ItemID": 1510182325,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Avc\u0131s\u0131 Eldiveni",
+    "ItemID": -777417289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ba\u015F Sihirbaz\u0131n Muskas\u0131",
+    "ItemID": -749171183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Gezgini Eldiveni",
+    "ItemID": 181112381,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kurt Adam Kafas\u0131",
+    "ItemID": -2020831626,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Malumat Deposu",
+    "ItemID": 1823379076,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6kku\u015Fa\u011F\u0131 Alabal\u0131k",
+    "ItemID": -149778795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "E\u015Fya Dolab\u0131 \u00C7e\u015Fitleri",
+    "ItemID": -999518496,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Patlay\u0131c\u0131 Kutusu",
+    "ItemID": -1021407417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bah\u00E7e Kemerleri ve \u00C7ardaklar\u0131",
+    "ItemID": -1645899934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 K\u0131l\u0131\u00E7",
+    "ItemID": 195858450,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pa\u00E7avra Eldiveni",
+    "ItemID": 1216450741,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u003Ccolor=#C52443\u003EKan Anahtar\u0131\u003C/color\u003E",
+    "ItemID": 1655869633,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r K\u0131l\u0131\u00E7",
+    "ItemID": -1455124124,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7apulcu Pantolonu",
+    "ItemID": 1172935197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard\u0027\u0131n Pantolonu",
+    "ItemID": -1564372276,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma K\u0131l\u0131\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -830893351,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCrpertici \u015E\u00F6valye Pantolonu",
+    "ItemID": -1385786654,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik \u00D6rt\u00FCs\u00FC",
+    "ItemID": -1347054873,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r K\u00FCl\u00E7esi",
+    "ItemID": -1237019921,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7apulcu \u00C7izmesi",
+    "ItemID": 362386181,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geni\u015F Kan Kab\u0131",
+    "ItemID": 489001758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ke\u015Fi\u015F \u015Eal\u0131",
+    "ItemID": 2147390246,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Tabanca Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1038642372,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz\u0131n Pantolonu",
+    "ItemID": 1458279255,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ay \u00C7izmesi",
+    "ItemID": -706178162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge K\u0131l\u0131c\u0131",
+    "ItemID": -1215982687,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bo\u015F Cam \u015Ei\u015Fe",
+    "ItemID": -437611596,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zindan Duvarlar\u0131",
+    "ItemID": -2086890414,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir K\u0131l\u0131\u00E7",
+    "ItemID": 1427084419,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos \u00D6rt\u00FCs\u00FC",
+    "ItemID": -2133879652,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ay \u00C7izmesi",
+    "ItemID": -1921018689,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "1. Kademe Kaos M\u00FCcevheri",
+    "ItemID": 2130810069,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir M\u0131zrak",
+    "ItemID": 1065194820,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Baltalar",
+    "ItemID": -1579575933,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Balta Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -2147445292,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz\u0131n Pantolonu",
+    "ItemID": -117205517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sabah Y\u0131ld\u0131z\u0131",
+    "ItemID": -671246832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos Bariyeri",
+    "ItemID": -209873380,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Tabanca Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1502177717,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma M\u0131zrak Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 1717016192,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Elektrik",
+    "ItemID": -77555820,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik M\u0131zrak",
+    "ItemID": 2038011836,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Beatrice\u2019in E\u015Farb\u0131",
+    "ItemID": -2081646636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "2. Kademe Buz M\u00FCcevheri",
+    "ItemID": 1030854657,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pus Trans\u0131",
+    "ItemID": -1513121786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCl\u00FC Dem",
+    "ItemID": 248289327,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130skelet Rahip",
+    "ItemID": 1252366498,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yoz Kafatas\u0131",
+    "ItemID": -1508992859,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "E\u011Fik Di\u015F Eldiveni",
+    "ItemID": -406808302,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Gudubet",
+    "ItemID": -1199531707,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Baltalar",
+    "ItemID": -1596352033,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130ngiliz \u0130pli\u011Fi",
+    "ItemID": -898917584,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FC Eldiveni",
+    "ItemID": 322804535,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Me\u015Fe Fidan\u0131",
+    "ItemID": -626353315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bulut Dans\u00E7\u0131lar\u0131",
+    "ItemID": -2068145306,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge G\u00FCrz",
+    "ItemID": 160471982,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "1. Kademe K\u00F6t\u00FCc\u00FCl M\u00FCcevher",
+    "ItemID": 803445709,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kraliyet Perdesi \u00C7e\u015Fitleri",
+    "ItemID": 285318201,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Tap\u0131nak\u00E7\u0131 Pantolonu",
+    "ItemID": 1328323768,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r M\u0131zrak",
+    "ItemID": -1690985210,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n G\u00F6lge Eldiveni",
+    "ItemID": -1826382550,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCm B\u00FCy\u00FCc\u00FCs\u00FC Papaz Tac\u0131",
+    "ItemID": 607559019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kal\u0131n Deri",
+    "ItemID": -305160765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n G\u00F6lge Pantolonu",
+    "ItemID": -345596442,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u00FCkemmel Yakut",
+    "ItemID": 188653143,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Cevher Damarlar\u0131",
+    "ItemID": 889298519,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r G\u00FCrz",
+    "ItemID": -1003381140,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hal\u00FCsinatif Mantar",
+    "ItemID": -1566269773,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sar\u0131msak Direnci \u0130ksiri",
+    "ItemID": 791584738,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk A\u011Fa\u00E7 \u0130\u015Fleme Deposu",
+    "ItemID": 206151993,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCrpertici \u015E\u00F6valye \u00C7izmesi",
+    "ItemID": -1023762087,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz\u0131n Yele\u011Fi",
+    "ItemID": -2100321922,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ta\u015F",
+    "ItemID": -1531666018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir Laneti",
+    "ItemID": -1844141622,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Ayini",
+    "ItemID": -2059886133,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCrpertici \u015E\u00F6valye \u00C7izmesi",
+    "ItemID": -534142437,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCc\u00FC \u00C7izmesi",
+    "ItemID": 138060378,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u00E7an I\u015F\u0131klar",
+    "ItemID": 1594270493,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FClhalk Krallar\u0131n\u0131n Asil Mantosu",
+    "ItemID": 584164197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Diki\u015Fli \u015Eal",
+    "ItemID": -24337506,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk T\u00FCketilebilir E\u015Fya Deposu",
+    "ItemID": -1624005683,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u00FCn \u0130plik",
+    "ItemID": 1872733144,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gece Avc\u0131s\u0131 Yele\u011Fi",
+    "ItemID": -957963240,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir At Eyeri",
+    "ItemID": -1209228232,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "So\u011Fuk Is\u0131r\u0131\u011F\u0131",
+    "ItemID": -441408420,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": -684874624,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 K\u0131l\u0131\u00E7",
+    "ItemID": -774462329,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Usta B\u00FCy\u00FCc\u00FCn\u00FCn Muskas\u0131",
+    "ItemID": -1306155896,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alt\u0131n G\u00FCne\u015F Paras\u0131",
+    "ItemID": -571562864,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Art\u00E7\u0131 \u015Eok",
+    "ItemID": 685024499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sar\u0131msak Direnci \u0130ksiri",
+    "ItemID": -2139183850,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F Tabancalar",
+    "ItemID": 674407758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet Siper",
+    "ItemID": 870884715,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Ceset Y\u0131\u011F\u0131n\u0131",
+    "ItemID": 34841965,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCc\u00FC Eldiveni",
+    "ItemID": 1247389106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mezar Tozu",
+    "ItemID": -608131642,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik K\u0131l\u0131\u00E7",
+    "ItemID": -1905547794,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FC Eldiveni",
+    "ItemID": 735880687,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCzel Mumluk \u00C7e\u015Fitleri",
+    "ItemID": 1341367867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir Laneti",
+    "ItemID": -1337809256,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": 1110550218,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "4. Kademe Kaos M\u00FCcevheri",
+    "ItemID": -1796954295,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r M\u0131zrak",
+    "ItemID": 790210443,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Vuru\u015Fu",
+    "ItemID": 1793042384,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7lendirilmi\u015F Kemik Han\u00E7erler",
+    "ItemID": 926722036,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bo\u015Fal\u0131m",
+    "ItemID": 1533847605,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Cad\u0131",
+    "ItemID": 1452779821,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Orak",
+    "ItemID": -152327780,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kalas",
+    "ItemID": -1017402979,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7lendirilmi\u015F Kemik G\u00FCrz",
+    "ItemID": -1998017941,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusursuz Ametist",
+    "ItemID": 1705028227,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bal\u0131k",
+    "ItemID": 176401052,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Cevheri",
+    "ItemID": 1332980397,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7apulcu Eldiveni",
+    "ItemID": -764630320,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Yumak",
+    "ItemID": 75934448,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik",
+    "ItemID": 1413130999,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 K\u0131rba\u00E7",
+    "ItemID": -1033721040,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkun\u00E7 Plakal\u0131 \u00C7izme",
+    "ItemID": 1395895315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Avc\u0131s\u0131 G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -2102875089,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Muhaf\u0131z Eldiveni",
+    "ItemID": -2029933415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n Pantolonu",
+    "ItemID": 125611165,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Varil K\u0131l\u0131\u011F\u0131",
+    "ItemID": -82465606,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mezarc\u0131",
+    "ItemID": 2106567892,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Tap\u0131nak\u00E7\u0131 G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -1641042717,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusursuz Cevher Damarlar\u0131",
+    "ItemID": 301051123,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCc\u00FCn\u00FCn Kolyesi",
+    "ItemID": 1012837641,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Uzun Yay Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 649637190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Z\u00FCmr\u00FCt",
+    "ItemID": 357608868,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6fke \u0130ksiri",
+    "ItemID": -1568756102,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir Tabancalar",
+    "ItemID": -1265586439,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Ayini",
+    "ItemID": 1881059081,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "4. Kademe \u0130ll\u00FCzyon M\u00FCcevheri",
+    "ItemID": 97169184,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bin Diki\u015Fli Pelerin",
+    "ItemID": 1275572025,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7 Dalgalanmas\u0131",
+    "ItemID": -1166627007,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dayan\u0131kl\u0131 Post",
+    "ItemID": -1222725729,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Veba Kimyagerinin Eyeri",
+    "ItemID": -554782766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7lendirilmi\u015F Kemik M\u0131zrak",
+    "ItemID": 1244180446,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pamuk",
+    "ItemID": -656822228,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FCk\u00FCrt Cevheri",
+    "ItemID": 1501868129,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Tap\u0131nak\u00E7\u0131 Pantolonu",
+    "ItemID": 680112231,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Arbalet",
+    "ItemID": 1957540013,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCms\u00FCz Kral\u0131n Y\u00FCce Mi\u011Fferi",
+    "ItemID": 238268650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yoz Kafatas\u0131",
+    "ItemID": -1183600395,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "F\u0131rt\u0131na \u00D6rt\u00FCs\u00FC",
+    "ItemID": -1416449755,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Art\u00E7\u0131 \u015Eok",
+    "ItemID": -651841188,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u011Fursuz Korucu Eldiveni",
+    "ItemID": -1242910338,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r K\u0131l\u0131\u00E7",
+    "ItemID": -2037272000,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130pek",
+    "ItemID": 702067317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz Novas\u0131",
+    "ItemID": 1123463900,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hi\u00E7lik",
+    "ItemID": 157004582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Orak",
+    "ItemID": -2053917766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCzel Tablo \u00C7e\u015Fitleri",
+    "ItemID": 38319072,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Batakl\u0131k Sakini",
+    "ItemID": 177845365,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Devedikeni",
+    "ItemID": -598100816,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Tap\u0131nak\u00E7\u0131 \u00C7izmesi",
+    "ItemID": -1329744719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Trent",
+    "ItemID": -112151309,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eafak Dikeni Eldiveni",
+    "ItemID": 2055058719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos Dalgas\u0131",
+    "ItemID": -1111771702,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Uzun Yay",
+    "ItemID": -1003309553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "2. Kademe \u0130ll\u00FCzyon M\u00FCcevheri",
+    "ItemID": 437696083,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Haydut Torbas\u0131",
+    "ItemID": -219760992,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk Bitki Deposu",
+    "ItemID": -853559619,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir G\u00FCrz",
+    "ItemID": 1177597629,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kutsal Diren\u00E7 \u0130ksiri",
+    "ItemID": 890484447,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Avc\u0131s\u0131 Eldiveni",
+    "ItemID": 1067300584,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ruhani Kurt",
+    "ItemID": -1444759832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara B\u00FCy\u00FCc\u00FC Pantolonu",
+    "ItemID": -454576348,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Han\u00E7erler",
+    "ItemID": 1942009728,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130lkel Stygian Par\u00E7as\u0131",
+    "ItemID": 28358550,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir K\u00FCl\u00E7esi",
+    "ItemID": -1750550553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Madenci G\u00FCrz\u00FC",
+    "ItemID": -687294429,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir Tozu",
+    "ItemID": 805157024,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r G\u00FCrz",
+    "ItemID": 343324920,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Orak Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 886814985,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hi\u00E7lik",
+    "ItemID": 666089763,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130nce Kan Kab\u0131",
+    "ItemID": -130369231,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Malzeme ve M\u00FCcevher Deposu",
+    "ItemID": -651642571,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCc\u00FCn\u00FCn Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": -886916793,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz\u0131n Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": -1913800363,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alev Direnci Demi",
+    "ItemID": 2114304481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 1055898174,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Uzun Yay",
+    "ItemID": 1860352606,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Baltalar",
+    "ItemID": -1958888844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ham Topaz",
+    "ItemID": 867351268,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FCs\u00FCn\u00FCn Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": -809059551,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Bitki Deposu",
+    "ItemID": 473545520,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Saf Kalp",
+    "ItemID": -1413694594,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk Malumat Deposu",
+    "ItemID": -1394295910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Afet Ta\u015F\u0131 Kolyesi",
+    "ItemID": -650855520,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Orak",
+    "ItemID": 1350548439,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Han\u00E7erler",
+    "ItemID": 821410795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Cevherler",
+    "ItemID": -36717533,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eafak Dikeni \u00C7izmesi",
+    "ItemID": 560446510,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Muhaf\u0131z G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 329301090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alt\u0131n M\u00FCcevher",
+    "ItemID": -1749304196,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bileme Ta\u015F\u0131",
+    "ItemID": 1252507075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCms\u00FCz Kral\u0131n \u015Eal\u0131",
+    "ItemID": 1284160983,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7 Dalgalanmas\u0131",
+    "ItemID": 1168555540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Me\u015Fe Ezgisi",
+    "ItemID": -557203874,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos Dalgas\u0131",
+    "ItemID": 818069106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "E\u011Fik Di\u015F G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -625033436,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dekoratif Ta\u015F Duvarlar",
+    "ItemID": -1957642407,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Olta Kam\u0131\u015F\u0131",
+    "ItemID": -1766408331,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00D6rt\u00FCs\u00FC",
+    "ItemID": -431964258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ba\u015F Sihirbaz\u0131n Muskas\u0131",
+    "ItemID": 1380368392,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ruh Yan\u0131\u011F\u0131",
+    "ItemID": 1277476884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kitin",
+    "ItemID": -1199259626,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7ak\u0131l Ta\u015F\u0131 Yollar",
+    "ItemID": -94650344,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tombul Kayabal\u0131\u011F\u0131",
+    "ItemID": -1642545082,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u201CSe\u00E7kin\u201D Hal\u0131 Koleksiyonu",
+    "ItemID": -1696677607,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Han\u00E7erler",
+    "ItemID": 615301463,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCrpertici \u015E\u00F6valye G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -1279475298,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Orak",
+    "ItemID": -977419819,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Taze Bal\u0131k",
+    "ItemID": 193249843,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kasvetli Fidan",
+    "ItemID": -1800289670,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Deri",
+    "ItemID": -1907572080,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Muhaf\u0131z Maskesi",
+    "ItemID": -2111388989,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Yumak",
+    "ItemID": -562511117,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u0131\u00E7ak Ustas\u0131n\u0131n Muskas\u0131",
+    "ItemID": 1702347530,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Baltalar",
+    "ItemID": 198951695,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma G\u00FCrz Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1845443712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCzel Mangal \u00C7e\u015Fitleri",
+    "ItemID": 742900616,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7apulcu \u00C7izmesi",
+    "ItemID": -1359494169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCm\u00FC\u015F Direnci \u0130ksiri",
+    "ItemID": 2107622409,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Beyaz Sakura Fidan\u0131",
+    "ItemID": 1738392650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kimyasala Bat\u0131r\u0131lm\u0131\u015F K\u0131yafet",
+    "ItemID": 821609569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bah\u00E7e Mobilyalar\u0131 ve Fenerleri",
+    "ItemID": -1060453249,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kutup De\u011Fi\u015Ftirme",
+    "ItemID": -944716649,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "2. Kademe Kan M\u00FCcevheri",
+    "ItemID": -996555621,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Radyum Ala\u015F\u0131m\u0131",
+    "ItemID": 2116142390,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Oduncu Baltalar\u0131",
+    "ItemID": 1541522788,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131\u015F\u0131n Eli",
+    "ItemID": -915028618,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u011Fursuz Korucu Pantolonu",
+    "ItemID": -1993947781,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Selvi Fidan\u0131",
+    "ItemID": -1043479168,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": 172410251,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard\u0027\u0131n Pelerini",
+    "ItemID": -1177172544,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r Han\u00E7erler",
+    "ItemID": -1042299347,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Gezgini Pantolonu",
+    "ItemID": 1364444719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ruh Yan\u0131\u011F\u0131",
+    "ItemID": 282707515,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir M\u0131zrak",
+    "ItemID": 2001389164,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FCs\u00FCn\u00FCn Y\u00FCz\u00FC\u011F\u00FC",
+    "ItemID": -293419350,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "E\u011Fik Di\u015F Pantolonu",
+    "ItemID": 1217578824,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u011Fursuz Korucu Yele\u011Fi",
+    "ItemID": 1809631067,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Madeni Para Deposu",
+    "ItemID": -832387204,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FC \u00C7izmesi",
+    "ItemID": 762038154,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir K\u0131l\u0131\u00E7",
+    "ItemID": -435501075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Tabancalar",
+    "ItemID": 1370998844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Muhaf\u0131z",
+    "ItemID": 886819019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz Eldiveni",
+    "ItemID": -399521517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0130blis Par\u00E7as\u0131",
+    "ItemID": -77477508,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir \u015E\u00F6valye Pantolonu",
+    "ItemID": 1966590385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hay\u0131rs\u0131z El\u00E7inin Muskas\u0131",
+    "ItemID": -175650376,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cad\u0131 \u0130ksiri",
+    "ItemID": -1563178470,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCzel Yemek Masas\u0131 Koleksiyonu",
+    "ItemID": -1236809045,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Z\u0131rhl\u0131 Kemik Muhaf\u0131z G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -958936382,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet Mantar\u0131 Sporu",
+    "ItemID": 1762839393,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Madeni Para",
+    "ItemID": 28625845,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FC Pantolonu",
+    "ItemID": 744344540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Afet Ta\u015F\u0131",
+    "ItemID": 1005440012,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eafak Dikeni Pantolonu",
+    "ItemID": -1555051415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F K\u00FCl\u00E7esi",
+    "ItemID": -762000259,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ba\u015F B\u00FCy\u00FCc\u00FCn\u00FCn Tac\u0131",
+    "ItemID": -2128818978,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Razer Kap\u00FC\u015Fonu",
+    "ItemID": -1797796642,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131ld\u0131r\u0131m Perdesi",
+    "ItemID": -464466648,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sivrisinek",
+    "ItemID": 961990006,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kas\u0131rga",
+    "ItemID": -341717525,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kusursuz Z\u00FCmr\u00FCt",
+    "ItemID": 1898237421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kuyumcu Odas\u0131 Zemin D\u00F6\u015Femesi",
+    "ItemID": 626118128,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sivrisinek",
+    "ItemID": -928330249,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kardinal Pelerini",
+    "ItemID": -1768698241,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boyun E\u011Fmez Y\u00FCk Kayna\u011F\u0131n\u0131n Muskas\u0131",
+    "ItemID": -1004351840,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "I\u015F\u0131yan Lif",
+    "ItemID": -182923609,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bo\u015F Batarya",
+    "ItemID": 1270271716,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015E\u00F6valye Mi\u011Fferi",
+    "ItemID": -1818243335,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bo\u015Fal\u0131m",
+    "ItemID": -313733383,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Kanl\u0131 K\u0131l\u0131\u00E7",
+    "ItemID": 147836723,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sava\u015Fta Y\u0131rt\u0131lm\u0131\u015F Bordo Pelerin",
+    "ItemID": 707710831,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ruhani Kurt",
+    "ItemID": 1520619383,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n Korkun\u00E7 \u00C7izmesi",
+    "ItemID": -382349289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCm\u00FC\u015F Direnci Demi",
+    "ItemID": -1269116849,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Gezgini \u00C7izmesi",
+    "ItemID": -383004511,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet Siper",
+    "ItemID": -1766731531,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Milis Mi\u011Fferi",
+    "ItemID": 417648894,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u00C7izmesi",
+    "ItemID": 1400688919,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk Terzilik Deposu",
+    "ItemID": -63123159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Elma A\u011Fac\u0131 Fidan\u0131",
+    "ItemID": 1226559814,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 M\u0131zrak",
+    "ItemID": -1396190808,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polen",
+    "ItemID": 855691699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir Avc\u0131s\u0131 \u015Eal\u0131",
+    "ItemID": 1335546377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n \u00DCrpertici G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 1033753207,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan G\u00FCl\u00FC \u0130ksiri",
+    "ItemID": 429052660,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Baltalar",
+    "ItemID": -1519267007,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00D6rt\u00FCs\u00FC",
+    "ItemID": -1302801575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Komutan\u0131n Muskas\u0131",
+    "ItemID": -104934480,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cengaver Mi\u011Fferi",
+    "ItemID": 1780339680,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FC\u00E7lendirilmi\u015F Kemik Arbalet",
+    "ItemID": 898159697,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Deri \u00C7anta",
+    "ItemID": -1991977825,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bulut Dans\u00E7\u0131lar\u0131",
+    "ItemID": 1954207008,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Baltalar\u0131",
+    "ItemID": 2100090213,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cehennem Borusu Sporu",
+    "ItemID": -1987586694,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ruh Yan\u0131\u011F\u0131",
+    "ItemID": 897635802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "1. Kademe \u0130ll\u00FCzyon M\u00FCcevheri",
+    "ItemID": 1387124262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eeytani Alimin Pantolonu",
+    "ItemID": -2049321404,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yontulmu\u015F Tahta",
+    "ItemID": -793913499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makyaj Masalar\u0131 ve Paravanlar",
+    "ItemID": -1676748911,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sakura Fidan\u0131",
+    "ItemID": 1818351545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yitiklerin Kanatlar\u0131",
+    "ItemID": 1570363331,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Avc\u0131s\u0131 Pantolonu",
+    "ItemID": -1718233147,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "1. Kademe F\u0131rt\u0131na M\u00FCcevheri",
+    "ItemID": -560146452,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos \u00D6rt\u00FCs\u00FC",
+    "ItemID": 155899991,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Z\u0131rhl\u0131 Kemik Muhaf\u0131z \u00C7izmesi",
+    "ItemID": 1241831522,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Siren\u0027in Feryad\u0131",
+    "ItemID": -1401104184,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Tabancalar",
+    "ItemID": -944318126,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos Diki\u015Fli \u015Eal",
+    "ItemID": -168044197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Se\u00E7kin Kalp",
+    "ItemID": -1965958712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCrpertici \u015E\u00F6valye G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": -1261118965,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir K\u0131rba\u00E7",
+    "ItemID": -847062445,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7amurlu Kap",
+    "ItemID": -1823614190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "E\u011Fik Di\u015F \u00C7izmesi",
+    "ItemID": -1837769884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 M\u0131zrak",
+    "ItemID": -850142339,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "3. Kademe \u0130ll\u00FCzyon M\u00FCcevheri",
+    "ItemID": 1540217782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik \u00D6rt\u00FCs\u00FC",
+    "ItemID": -1913987811,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Avc\u0131s\u0131 Pantolonu",
+    "ItemID": 206495029,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir Kar\u0131\u015F\u0131m\u0131",
+    "ItemID": -2102469163,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Tap\u0131nak\u00E7\u0131 Eldiveni",
+    "ItemID": -327754127,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00FCy\u00FCk T\u00FCketilebilir E\u015Fya Deposu",
+    "ItemID": 824237901,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik \u00D6rt\u00FCs\u00FC",
+    "ItemID": -1180115034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r Uzun Yay",
+    "ItemID": 352247730,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Arbalet",
+    "ItemID": 1221976097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hizmet\u00E7i E\u015Farb\u0131",
+    "ItemID": -1460281233,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u0130ksiri",
+    "ItemID": 828432508,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dolu Matara",
+    "ItemID": -1322000172,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dev S\u0131\u00E7an",
+    "ItemID": 213967097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "4. Kademe F\u0131rt\u0131na M\u00FCcevheri",
+    "ItemID": 2023809276,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ta\u015F Tozu",
+    "ItemID": 1388962120,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "U\u011Fursuz Korucu Yele\u011Fi",
+    "ItemID": 1753801067,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eafak Ko\u015Fucusunun Kolyesi",
+    "ItemID": -1046748791,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "2. Kademe Kaos M\u00FCcevheri",
+    "ItemID": 1083105737,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kil",
+    "ItemID": 317317590,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk A\u011Fa\u00E7 \u0130\u015Fleme Deposu",
+    "ItemID": 1040245278,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kristal M\u0131zrak",
+    "ItemID": -2117279191,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Uzun Yay",
+    "ItemID": -1793793429,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geyik Kafas\u0131",
+    "ItemID": 1707139699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ay\u0131 Kafas\u0131",
+    "ItemID": 714007172,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCms\u00FCz Kral\u0131n Mantosu",
+    "ItemID": -1814109557,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kas\u0131rga",
+    "ItemID": -1697520941,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Basit Hal\u0131lar",
+    "ItemID": 1383064284,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131ld\u0131r\u0131m Topu",
+    "ItemID": -1703746731,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkun\u00E7 Plakal\u0131 Pantolon",
+    "ItemID": -481041545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ate\u015F \u00C7i\u00E7e\u011Fi Tohumu",
+    "ItemID": 675013523,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7apulcu Eldiveni",
+    "ItemID": -258808647,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pa\u00E7avra Pantolon",
+    "ItemID": 725607617,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet Kristali",
+    "ItemID": -1748835106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131k\u0131c\u0131 Y\u0131lan Pelerini",
+    "ItemID": 1410262258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kaos \u00D6rt\u00FCs\u00FC",
+    "ItemID": 1613948207,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Kale Anahtar\u0131\n1. Seviye",
+    "ItemID": 960030104,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet \u0130pli\u011Fi",
+    "ItemID": 2106123809,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Yarasa Derisi",
+    "ItemID": -1886460367,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Golem",
+    "ItemID": -364321170,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Harpia",
+    "ItemID": 215017089,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l\u00FCm \u015E\u00F6valyesi",
+    "ItemID": -318118264,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik G\u00FCrz",
+    "ItemID": 1588258447,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Kale Anahtar\u0131\n2. Seviye",
+    "ItemID": 724428437,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00D6rt\u00FCs\u00FC",
+    "ItemID": 1692133021,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r K\u0131l\u0131\u00E7",
+    "ItemID": -1219959051,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": -314251399,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7am Fidan\u0131",
+    "ItemID": 1227483037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lanetliler M\u0131nt\u0131kas\u0131",
+    "ItemID": 665184248,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir Baltalar",
+    "ItemID": 1259464735,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7oban \u0130ksiri",
+    "ItemID": 541321301,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Usta B\u00FCy\u00FCc\u00FCn\u00FCn Muskas\u0131",
+    "ItemID": -1803818846,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131radan Yakut",
+    "ItemID": 51046573,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Bak\u0131r Uzun Yay",
+    "ItemID": 460843266,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Herhangi Bir \u00C7i\u00E7ek",
+    "ItemID": -2101941878,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kutsal \u00DCz\u00FCmler",
+    "ItemID": 88009216,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Uzun Yay Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 19130904,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00D6fkesi",
+    "ItemID": 662891042,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Olta Kam\u0131\u015F\u0131",
+    "ItemID": 1302850112,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 \u00C7a\u011Fr\u0131s\u0131",
+    "ItemID": 1128262258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir Avc\u0131s\u0131 Ba\u015Fl\u0131\u011F\u0131",
+    "ItemID": -1785271534,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Cevheri",
+    "ItemID": -1805325497,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "3. Kademe Kan M\u00FCcevheri",
+    "ItemID": -41686151,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u0131\u00E7an",
+    "ItemID": -869864524,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir \u015E\u00F6valye G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 1953885108,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Oku",
+    "ItemID": 918613164,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kuvars",
+    "ItemID": -1583485601,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ku\u015Fatma Golemi Ta\u015F\u0131",
+    "ItemID": -1461326411,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Flamalar",
+    "ItemID": -1321865795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ham Z\u00FCmr\u00FCt",
+    "ItemID": -237441421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F Uzun Yay",
+    "ItemID": -1830162796,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sivrisinek",
+    "ItemID": 902426262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Baltalar",
+    "ItemID": -102830349,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Korkun\u00E7 Plakal\u0131 Eldiven",
+    "ItemID": -196284663,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alt\u0131n Cevheri",
+    "ItemID": 660533034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Merhametsiz Demir K\u0131l\u0131\u00E7",
+    "ItemID": 1637216050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Takibi",
+    "ItemID": -170922187,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F Baltalar",
+    "ItemID": -1130238142,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u0131\u00E7ak Ustas\u0131n\u0131n Muskas\u0131",
+    "ItemID": -296161379,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet Siper",
+    "ItemID": 1123282909,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCm\u00FC\u015F K\u00FCl\u00E7esi",
+    "ItemID": -1787563914,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silah Deposu",
+    "ItemID": -1564741377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ay\u00E7i\u00E7e\u011Fi",
+    "ItemID": 1105981714,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCrpertici \u015E\u00F6valye Eldiveni",
+    "ItemID": 998240678,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma B\u00FCy\u00FCk K\u0131l\u0131\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": -1638796801,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hayalet Mantar\u0131",
+    "ItemID": -164367832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "So\u011Fuk Is\u0131r\u0131\u011F\u0131",
+    "ItemID": -930352575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "De\u011Ferli Ta\u015F",
+    "ItemID": 2115367516,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Art\u00E7\u0131 \u015Eok",
+    "ItemID": 1035334240,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Ay G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 502133568,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kristal",
+    "ItemID": -257494203,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C7apulcu Yele\u011Fi",
+    "ItemID": -112921782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 Arbalet",
+    "ItemID": 935392085,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kimyasala Bat\u0131r\u0131lm\u0131\u015F \u015Eal",
+    "ItemID": -1514540144,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma K\u0131l\u0131\u00E7 Par\u00E7ac\u0131klar\u0131",
+    "ItemID": 1048769481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alev Direnci Demi",
+    "ItemID": 970650569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Muhaf\u0131z \u00C7izmesi",
+    "ItemID": 711062517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kemik Han\u00E7erler",
+    "ItemID": -588909332,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mezarc\u0131",
+    "ItemID": 220001518,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk Patlay\u0131c\u0131 Kutusu",
+    "ItemID": 1779299585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kutup De\u011Fi\u015Ftirme",
+    "ItemID": -189270614,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sihirbaz \u00C7izmesi",
+    "ItemID": 1204352435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u0130ksiri",
+    "ItemID": -1871776321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kanl\u0131 K\u0131rba\u00E7",
+    "ItemID": 429323760,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Canavar\u0131n Ruh Par\u00E7ac\u0131\u011F\u0131",
+    "ItemID": -1581189572,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Y\u0131k\u0131c\u0131 Y\u0131lan Sarg\u0131s\u0131",
+    "ItemID": -766642494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ta\u015F Tu\u011Fla",
+    "ItemID": 1788016417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tutsa\u011F\u0131 Besle",
+    "ItemID": 1814558673,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": " ",
+    "ItemID": -1624770558,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Avc\u0131s\u0131 \u00C7izmesi",
+    "ItemID": 666433583,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6m\u00FCr",
+    "ItemID": -1932461974,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bak\u0131r Orak",
+    "ItemID": 1522792650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "666ae7ccf3c54914b76a623033db5fe6",
+    "ItemID": -580716317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan \u00D6z\u00FC \u00C7\u0131kar",
+    "ItemID": -911541799,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Avc\u0131s\u0131 G\u00F6\u011F\u00FCsl\u00FC\u011F\u00FC",
+    "ItemID": 1561721357,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seyyah \u015Eapkas\u0131",
+    "ItemID": -1071187362,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kalp \u00C7i\u00E7e\u011Fi Tohumu",
+    "ItemID": -1463158090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kan Ayini",
+    "ItemID": 1799289635,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cam",
+    "ItemID": -1233716303,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Odun",
+    "ItemID": -1593377811,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u015Eeytani Alimin \u00C7izmesi",
+    "ItemID": 1469185034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vah\u015Fet Demi",
+    "ItemID": 1556544548,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zindan Zemini D\u00F6\u015Femesi",
+    "ItemID": 1718353003,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "At\u00F6lye Zemini D\u00F6\u015Femesi",
+    "ItemID": 1906638073,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6lge Gezgini Pantolonu",
+    "ItemID": -90702575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Drakula\u0027n\u0131n G\u00F6lge \u00C7izmesi",
+    "ItemID": 1855323424,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara G\u00FCm\u00FC\u015F Han\u00E7erler",
+    "ItemID": 633666898,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Orman\u0131n \u00D6rt\u00FCs\u00FC",
+    "ItemID": 1063517722,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FC\u00E7\u00FCk Terzilik Deposu",
+    "ItemID": -1304625582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Demir M\u0131zrak",
+    "ItemID": 1853029976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kara Deri Pelerin",
+    "ItemID": 1261174372,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Buz \u00D6rt\u00FCs\u00FC",
+    "ItemID": -710738056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0131z\u0131l Tap\u0131nak\u00E7\u0131 \u00C7izmesi",
+    "ItemID": 1529216919,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Atadan Kalma Silah",
+    "ItemID": -1573584970,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Afsuncunun Kolyesi",
+    "ItemID": 199425997,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00FCn Bat\u0131m\u0131 G\u00F6zc\u00FC \u00C7izmesi",
+    "ItemID": 51576788,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  }
+]

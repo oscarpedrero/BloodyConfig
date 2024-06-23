@@ -1,0 +1,6673 @@
+[
+  {
+    "name": "Nagy Alvil\u00E1gi szil\u00E1nk",
+    "ItemID": 576389135,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Ill\u00FAzi\u00F3 F\u00E1tyla",
+    "ItemID": 606339127,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si sz\u00E1mszer\u00EDj szil\u00E1nkok",
+    "ItemID": 2061238391,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lilatollas k\u00F6peny",
+    "ItemID": 1677983904,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t m\u00E1gus keszty\u0171k",
+    "ItemID": -46006079,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si nagykard szil\u00E1nkok",
+    "ItemID": -1743584975,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9k k\u00E9tkezes kard",
+    "ItemID": 1322254792,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6k\u00E9letes zaf\u00EDr",
+    "ItemID": -2020212226,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mut\u00E1nszs\u00EDr",
+    "ItemID": -1527315816,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Handschuhe",
+    "ItemID": -752418019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nyers K\u00F6dk\u0151",
+    "ItemID": -1129708579,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pamutfonal",
+    "ItemID": 444400639,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szab\u00F3 padl\u00F3burkolat",
+    "ItemID": -137886670,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u0171szaki hullad\u00E9k",
+    "ItemID": 834864259,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rozsd\u00E1s sisak",
+    "ItemID": 1364460757,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ashfolk Krist\u00E1ly j\u00E9gk\u00F6peny",
+    "ItemID": 239338934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sz\u00F6vet",
+    "ItemID": -700774739,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis alk\u00EDmia t\u00E1rol\u00F3",
+    "ItemID": 11798247,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nymester csizma",
+    "ItemID": -1601304786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafter Dracula-Brustschutz",
+    "ItemID": 1392314162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mortira siralma",
+    "ItemID": -859437190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vasen und Pflanzen",
+    "ItemID": 1428883363,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy sz\u00F6k\u0151k\u00FAt",
+    "ItemID": -1171060793,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan r\u00E9zbalta",
+    "ItemID": 660670410,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Boszork\u00E1nymester gy\u0171r\u0171je",
+    "ItemID": 336922685,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Behem\u00F3t L\u00E9lekszil\u00E1nkja",
+    "ItemID": 1247086852,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis anyagt\u00E1rol\u00F3",
+    "ItemID": -513865346,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "P\u00F3kocska",
+    "ItemID": 2015299972,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Elvar\u00E1zsolt f\u0151zet",
+    "ItemID": 492964298,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s korb\u00E1cs",
+    "ItemID": -655095317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9l\u0151halott norm\u00E1l sisak",
+    "ItemID": 764480170,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "F\u0171r\u00E9szpor",
+    "ItemID": -1979905169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaspisztolyok",
+    "ItemID": 1850870666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s k\u00E9tkezes kard",
+    "ItemID": -1173681254,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Mantel",
+    "ItemID": 1712262077,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9kkorb\u00E1cs",
+    "ItemID": 567413754,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Sz\u00E1rnyas Borzalom L\u00E9lekszil\u00E1nkja",
+    "ItemID": -1260254082,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Pokol Harson\u00E1ja",
+    "ItemID": 813370507,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t m\u00E1gus nadr\u00E1g",
+    "ItemID": -595456862,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A S\u00E1t\u00E1n h\u00E1ta",
+    "ItemID": 1863126275,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pamut",
+    "ItemID": 362941759,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mad\u00E1rijeszt\u0151 maszk",
+    "ItemID": 403967307,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lemezelt Csont\u0151r keszty\u0171k",
+    "ItemID": 1746537832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Elvar\u00E1zsolt f\u00E1kly\u00E1k gy\u0171jtem\u00E9nye",
+    "ItemID": 879103343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kast\u00E9ly fenntart\u00E1s",
+    "ItemID": 421203343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9kl\u00E1ndzsa",
+    "ItemID": 1307774440,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vastest",
+    "ItemID": 988417522,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Agyar nadr\u00E1g",
+    "ItemID": 12127911,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si pisztoly szil\u00E1nkok",
+    "ItemID": 1040125618,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t m\u00E1gus mellv\u00E9rt",
+    "ItemID": -2127687996,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sz\u00F3fa- \u00E9s D\u00EDv\u00E1nygy\u0171jtem\u00E9ny",
+    "ItemID": 2053574378,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnyj\u00E1r\u00F3 keszty\u0171",
+    "ItemID": 1014370193,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontkard",
+    "ItemID": 1328680870,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A szir\u00E9n jajgat\u00E1sa",
+    "ItemID": 781586362,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ny\u00E1rfa csemete",
+    "ItemID": 1996361886,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst sz\u00E1mszer\u00EDj",
+    "ItemID": -814739263,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Boszork\u00E1nymester med\u00E1lja",
+    "ItemID": -651554566,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagyakad\u00E1ly",
+    "ItemID": 1381699867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontkard",
+    "ItemID": -786493143,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si balt\u00E1k szil\u00E1nkjai",
+    "ItemID": 442700150,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hom\u00E1lyfa",
+    "ItemID": -1740500585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9r\u00E9kszer, 4. szint",
+    "ItemID": 271061481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pestisdoktor maszk",
+    "ItemID": -262204844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kandall\u00F3k",
+    "ItemID": -946597284,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1zlat",
+    "ItemID": 2085163661,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s spir\u00E1l",
+    "ItemID": 1785926321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zbuzog\u00E1ny",
+    "ItemID": -331345186,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Hose",
+    "ItemID": 1912738568,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ashfolk Korona",
+    "ItemID": -1988816037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zl\u00E1ndzsa",
+    "ItemID": 1370755976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy anyagt\u00E1rol\u00F3",
+    "ItemID": -1061940339,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s sz\u00E1mszer\u00EDj",
+    "ItemID": 1389040540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arany kast\u00E9lykulcs \n4/5. szint",
+    "ItemID": 551949280,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rtombol\u00E1s",
+    "ItemID": 343217159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Handschuhe",
+    "ItemID": -204401621,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csel\u00E9d sapka",
+    "ItemID": -1721887666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnyj\u00E1r\u00F3 csizma",
+    "ItemID": 1101206623,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontv\u00E1z",
+    "ItemID": -836889492,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenstiefel",
+    "ItemID": 1192629421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vaskasza",
+    "ItemID": -2081286944,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si buzog\u00E1ny szil\u00E1nkok",
+    "ItemID": 1963988265,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Selyemherny\u00F3",
+    "ItemID": 930747930,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A K\u00E1rhozottak Wardja",
+    "ItemID": 1479677538,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rr\u00F3zsa",
+    "ItemID": 1726420644,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0027Sz\u00EDvb\u0151l j\u00F6v\u0151\u0027 falpanelek",
+    "ItemID": -581757157,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9kszer t\u00E1rol\u00F3",
+    "ItemID": -1870194782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9r\u00E9kszer, 1. szint",
+    "ItemID": -113436752,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Macskak\u00F6ves utak",
+    "ItemID": 2094602185,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si sarl\u00F3szil\u00E1nkok",
+    "ItemID": -1390536751,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaskasza",
+    "ItemID": 1778128946,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Martal\u00F3c mell\u00E9ny",
+    "ItemID": 1850873910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenstiefel",
+    "ItemID": -1958602686,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Seelensplitter",
+    "ItemID": 666638454,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gy\u00E1szol\u00F3 liliom",
+    "ItemID": -363718499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDrlovag keszty\u0171k",
+    "ItemID": -745793193,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sz\u00FCrk\u00FCleti Snapper",
+    "ItemID": -570287766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nyers zaf\u00EDr",
+    "ItemID": 552409457,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Stiefel",
+    "ItemID": -668460646,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontrobban\u00E1s",
+    "ItemID": -1123608041,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rabszolgasisak",
+    "ItemID": 1587354182,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Stiefel",
+    "ItemID": -1214309698,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Pirkadatfut\u00F3 med\u00E1lja",
+    "ItemID": -224716062,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCres vizest\u00F6ml\u0151",
+    "ItemID": -810738866,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vill\u00E1mf\u00FCgg\u00F6ny",
+    "ItemID": 394140527,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mortira siralma",
+    "ItemID": 1801132968,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lemezelt Csont\u0151r nadr\u00E1g",
+    "ItemID": -2036196416,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Var\u00E1zslatsz\u00F6v\u0151 gy\u0171r\u0171je",
+    "ItemID": 1310923765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vastag irha",
+    "ItemID": -2047402903,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vas k\u00E9tkezes kard",
+    "ItemID": 869276797,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szalmakalap",
+    "ItemID": 1375804543,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kisebb napf\u00E9ny\u00E1ll\u00F3s\u00E1gi f\u0151zet",
+    "ItemID": 756555009,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si hossz\u00FA \u00EDj szil\u00E1nkok",
+    "ItemID": 285875674,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00F6k\u0151k\u00FAt",
+    "ItemID": -312598876,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s buzog\u00E1ny",
+    "ItemID": -567468235,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szer\u00E9ny kerti kasp\u00F3k",
+    "ItemID": -1383718976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan zaf\u00EDr",
+    "ItemID": -1147920398,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rusok",
+    "ItemID": -696770536,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alapk\u0151",
+    "ItemID": -2017255390,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wrangler b\u00E1jitala",
+    "ItemID": -1242947472,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D3nixk\u00F6nny",
+    "ItemID": -651878258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vill\u00E1mf\u00FCgg\u00F6ny",
+    "ItemID": -2134499162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E1mpaoszlopok",
+    "ItemID": 776216743,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ez\u00FCst\u00E9rc",
+    "ItemID": 1686577386,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen r\u00E9zkasza",
+    "ItemID": 1048518929,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafter Plattenbrustschutz",
+    "ItemID": 750788905,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagydenev\u00E9r",
+    "ItemID": -309124704,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Viharf\u00E1tyol",
+    "ItemID": -556391992,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Olaj",
+    "ItemID": -242277891,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00FCl\u00F6tt element\u00E1l",
+    "ItemID": -2141642225,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0027Sz\u00EDv\u0027 falpanel",
+    "ItemID": -106224889,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Norm\u00E1l zaf\u00EDr",
+    "ItemID": 131015492,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Egyszer\u0171 kerti kasp\u00F3k",
+    "ItemID": 1307976528,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDr \u00E1tok",
+    "ItemID": -2137054310,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vas k\u00E9tkezes kard",
+    "ItemID": 82781195,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Halcsont",
+    "ItemID": 424158416,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan r\u00E9zbalta",
+    "ItemID": -491969324,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Pirkadatfut\u00F3 gy\u0171r\u0171je",
+    "ItemID": -1542642288,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ez\u00FCst\u00E9rme",
+    "ItemID": -949672483,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Norm\u00E1l top\u00E1z",
+    "ItemID": -2118441460,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rr\u00F3zsa f\u0151zet",
+    "ItemID": -895015382,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Banshee",
+    "ItemID": -1513937321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s balta",
+    "ItemID": -2044057823,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karmazsinv\u00F6r\u00F6s Ward",
+    "ItemID": -1755568324,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst l\u00E1ndzsa",
+    "ItemID": -352704566,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Energiamag",
+    "ItemID": -1190647720,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rezon\u00E1tor",
+    "ItemID": -1629804427,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vas k\u00E9tkezes kard",
+    "ItemID": 1126901893,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndige Dracula-Handschuhe",
+    "ItemID": 1039083725,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si kasza szil\u00E1nkok",
+    "ItemID": -413259500,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Brustschutz",
+    "ItemID": -69916288,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz\u00E9kszer, 3. szint",
+    "ItemID": -1601295908,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A B\u00EDbor Parancsnok amulettje",
+    "ItemID": -1063966176,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Solarus L\u00E9lekszil\u00E1nkja",
+    "ItemID": -21943750,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagydenev\u00E9r",
+    "ItemID": -1530254765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaspisztolyok",
+    "ItemID": 14297698,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Stiefel",
+    "ItemID": -15390086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst k\u00E9tkezes kard",
+    "ItemID": 674704033,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaskorb\u00E1cs",
+    "ItemID": 710159072,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9kkasza",
+    "ItemID": -465491217,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Trauerweidensetzling",
+    "ItemID": 858598154,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6k\u00E9letes smaragd",
+    "ItemID": 1354115931,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan irha",
+    "ItemID": 1658596502,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Hose",
+    "ItemID": -996201260,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vegyszerrel \u00E1titatott k\u00F6peny",
+    "ItemID": -1324340002,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6k\u00E9letes top\u00E1z",
+    "ItemID": -1983566585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vihar\u00E9kszer, 2. szint",
+    "ItemID": 876293388,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nyers dr\u00E1gak\u0151",
+    "ItemID": -2039337521,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9z hossz\u00FA \u00EDj",
+    "ItemID": 532033005,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s k\u00E9tkezes kard",
+    "ItemID": 730869315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si korb\u00E1csszil\u00E1nkok",
+    "ItemID": -1222824286,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont sz\u00E1mszer\u00EDj",
+    "ItemID": -20041991,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s pisztolyok",
+    "ItemID": 1071656850,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasbuzog\u00E1ny",
+    "ItemID": 1526542305,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9jvad\u00E1sz nadr\u00E1g",
+    "ItemID": 1925394440,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "N\u00F6v\u00E9nyi rost",
+    "ItemID": -1409142667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenhandschuhe",
+    "ItemID": -1512099553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagyobb v\u00E9resszencia",
+    "ItemID": 271594022,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hallucinog\u00E9n sp\u00F3r\u00E1k",
+    "ItemID": 1915695899,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hullarabl\u00F3",
+    "ItemID": 2042311455,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hom\u00E1lyr\u00E9v\u00FClet",
+    "ItemID": 2075997018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9l\u0151halott norm\u00E1l sisak",
+    "ItemID": 409678749,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis\u00FCl\u00E9s",
+    "ItemID": 1448686547,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitternachtsadelsgewand",
+    "ItemID": 538326235,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9ksarl\u00F3k",
+    "ItemID": 506082542,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "J\u00E9gn\u00F3va",
+    "ItemID": 1947940084,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Norm\u00E1l ametiszt",
+    "ItemID": -1962855117,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szents\u00E9gtelen \u00E9kszer, 3. szint",
+    "ItemID": -647547545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vas sz\u00E1mszer\u00EDj",
+    "ItemID": 937375187,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnycsap\u00E1s",
+    "ItemID": 738473666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rcsont gy\u0171r\u0171",
+    "ItemID": -652069131,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Meger\u0151s\u00EDtett csontbalta",
+    "ItemID": -1391446205,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Dracula-Hose",
+    "ItemID": 205207385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kiv\u00E9teles m\u00E1gikus \u00F6sszetev\u0151",
+    "ItemID": 1488205677,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si nagykard szil\u00E1nkok",
+    "ItemID": 747911021,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCbelt\u00E4ter Dracula-Stiefel",
+    "ItemID": 1531721602,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": -114411609,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A v\u00F6r\u00F6s ikrek",
+    "ItemID": 2099198078,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vaspisztolyok",
+    "ItemID": 769603740,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaskorb\u00E1cs",
+    "ItemID": 1393113320,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Napraforg\u00F3mag",
+    "ItemID": -473351958,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kov\u00E1csm\u0171hely padl\u00F3burkolat",
+    "ItemID": -1233700610,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ablakok gy\u0171jtem\u00E9nye",
+    "ItemID": 1905539368,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00EDs\u00E9rtetl\u00E1ndzsa",
+    "ItemID": 998259069,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nyers rubin",
+    "ItemID": 287586809,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont\u0151r nadr\u00E1g",
+    "ItemID": 1355823667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ciklon",
+    "ItemID": 994654794,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s buzog\u00E1ny",
+    "ItemID": -126076280,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Apokalipszis",
+    "ItemID": 1272855317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz Akad\u00E1ly",
+    "ItemID": 1112619884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "9cf16903e72643c8b23710b7e9f4567b",
+    "ItemID": -1838793646,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alk\u00EDmiai labor padl\u00F3burkolat",
+    "ItemID": 978074988,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bog\u00E1ncsmag",
+    "ItemID": -1370210913,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6k\u00E9letes ametiszt",
+    "ItemID": -106283194,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00FCveg",
+    "ItemID": -548847761,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vasbuzog\u00E1ny",
+    "ItemID": -1714012261,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A v\u00F6r\u00F6s ikrek",
+    "ItemID": 1239564213,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Krist\u00E1lyl\u00E1ndzsa",
+    "ItemID": -390381611,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A K\u00E1rhozottak Wardja",
+    "ItemID": -593608743,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Festm\u00E9nykeret",
+    "ItemID": 1553481703,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaskorb\u00E1cs",
+    "ItemID": 1705984031,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nemesi Ker\u00EDt\u00E9sek \u00E9s Sz\u00F6k\u0151kutak",
+    "ItemID": 679755989,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Temet\u0151gy\u0171r\u0171",
+    "ItemID": -1588051702,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si sarl\u00F3szil\u00E1nkok",
+    "ItemID": 1271087499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Megrontott koponya",
+    "ItemID": 140526202,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitternachtsballkleid",
+    "ItemID": -511360389,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Var\u00E1zslatsz\u00F6v\u0151 med\u00E1lja",
+    "ItemID": 759775881,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Utaz\u00F3 lebernyege",
+    "ItemID": -1819786494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy alk\u00EDmia t\u00E1rol\u00F3",
+    "ItemID": -67943596,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ez\u00FCstellen\u00E1ll\u00E1s f\u0151zete",
+    "ItemID": 272647158,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gyapotmag",
+    "ItemID": -1289010178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "J\u00E9gn\u00F3va",
+    "ItemID": -535477182,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "EMP",
+    "ItemID": -1447213995,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCbelt\u00E4ter Dracula-Hose",
+    "ItemID": 1592149279,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moszkit\u00F3",
+    "ItemID": -826325611,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCress\u00E9g",
+    "ItemID": -2054797612,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafter Plattenbrustschutz",
+    "ItemID": -1161279574,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rag\u00E1lyr\u00F3zsa",
+    "ItemID": 1474643910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Farkasfej",
+    "ItemID": -1169471531,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Brustschutz",
+    "ItemID": 626083889,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A V\u00E9ghoz\u00F3k",
+    "ItemID": 1630030026,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rtombol\u00E1s",
+    "ItemID": -1952560879,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9jszakai Leskel\u0151d\u0151 fej",
+    "ItemID": -2073081569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDrlovag csizma",
+    "ItemID": 830032282,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spektr\u00E1lis Farkas",
+    "ItemID": 455494178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zbalta",
+    "ItemID": 518802008,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Ill\u00FAzi\u00F3 F\u00E1tyla",
+    "ItemID": -1206629745,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sz\u0151nyegtekercs",
+    "ItemID": 1046366876,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontrobban\u00E1s",
+    "ItemID": 977816262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan b\u0151r",
+    "ItemID": -2043983118,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si kasza szil\u00E1nkok",
+    "ItemID": -2136716453,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": -1205777419,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9k hossz\u00FA \u00EDj",
+    "ItemID": 1283345494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hal\u00E1llovag",
+    "ItemID": -340571020,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rfoltos ruha",
+    "ItemID": 150621304,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": -811840389,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tekercs",
+    "ItemID": 2065714452,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s kard",
+    "ItemID": 1075465533,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Beszennyezett sz\u00EDv",
+    "ItemID": 947998050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rongytunika",
+    "ItemID": -1723445833,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Lovag med\u00E1lja",
+    "ItemID": -1658630722,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Agyagforma",
+    "ItemID": -1257026088,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ny\u00EDrfa csemete",
+    "ItemID": 1552240197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u00F3vir\u00E1g",
+    "ItemID": 106516056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A sz\u00F6rny l\u00E9lekszil\u00E1nkja",
+    "ItemID": -1619308732,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hom\u00E1lyr\u00E9v\u00FClet",
+    "ItemID": 101601247,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si sz\u00E1mszer\u00EDj szil\u00E1nkok",
+    "ItemID": 517296275,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Alkonyfigyel\u0151 med\u00E1lja",
+    "ItemID": 1474515294,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Hajnalcsillag",
+    "ItemID": 950358400,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s buzog\u00E1ny",
+    "ItemID": 1994084762,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment von Schlossst\u00FChlen",
+    "ItemID": -1929817673,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnycsap\u00E1s",
+    "ItemID": 1279283644,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u00E4ngelaternen",
+    "ItemID": -452767162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCbelt\u00E4ter Dracula-Handschuhe",
+    "ItemID": -1899539896,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten Dracula-Brustschutz",
+    "ItemID": 933057100,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u00F3vir\u00E1gmag",
+    "ItemID": 1985892973,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si korb\u00E1csszil\u00E1nkok",
+    "ItemID": 1340494453,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Norm\u00E1l K\u00F6dk\u0151",
+    "ItemID": 802050789,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nyers ametiszt",
+    "ItemID": 225530658,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Agyar mellv\u00E9rt",
+    "ItemID": -604941435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u201EImpoz\u00E1ns\u201D k\u0151falak",
+    "ItemID": 1884115881,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szekr\u00E9nyek gy\u0171jtem\u00E9nye",
+    "ItemID": 1691702273,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alvil\u00E1gi szil\u00E1nk",
+    "ItemID": 2103989354,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t m\u00E1gus mellv\u00E9rt",
+    "ItemID": -2066262923,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Meger\u0151s\u00EDtett csontkard",
+    "ItemID": -796306296,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zs\u00E1lya hal",
+    "ItemID": 736318803,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00E1rmilyen dr\u00E1gak\u0151",
+    "ItemID": 1128027535,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Dracula-Handschuhe",
+    "ItemID": 1982551454,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Lovag med\u00E1lja",
+    "ItemID": -425306671,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vas kast\u00E9lykulcs \n3. szint",
+    "ItemID": -950839771,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si l\u00E1ndzsa szil\u00E1nkok",
+    "ItemID": 2142983740,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDrvad\u00E1sz fejfed\u0151",
+    "ItemID": 974739126,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vad\u00E1szk\u00F6peny",
+    "ItemID": 786585343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Hose",
+    "ItemID": -1260890289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6mbvill\u00E1m",
+    "ItemID": -1927784576,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenbrustschutz",
+    "ItemID": -1840162782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az \u00E9l\u0151halottak rongyai",
+    "ItemID": -305440546,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenbrustschutz",
+    "ItemID": -919709436,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis \u00E9kk\u0151 t\u00E1rol\u00F3",
+    "ItemID": 1150376281,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment von breiten Lagerregalen",
+    "ItemID": 1519475093,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rag\u00E1lyr\u00F3zsamagok",
+    "ItemID": -1495639636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vaskard",
+    "ItemID": -903587404,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasl\u00E1ndzsa",
+    "ItemID": -1783670291,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Norm\u00E1l dr\u00E1gak\u0151",
+    "ItemID": -2099422426,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E9zm\u0171vesek sarok",
+    "ItemID": -1221174479,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rvad\u00E1sz csizma",
+    "ItemID": -1788912715,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontgy\u0171r\u0171",
+    "ItemID": 1557814269,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan b\u0151rt\u00E1ska",
+    "ItemID": 1117281334,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vassarl\u00F3k",
+    "ItemID": -314614708,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eredeti v\u00E9resszencia",
+    "ItemID": 1566989408,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si sarl\u00F3szil\u00E1nkok",
+    "ItemID": 3759455,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9resszencia",
+    "ItemID": 862477668,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vas sz\u00E1mszer\u00EDj",
+    "ItemID": 836066667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hegycs\u00FAcs t\u00E1ska",
+    "ItemID": -1922998918,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9kszer",
+    "ItemID": 1075994038,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitternachtsadels-Hose",
+    "ItemID": 213736942,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Meger\u0151s\u00EDtett csontkasza",
+    "ItemID": 1402953369,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Bolond Kir\u00E1lyi f\u00E1tyla",
+    "ItemID": 379281083,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sapka",
+    "ItemID": -152150271,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zsarl\u00F3k",
+    "ItemID": 1499160417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6k\u00E9letes K\u00F6dk\u0151",
+    "ItemID": 750542699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vassarl\u00F3k",
+    "ItemID": 866934844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spektr\u00E1lis por",
+    "ItemID": -2130812821,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Halhatatlan Kir\u00E1ly k\u00F6penye",
+    "ItemID": -1067360120,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Viharf\u00E1tyol",
+    "ItemID": 182214837,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t m\u00E1gus csizma",
+    "ItemID": -1147510581,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vas sz\u00E1mszer\u00EDj",
+    "ItemID": -517906196,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si buzog\u00E1ny szil\u00E1nkok",
+    "ItemID": -1810734832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kisebb napf\u00E9ny\u00E1ll\u00F3s\u00E1gi f\u0151zet",
+    "ItemID": -38051433,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontkard",
+    "ItemID": 269771183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Energiahull\u00E1m",
+    "ItemID": -1090887222,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Handschuhe",
+    "ItemID": -1344118299,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zsz\u00E1mszer\u00EDj",
+    "ItemID": -1277074895,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan K\u00F6dk\u0151",
+    "ItemID": -1963826510,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aranyr\u00FAd",
+    "ItemID": -1027710236,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polarit\u00E1sv\u00E1lt\u00E1s",
+    "ItemID": -844537086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szent sz\u0151l\u0151mag",
+    "ItemID": -1681104075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "P\u00E1nc\u00E9l t\u00E1rol\u00F3",
+    "ItemID": 207381334,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A T\u00E1bornok L\u00E9lekarat\u00F3ja",
+    "ItemID": 1887724512,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vihar\u00E9kszer, 3. szint",
+    "ItemID": 189228039,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anyag- \u00E9s dr\u00E1gak\u0151 t\u00E1rol\u00E1s",
+    "ItemID": 686122001,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si l\u00E1ndzsa szil\u00E1nkok",
+    "ItemID": -958110636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Selyemherny\u00F3",
+    "ItemID": -11246506,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Elesett Sz\u00E1rnyai",
+    "ItemID": -1930402723,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A V\u00E9ghoz\u00F3k",
+    "ItemID": 1759077469,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nypor",
+    "ItemID": -223452038,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dokumentum",
+    "ItemID": 1334469825,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontkard",
+    "ItemID": -2085919458,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen r\u00E9zsz\u00E1mszer\u00EDj",
+    "ItemID": -1636801169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagyszer\u0171 par\u00E1zstart\u00F3k gy\u0171jtem\u00E9nye",
+    "ItemID": 835610037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rongyos cip\u0151k",
+    "ItemID": -2137364987,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Brustschutz",
+    "ItemID": -1595316636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ausr\u00FCstungslager",
+    "ItemID": 1249076837,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagy\u00E9kszer, 4. szint",
+    "ItemID": -147757377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E9n",
+    "ItemID": 880699252,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "El\u00E1tkozott fa",
+    "ItemID": 608397239,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Ezer Vihar L\u00E1ndzs\u00E1ja",
+    "ItemID": -1674680373,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0151d\u00EDszek",
+    "ItemID": -449615886,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": -1798608844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagyf\u00E1tyol",
+    "ItemID": 1729390800,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Vads\u00E1g f\u0151zete",
+    "ItemID": -269326085,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst kasza",
+    "ItemID": 6711686,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A B\u0171n\u00F6s Pr\u00F3f\u00E9ta amulettje",
+    "ItemID": 860383634,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szents\u00E9gtelen \u00E9kszer, 4. szint",
+    "ItemID": 1412786604,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Handschuhe",
+    "ItemID": 2020764183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Sz\u00E1rnyas Borzalom L\u00E9lekszil\u00E1nkja",
+    "ItemID": -222860772,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagyakad\u00E1ly",
+    "ItemID": -483235215,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Denev\u00E9rb\u0151rt\u00E1ska",
+    "ItemID": -181179773,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan dr\u00E1gak\u0151",
+    "ItemID": 1613130430,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6lgyt\u00E1nc",
+    "ItemID": 1102277512,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Var\u00E1zsl\u00F3 med\u00E1lja",
+    "ItemID": 587164554,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vas hossz\u00FA \u00EDj",
+    "ItemID": -1993708658,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutendes Herz",
+    "ItemID": -135435342,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s kasza",
+    "ItemID": -105026635,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vas k\u00E9tkezes kard",
+    "ItemID": -768054337,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Brustschutz",
+    "ItemID": 1871735757,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kiv\u00E9teles szab\u00E1szati \u00F6sszetev\u0151",
+    "ItemID": 828271620,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCltet\u0151kasp\u00F3k gy\u0171jtem\u00E9nye",
+    "ItemID": 1336896559,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst korb\u00E1cs",
+    "ItemID": -960205578,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Halt\u00E1rol\u00F3",
+    "ItemID": -205820651,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Boszork\u00E1nymester med\u00E1lja",
+    "ItemID": 1939500376,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si sz\u00E1mszer\u00EDj szil\u00E1nkok",
+    "ItemID": 572026243,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makul\u00E1tlan sz\u00EDv",
+    "ItemID": -204051056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vad Stinger",
+    "ItemID": 447901086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnyj\u00E1r\u00F3 mell\u00E9ny",
+    "ItemID": -849449432,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagy\u00E9kszer, 3. szint",
+    "ItemID": 223899244,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9kk\u0151por",
+    "ItemID": 820932258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rr\u00F3zsa mag",
+    "ItemID": 531984050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nymester keszty\u0171",
+    "ItemID": 1840869087,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mut\u00E1ns patk\u00E1ny",
+    "ItemID": -338333923,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnyj\u00E1r\u00F3 mell\u00E9ny",
+    "ItemID": 763326246,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si kardszil\u00E1nkok",
+    "ItemID": -1421775051,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Apokalipszis",
+    "ItemID": 820408138,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si balt\u00E1k szil\u00E1nkjai",
+    "ItemID": -1024626758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenhose",
+    "ItemID": 703230071,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Koponya maszk",
+    "ItemID": -2125696865,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndige Dracula-Stiefel",
+    "ItemID": 1646489863,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont",
+    "ItemID": 1821405450,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nymester mell\u00E9ny",
+    "ItemID": 2025615662,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz Sort\u0171z",
+    "ItemID": 1243967840,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9jvad\u00E1sz keszty\u0171k",
+    "ItemID": -1183157751,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Hose",
+    "ItemID": -262114802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Meger\u0151s\u00EDtett deszka",
+    "ItemID": -1397591435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s hossz\u00FA \u00EDj",
+    "ItemID": 722498174,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s sarl\u00F3k",
+    "ItemID": 1322545846,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1tfagy\u00E1s",
+    "ItemID": 55473000,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenhose",
+    "ItemID": -2104396934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00F6k\u0151k\u00FAt",
+    "ItemID": -1624411159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150szi ny\u00E1rfa csemete",
+    "ItemID": -2035190786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0027A Legjobb\u0027 sz\u0151nyegek gy\u0171jtem\u00E9nye",
+    "ItemID": -96701352,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rr\u00F3zsa f\u0151zet",
+    "ItemID": 800879747,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6mbvill\u00E1m",
+    "ItemID": 973763812,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00EDzzel t\u00F6lt\u00F6tt \u00FCveg",
+    "ItemID": -1382451936,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagyf\u00E1tyol",
+    "ItemID": -1190496962,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0151test",
+    "ItemID": 689272399,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan top\u00E1z",
+    "ItemID": -2051574178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ez\u00FCstsz\u00E1las t\u00E1ska",
+    "ItemID": -261654929,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00EDs\u00E9rtetl\u00E1ndzsa",
+    "ItemID": -455117097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00FAt",
+    "ItemID": -1205373095,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Krist\u00E1lyl\u00E1ndzsa",
+    "ItemID": 594180030,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCbelt\u00E4ter Dracula-Brustschutz",
+    "ItemID": 114259912,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Handschuhe",
+    "ItemID": 1485993952,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tokitollas k\u00F6peny",
+    "ItemID": -589858836,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00F6k\u0151k\u00FAt",
+    "ItemID": 1755478077,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s sz\u00E1mszer\u00EDj",
+    "ItemID": 1856338018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Manakend\u0151",
+    "ItemID": -2091288477,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9ksz\u00F6vet",
+    "ItemID": -1458997116,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Solarus L\u00E9lekszil\u00E1nkja",
+    "ItemID": 2019195024,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00EDs\u00E9rtetl\u00E1ndzsa",
+    "ItemID": 665418354,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Obsidian",
+    "ItemID": -543524210,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaskasza",
+    "ItemID": -922125625,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Alkonyfigyel\u0151 med\u00E1lja",
+    "ItemID": 610958202,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hajnalt\u00F6vis mellv\u00E9rt",
+    "ItemID": -930514044,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6nyvt\u00E1r padl\u00F3burkolat",
+    "ItemID": -946177070,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u0171zvir\u00E1g",
+    "ItemID": 455638025,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen r\u00E9zsz\u00E1mszer\u00EDj",
+    "ItemID": -192381912,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szent fa",
+    "ItemID": -2014020548,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Inas sisakja",
+    "ItemID": -353076115,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ashfolk sisak",
+    "ItemID": -1607893829,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndige Dracula-Hose",
+    "ItemID": 993033515,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst buzog\u00E1ny",
+    "ItemID": -184713893,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vassarl\u00F3k",
+    "ItemID": 1930526079,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s l\u00E1ndzsa",
+    "ItemID": -1931117134,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz Akad\u00E1ly",
+    "ItemID": -374243736,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "a45f2523444840c29f964f2d43ada733",
+    "ItemID": -167936394,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sug\u00E1rz\u00F3 k\u00E1sa",
+    "ItemID": 1851490036,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Denev\u00E9rirha",
+    "ItemID": 1262845777,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": 526090146,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nibbles, az irt\u00F3zatos patk\u00E1ny",
+    "ItemID": 927039475,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rombol\u00F3 K\u00EDgy\u00F3pal\u00E1st",
+    "ItemID": 136740861,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenhandschuhe",
+    "ItemID": -1296203752,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Ezer Vihar L\u00E1ndzs\u00E1ja",
+    "ItemID": 124616797,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Patk\u00E1ny",
+    "ItemID": 2029158532,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s pisztolyok",
+    "ItemID": -349470582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontrobban\u00E1s",
+    "ItemID": -749764415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9r Snapper",
+    "ItemID": -1779269313,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ashfolk Fut\u00F3t\u0171z k\u00F6peny",
+    "ItemID": -1023114892,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kitin",
+    "ItemID": -953253466,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rmerlot med\u00E1l",
+    "ItemID": 991396285,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szent Ellen\u00E1ll\u00E1s kulacs",
+    "ItemID": 639992282,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A D\u00FCh b\u00E1jitala",
+    "ItemID": -2013887729,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s hossz\u00FA \u00EDj",
+    "ItemID": 1177453385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasbuzog\u00E1ny",
+    "ItemID": -276593802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "El\u00E1tkozott facsemete",
+    "ItemID": -1897495615,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hal\u00E1llovag",
+    "ItemID": -173571027,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si korb\u00E1csszil\u00E1nkok",
+    "ItemID": 1490846791,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gy\u00E1szliliommag",
+    "ItemID": -1386314668,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szents\u00E9gtelen \u00E9kszer, 2. szint",
+    "ItemID": -860388090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Martal\u00F3c l\u00E1bsz\u00E1rv\u00E9d\u0151k",
+    "ItemID": -2095610608,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagyakad\u00E1ly",
+    "ItemID": 2134082866,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Pirkadatfut\u00F3 gy\u0171r\u0171je",
+    "ItemID": 50824544,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00E1rmilyen hal",
+    "ItemID": 300582272,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenhandschuhe",
+    "ItemID": 1508214166,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zvezet\u00E9kek",
+    "ItemID": -456161884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cilinder",
+    "ItemID": 690259405,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Handschuhe",
+    "ItemID": -1752332712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Fantom F\u00E1tyla",
+    "ItemID": -227965303,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Hajthatatlan \u00D6klel\u0151 amulettje",
+    "ItemID": -1424521314,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Felt\u00F6lt\u00F6tt akkumul\u00E1tor",
+    "ItemID": -412448857,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pap\u00EDr",
+    "ItemID": 780044299,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Handschuhe",
+    "ItemID": -1522497513,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vas hossz\u00FA \u00EDj",
+    "ItemID": 1951565953,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kicsi Fokhagyma-ellen\u00E1ll\u00E1s f\u0151zet",
+    "ItemID": 423790753,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagy\u00E9kszer, 1. szint",
+    "ItemID": 1908312304,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Durva sz\u00E1l",
+    "ItemID": -1562867444,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan rubin",
+    "ItemID": 74811721,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rowdains Ross",
+    "ItemID": -1270904319,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst kard",
+    "ItemID": -1455388114,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Ill\u00FAzi\u00F3 F\u00E1tyla",
+    "ItemID": -941913536,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rmerlot",
+    "ItemID": 1223264867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aranyfoly\u00F3 s\u00FCg\u00E9r",
+    "ItemID": 67930804,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Hose",
+    "ItemID": 347441899,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A T\u00E9l Keze",
+    "ItemID": 675187526,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rkrist\u00E1ly",
+    "ItemID": -1913156733,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1rtev\u0151kr\u00E9m",
+    "ItemID": -1885959251,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9jvad\u00E1sz csizm\u00E1k",
+    "ItemID": -1354920908,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis \u00E9kk\u0151 t\u00E1rol\u00F3",
+    "ItemID": 1455590675,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150szi ny\u00EDrfa csemete",
+    "ItemID": 2000981302,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nyf\u0151zet",
+    "ItemID": 1510182325,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rvad\u00E1sz keszty\u0171k",
+    "ItemID": -777417289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az \u0150sboszork\u00E1nymester amulettje",
+    "ItemID": -749171183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnyj\u00E1r\u00F3 keszty\u0171",
+    "ItemID": 181112381,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rfarkas fej",
+    "ItemID": -2020831626,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy tud\u00E1st\u00E1rol\u00F3",
+    "ItemID": 1823379076,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sziv\u00E1rv\u00E1nyos pisztr\u00E1ng",
+    "ItemID": -149778795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00E1rol\u00F3szekr\u00E9nyek gy\u0171jtem\u00E9nye",
+    "ItemID": -999518496,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy robban\u00F3csomag",
+    "ItemID": -1021407417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kerti bolt\u00EDvek \u00E9s pergol\u00E1k",
+    "ItemID": -1645899934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s kard",
+    "ItemID": 195858450,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rongyba Burkolt K\u00E9z",
+    "ItemID": 1216450741,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u003Ccolor=#C52443\u003EV\u00E9rkulcs\u003C/color\u003E",
+    "ItemID": 1655869633,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan r\u00E9zkard",
+    "ItemID": -1455124124,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Martal\u00F3c l\u00E1bsz\u00E1rv\u00E9d\u0151k",
+    "ItemID": 1172935197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Hose",
+    "ItemID": -1564372276,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si kardszil\u00E1nkok",
+    "ItemID": -830893351,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Hose",
+    "ItemID": -1385786654,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontf\u00E1tyol",
+    "ItemID": -1347054873,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zr\u00FAd",
+    "ItemID": -1237019921,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Martal\u00F3c csizm\u00E1k",
+    "ItemID": 362386181,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sz\u00E9les v\u00E9rtart\u00F3",
+    "ItemID": 489001758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Remete kend\u0151je",
+    "ItemID": 2147390246,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si pisztoly szil\u00E1nkok",
+    "ItemID": -1038642372,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nymester l\u00E1bsz\u00E1rv\u00E9d\u0151",
+    "ItemID": 1458279255,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Stiefel",
+    "ItemID": -706178162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9kkard",
+    "ItemID": -1215982687,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCres \u00FCvegpalack",
+    "ItemID": -437611596,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00F6rt\u00F6nfal",
+    "ItemID": -2086890414,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vaskard",
+    "ItemID": 1427084419,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1oszf\u00E1tyol",
+    "ItemID": -2133879652,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Stiefel",
+    "ItemID": -1921018689,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz\u00E9kszer, 1. szint",
+    "ItemID": 2130810069,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasl\u00E1ndzsa",
+    "ItemID": 1065194820,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vasbalta",
+    "ItemID": -1579575933,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si balt\u00E1k szil\u00E1nkjai",
+    "ItemID": -2147445292,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nymester l\u00E1bsz\u00E1rv\u00E9d\u0151",
+    "ItemID": -117205517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Hajnalcsillag",
+    "ItemID": -671246832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz Akad\u00E1ly",
+    "ItemID": -209873380,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si pisztoly szil\u00E1nkok",
+    "ItemID": -1502177717,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si l\u00E1ndzsa szil\u00E1nkok",
+    "ItemID": 1717016192,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Elektromoss\u00E1g",
+    "ItemID": -77555820,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontl\u00E1ndzsa",
+    "ItemID": 2038011836,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Beatrice s\u00E1lja",
+    "ItemID": -2081646636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagy\u00E9kszer, 2. szint",
+    "ItemID": 1030854657,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hom\u00E1lyr\u00E9v\u00FClet",
+    "ItemID": -1513121786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Elvar\u00E1zsolt f\u0151zet",
+    "ItemID": 248289327,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontv\u00E1z pap",
+    "ItemID": 1252366498,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Megrontott koponya",
+    "ItemID": -1508992859,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Agyar keszty\u0171k",
+    "ItemID": -406808302,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00FCl\u00F6tt v\u00EDzk\u00F6p\u0151",
+    "ItemID": -1199531707,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasbalta",
+    "ItemID": -1596352033,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cs\u00E1sz\u00E1ri sz\u00F6vet",
+    "ItemID": -898917584,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Handschuhe",
+    "ItemID": 322804535,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6lgy csemete",
+    "ItemID": -626353315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Felh\u0151 T\u00E1ncosai",
+    "ItemID": -2068145306,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9kbuzog\u00E1ny",
+    "ItemID": 160471982,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szents\u00E9gtelen \u00E9kszer, 1. szint",
+    "ItemID": 803445709,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kir\u00E1lyi f\u00FCgg\u00F6ny\u00F6k gy\u0171jtem\u00E9nye",
+    "ItemID": 285318201,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Hose",
+    "ItemID": 1328323768,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan r\u00E9zl\u00E1ndzsa",
+    "ItemID": -1690985210,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten Dracula-Handschuhe",
+    "ItemID": -1826382550,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Halottid\u00E9z\u0151 s\u00FCveg",
+    "ItemID": 607559019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vastag b\u0151r",
+    "ItemID": -305160765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten Dracula-Hose",
+    "ItemID": -345596442,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6k\u00E9letes rubin",
+    "ItemID": 188653143,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szab\u00E1lyos Dr\u00E1gak\u0151v\u00E9n\u00E1k",
+    "ItemID": 889298519,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan r\u00E9zbuzog\u00E1ny",
+    "ItemID": -1003381140,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1b\u00EDt\u00F3 gomba",
+    "ItemID": -1566269773,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fokhagyma-ellen\u00E1ll\u00E1s b\u00E1jital",
+    "ItemID": 791584738,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy faipari t\u00E1rol\u00F3",
+    "ItemID": 206151993,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Stiefel",
+    "ItemID": -1023762087,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nymester mell\u00E9ny",
+    "ItemID": -2100321922,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0151",
+    "ItemID": -1531666018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDr \u00E1tok",
+    "ItemID": -1844141622,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rszertart\u00E1s",
+    "ItemID": -2059886133,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Stiefel",
+    "ItemID": -534142437,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t m\u00E1gus csizma",
+    "ItemID": 138060378,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rep\u00FCl\u0151 f\u00E9nyek",
+    "ItemID": 1594270493,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ashfolk-i Kir\u00E1lyok Kir\u00E1lyi pal\u00E1stja",
+    "ItemID": 584164197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Jeges varrott kend\u0151",
+    "ItemID": -24337506,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis fogy\u00F3eszk\u00F6z t\u00E1rol\u00F3",
+    "ItemID": -1624005683,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gyapj\u00FAsz\u00E1l",
+    "ItemID": 1872733144,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9jvad\u00E1sz mell\u00E9ny",
+    "ItemID": -957963240,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDrl\u00F3nyereg",
+    "ItemID": -1209228232,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1tfagy\u00E1s",
+    "ItemID": -441408420,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": -684874624,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s kard",
+    "ItemID": -774462329,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Var\u00E1zslatsz\u00F6v\u0151 Mester amulettje",
+    "ItemID": -1306155896,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aranynap \u00E9rme",
+    "ItemID": -571562864,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ut\u00F3reng\u00E9s",
+    "ItemID": 685024499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fokhagyma-ellen\u00E1ll\u00E1s b\u00E1jital",
+    "ItemID": -2139183850,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst pisztolyok",
+    "ItemID": 674407758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fantom \u00E9gisz",
+    "ItemID": 870884715,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00FCl\u00F6tt hullahegy",
+    "ItemID": 34841965,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t m\u00E1gus keszty\u0171k",
+    "ItemID": 1247389106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00EDrpor",
+    "ItemID": -608131642,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontkard",
+    "ItemID": -1905547794,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Handschuhe",
+    "ItemID": 735880687,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kidolgozott gyertya\u00E1llv\u00E1nyok gy\u0171jtem\u00E9nye",
+    "ItemID": 1341367867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDr \u00E1tok",
+    "ItemID": -1337809256,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": 1110550218,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz\u00E9kszer, 4. szint",
+    "ItemID": -1796954295,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan r\u00E9zl\u00E1ndzsa",
+    "ItemID": 790210443,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagydenev\u00E9r",
+    "ItemID": 1793042384,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Meger\u0151s\u00EDtett csontsarl\u00F3k",
+    "ItemID": 926722036,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis\u00FCl\u00E9s",
+    "ItemID": 1533847605,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00FCl\u00F6tt boszork\u00E1ny",
+    "ItemID": 1452779821,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontkasza",
+    "ItemID": -152327780,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Deszka",
+    "ItemID": -1017402979,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Meger\u0151s\u00EDtett csontbuzog\u00E1ny",
+    "ItemID": -1998017941,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan ametiszt",
+    "ItemID": 1705028227,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Hal",
+    "ItemID": 176401052,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vas\u00E9rc",
+    "ItemID": 1332980397,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Martal\u00F3c keszty\u0171k",
+    "ItemID": -764630320,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s spir\u00E1l",
+    "ItemID": 75934448,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont",
+    "ItemID": 1413130999,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s korb\u00E1cs",
+    "ItemID": -1033721040,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenstiefel",
+    "ItemID": 1395895315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rvad\u00E1sz mellv\u00E9rt",
+    "ItemID": -2102875089,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont\u0151r keszty\u0171k",
+    "ItemID": -2029933415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Hose",
+    "ItemID": 125611165,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hord\u00F3\u00E1lca",
+    "ItemID": -82465606,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A S\u00EDrhoz\u00F3 kardja",
+    "ItemID": 2106567892,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Brustschutz",
+    "ItemID": -1641042717,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makellose Edelsteinadern",
+    "ItemID": 301051123,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Var\u00E1zslatsz\u00F6v\u0151 med\u00E1lja",
+    "ItemID": 1012837641,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si hossz\u00FA \u00EDj szil\u00E1nkok",
+    "ItemID": 649637190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Norm\u00E1l smaragd",
+    "ItemID": 357608868,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A D\u00FCh b\u00E1jitala",
+    "ItemID": -1568756102,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vaspisztolyok",
+    "ItemID": -1265586439,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rszertart\u00E1s",
+    "ItemID": 1881059081,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ill\u00FAzi\u00F3\u00E9kszer, 4. szint",
+    "ItemID": 97169184,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ezer\u00F6lt\u00E9ses k\u00F6peny",
+    "ItemID": 1275572025,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Energiahull\u00E1m",
+    "ItemID": -1166627007,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Er\u0151s irha",
+    "ItemID": -1222725729,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pestisvegy\u00E9sz nyereg",
+    "ItemID": -554782766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Meger\u0151s\u00EDtett csontl\u00E1ndzsa",
+    "ItemID": 1244180446,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pamut",
+    "ItemID": -656822228,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E9n\u00E9rc",
+    "ItemID": 1501868129,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Hose",
+    "ItemID": 680112231,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9k sz\u00E1mszer\u00EDj",
+    "ItemID": 1957540013,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Halhatatlan Kir\u00E1ly nagysisakja",
+    "ItemID": 238268650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Megrontott koponya",
+    "ItemID": -1183600395,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Viharf\u00E1tyol",
+    "ItemID": -1416449755,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ut\u00F3reng\u00E9s",
+    "ItemID": -651841188,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Handschuhe",
+    "ItemID": -1242910338,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zkard",
+    "ItemID": -2037272000,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Selyem",
+    "ItemID": 702067317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "J\u00E9gn\u00F3va",
+    "ItemID": 1123463900,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCress\u00E9g",
+    "ItemID": 157004582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s kasza",
+    "ItemID": -2053917766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagyszer\u0171 festm\u00E9nyek gy\u0171jtem\u00E9nye",
+    "ItemID": 38319072,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mocs\u00E1rlak\u00F3",
+    "ItemID": 177845365,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bog\u00E1ncs",
+    "ItemID": -598100816,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Stiefel",
+    "ItemID": -1329744719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00FCl\u00F6tt far\u00E9m",
+    "ItemID": -112151309,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hajnalt\u00F6vis keszty\u0171k",
+    "ItemID": 2055058719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz Sort\u0171z",
+    "ItemID": -1111771702,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vas hossz\u00FA \u00EDj",
+    "ItemID": -1003309553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ill\u00FAzi\u00F3\u00E9kszer, 2. szint",
+    "ItemID": 437696083,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bandita t\u00E1ska",
+    "ItemID": -219760992,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis gy\u00F3gyn\u00F6v\u00E9ny t\u00E1rol\u00F3",
+    "ItemID": -853559619,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasbuzog\u00E1ny",
+    "ItemID": 1177597629,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szent Ellen\u00E1ll\u00E1s b\u00E1jital",
+    "ItemID": 890484447,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rvad\u00E1sz keszty\u0171k",
+    "ItemID": 1067300584,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spektr\u00E1lis Farkas",
+    "ItemID": -1444759832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t m\u00E1gus nadr\u00E1g",
+    "ItemID": -454576348,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vassarl\u00F3k",
+    "ItemID": 1942009728,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si Alvil\u00E1gi szil\u00E1nk",
+    "ItemID": 28358550,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vasr\u00FAd",
+    "ItemID": -1750550553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00E1ny\u00E1szbuzog\u00E1ny",
+    "ItemID": -687294429,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirstaub",
+    "ItemID": 805157024,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan r\u00E9zbuzog\u00E1ny",
+    "ItemID": 343324920,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si kasza szil\u00E1nkok",
+    "ItemID": 886814985,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCress\u00E9g",
+    "ItemID": 666089763,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Karcs\u00FA v\u00E9rtart\u00F3",
+    "ItemID": -130369231,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anyag- \u00E9s dr\u00E1gak\u0151 t\u00E1rol\u00E1s",
+    "ItemID": -651642571,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Var\u00E1zslatsz\u00F6v\u0151 gy\u0171r\u0171je",
+    "ItemID": -886916793,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Boszork\u00E1nymester gy\u0171r\u0171je",
+    "ItemID": -1913800363,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u0171z\u00E1ll\u00F3 f\u0151zet",
+    "ItemID": 2114304481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Brustschutz",
+    "ItemID": 1055898174,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s hossz\u00FA \u00EDj",
+    "ItemID": 1860352606,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontbalta",
+    "ItemID": -1958888844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nyers top\u00E1z",
+    "ItemID": 867351268,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Alkonyfigyel\u0151 gy\u0171r\u0171je",
+    "ItemID": -809059551,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy gy\u00F3gyn\u00F6v\u00E9ny t\u00E1rol\u00F3",
+    "ItemID": 473545520,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan sz\u00EDv",
+    "ItemID": -1413694594,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis tud\u00E1st\u00E1rol\u00F3",
+    "ItemID": -1394295910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00EDnk\u0151 med\u00E1l",
+    "ItemID": -650855520,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s kasza",
+    "ItemID": 1350548439,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s sarl\u00F3k",
+    "ItemID": 821410795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Norm\u00E1l dr\u00E1gak\u0151",
+    "ItemID": -36717533,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hajnalt\u00F6vis csizm\u00E1k",
+    "ItemID": 560446510,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont\u0151r mellv\u00E9rt",
+    "ItemID": 329301090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arany\u00E9kszer",
+    "ItemID": -1749304196,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fen\u0151k\u0151",
+    "ItemID": 1252507075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Halhatatlan Kir\u00E1ly kend\u0151je",
+    "ItemID": 1284160983,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Energiahull\u00E1m",
+    "ItemID": 1168555540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6lgyt\u00E1nc",
+    "ItemID": -557203874,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz Sort\u0171z",
+    "ItemID": 818069106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Agyar mellv\u00E9rt",
+    "ItemID": -625033436,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dekorat\u00EDv k\u0151fal",
+    "ItemID": -1957642407,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Horg\u00E1szbot",
+    "ItemID": -1766408331,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rf\u00E1tyol",
+    "ItemID": -431964258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az \u0150sboszork\u00E1nymester amulettje",
+    "ItemID": 1380368392,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E9lekperzsel\u00E9s",
+    "ItemID": 1277476884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kitin",
+    "ItemID": -1199259626,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kavicsos utak",
+    "ItemID": -94650344,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6v\u00E9r G\u00F3bi",
+    "ItemID": -1642545082,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0027Kiv\u00E1l\u00F3\u0027 sz\u0151nyegek gy\u0171jtem\u00E9nye",
+    "ItemID": -1696677607,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s sarl\u00F3k",
+    "ItemID": 615301463,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Brustschutz",
+    "ItemID": -1279475298,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaskasza",
+    "ItemID": -977419819,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Friss hal",
+    "ItemID": 193249843,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Komor facsemete",
+    "ItemID": -1800289670,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u0151r",
+    "ItemID": -1907572080,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont\u0151r maszk",
+    "ItemID": -2111388989,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s spir\u00E1l",
+    "ItemID": -562511117,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Kardmester amulettje",
+    "ItemID": 1702347530,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasbalta",
+    "ItemID": 198951695,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si buzog\u00E1ny szil\u00E1nkok",
+    "ItemID": -1845443712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Remekm\u00EDv\u0171 par\u00E1zstart\u00F3k gy\u0171jtem\u00E9nye",
+    "ItemID": 742900616,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Martal\u00F3c csizm\u00E1k",
+    "ItemID": -1359494169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ez\u00FCstellen\u00E1ll\u00E1s b\u00E1jitala",
+    "ItemID": 2107622409,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Feh\u00E9r cseresznyevir\u00E1g csemete",
+    "ItemID": 1738392650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vegyszerrel \u00E1titatott kir\u00E1lyi \u00E9k",
+    "ItemID": 821609569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gartenm\u00F6bel und -laternen",
+    "ItemID": -1060453249,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polarit\u00E1sv\u00E1lt\u00E1s",
+    "ItemID": -944716649,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9r\u00E9kszer, 2. szint",
+    "ItemID": -996555621,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E1dium\u00F6tv\u00F6zet",
+    "ItemID": 2116142390,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fav\u00E1g\u00F3 balt\u00E1ja",
+    "ItemID": 1541522788,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A T\u00E9l Keze",
+    "ItemID": -915028618,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Hose",
+    "ItemID": -1993947781,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ciprus csemete",
+    "ItemID": -1043479168,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": 172410251,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Umhang",
+    "ItemID": -1177172544,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen r\u00E9zsarl\u00F3k",
+    "ItemID": -1042299347,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnyj\u00E1r\u00F3 l\u00E1bsz\u00E1rv\u00E9d\u0151",
+    "ItemID": 1364444719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E9lekperzsel\u00E9s",
+    "ItemID": 282707515,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasl\u00E1ndzsa",
+    "ItemID": 2001389164,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Alkonyfigyel\u0151 gy\u0171r\u0171je",
+    "ItemID": -293419350,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Agyar nadr\u00E1g",
+    "ItemID": 1217578824,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Weste",
+    "ItemID": 1809631067,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9rme t\u00E1rol\u00F3",
+    "ItemID": -832387204,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Stiefel",
+    "ItemID": 762038154,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vaskard",
+    "ItemID": -435501075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vaspisztolyok",
+    "ItemID": 1370998844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutw\u00E4chter",
+    "ItemID": 886819019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nymester keszty\u0171",
+    "ItemID": -399521517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E9mont\u00F6red\u00E9k",
+    "ItemID": -77477508,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDrlovag nadr\u00E1g",
+    "ItemID": 1966590385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A B\u0171n\u00F6s Pr\u00F3f\u00E9ta amulettje",
+    "ItemID": -175650376,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nyf\u0151zet",
+    "ItemID": -1563178470,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eleg\u00E1ns \u00E9tkez\u0151asztal-kollekci\u00F3",
+    "ItemID": -1236809045,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lemezelt Csont\u0151r mellv\u00E9rt",
+    "ItemID": -958936382,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szellemgomba sp\u00F3r\u00E1k",
+    "ItemID": 1762839393,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9z\u00E9rme",
+    "ItemID": 28625845,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Hose",
+    "ItemID": 744344540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00EDnk\u0151",
+    "ItemID": 1005440012,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hajnalt\u00F6vis nadr\u00E1g",
+    "ItemID": -1555051415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst r\u00FAd",
+    "ItemID": -762000259,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A F\u0151m\u00E1gus Koron\u00E1ja",
+    "ItemID": -2128818978,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rombol\u00F3 csuklya",
+    "ItemID": -1797796642,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vill\u00E1mf\u00FCgg\u00F6ny",
+    "ItemID": -464466648,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sz\u00FAnyog",
+    "ItemID": 961990006,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ciklon",
+    "ItemID": -341717525,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hib\u00E1tlan smaragd",
+    "ItemID": 1898237421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C9kszer\u00E9szkamra padl\u00F3k",
+    "ItemID": 626118128,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moszkit\u00F3",
+    "ItemID": -928330249,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00EDborosi k\u00F6peny",
+    "ItemID": -1768698241,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Hajthatatlan \u00D6klel\u0151 amulettje",
+    "ItemID": -1004351840,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sug\u00E1rz\u00F3 rost",
+    "ItemID": -182923609,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lemer\u00FClt akkumul\u00E1tor",
+    "ItemID": 1270271716,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lovagi sisak",
+    "ItemID": -1818243335,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis\u00FCl\u00E9s",
+    "ItemID": -313733383,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s k\u00E9tkezes kard",
+    "ItemID": 147836723,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u00E1bor\u00FAban T\u00E9pett borsz\u00EDn\u0171 k\u00F6peny",
+    "ItemID": 707710831,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spektr\u00E1lis Farkas",
+    "ItemID": 1520619383,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Dracula-Stiefel",
+    "ItemID": -382349289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ez\u00FCstellen\u00E1ll\u00E1s f\u0151zete",
+    "ItemID": -1269116849,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnyj\u00E1r\u00F3 csizma",
+    "ItemID": -383004511,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fantom \u00E9gisz",
+    "ItemID": -1766731531,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mil\u00EDcia sisak",
+    "ItemID": 417648894,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Stiefel",
+    "ItemID": 1400688919,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy szab\u00E1szati t\u00E1rol\u00F3",
+    "ItemID": -63123159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Almafa csemete",
+    "ItemID": 1226559814,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s l\u00E1ndzsa",
+    "ItemID": -1396190808,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vir\u00E1gpor",
+    "ItemID": 855691699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDrvad\u00E1sz kend\u0151",
+    "ItemID": 1335546377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger Dracula-Brustschutz",
+    "ItemID": 1033753207,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rr\u00F3zsa b\u00E1jital",
+    "ItemID": 429052660,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s balta",
+    "ItemID": -1519267007,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rf\u00E1tyol",
+    "ItemID": -1302801575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A B\u00EDbor Parancsnok amulettje",
+    "ItemID": -104934480,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Paladin sisak",
+    "ItemID": 1780339680,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Meger\u0151s\u00EDtett csontsz\u00E1mszer\u00EDj",
+    "ItemID": 898159697,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u0151rt\u00E1ska",
+    "ItemID": -1991977825,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Felh\u0151 T\u00E1ncosai",
+    "ItemID": 1954207008,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rny\u00E9kbalta",
+    "ItemID": 2100090213,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Pokol Harson\u00E1inak sp\u00F3r\u00E1i",
+    "ItemID": -1987586694,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "L\u00E9lekperzsel\u00E9s",
+    "ItemID": 897635802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ill\u00FAzi\u00F3\u00E9kszer, 1. szint",
+    "ItemID": 1387124262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenhose",
+    "ItemID": -2049321404,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Faragott fa",
+    "ItemID": -793913499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pipereasztal \u00E9s parav\u00E1nok",
+    "ItemID": -1676748911,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Cseresznyevir\u00E1g csemete",
+    "ItemID": 1818351545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Az Elesett Sz\u00E1rnyai",
+    "ItemID": 1570363331,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rvad\u00E1sz nadr\u00E1g",
+    "ItemID": -1718233147,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vihar\u00E9kszer, 1. szint",
+    "ItemID": -560146452,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1oszf\u00E1tyol",
+    "ItemID": 155899991,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lemezelt Csont\u0151r csizm\u00E1k",
+    "ItemID": 1241831522,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A szir\u00E9n jajgat\u00E1sa",
+    "ItemID": -1401104184,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s pisztolyok",
+    "ItemID": -944318126,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz varrott kend\u0151",
+    "ItemID": -168044197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u00F6k\u00E9letes sz\u00EDv",
+    "ItemID": -1965958712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Brustschutz",
+    "ItemID": -1261118965,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vaskorb\u00E1cs",
+    "ItemID": -847062445,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Iszappal teli tart\u00E1ly",
+    "ItemID": -1823614190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Agyar csizm\u00E1k",
+    "ItemID": -1837769884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s l\u00E1ndzsa",
+    "ItemID": -850142339,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ill\u00FAzi\u00F3\u00E9kszer, 3. szint",
+    "ItemID": 1540217782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontf\u00E1tyol",
+    "ItemID": -1913987811,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rvad\u00E1sz nadr\u00E1g",
+    "ItemID": 206495029,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirgebr\u00E4u",
+    "ItemID": -2102469163,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Handschuhe",
+    "ItemID": -327754127,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nagy fogy\u00F3eszk\u00F6z t\u00E1rol\u00F3",
+    "ItemID": 824237901,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontf\u00E1tyol",
+    "ItemID": -1180115034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen r\u00E9z hossz\u00FA \u00EDj",
+    "ItemID": 352247730,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vas sz\u00E1mszer\u00EDj",
+    "ItemID": 1221976097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csel\u00E9d kend\u0151je",
+    "ItemID": -1460281233,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9r b\u00E1jital",
+    "ItemID": 828432508,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tele vizest\u00F6ml\u0151",
+    "ItemID": -1322000172,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D3ri\u00E1s patk\u00E1ny",
+    "ItemID": 213967097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vihar\u00E9kszer, 4. szint",
+    "ItemID": 2023809276,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0151por",
+    "ItemID": 1388962120,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Weste",
+    "ItemID": 1753801067,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Pirkadatfut\u00F3 med\u00E1lja",
+    "ItemID": -1046748791,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1osz\u00E9kszer, 2. szint",
+    "ItemID": 1083105737,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Agyag",
+    "ItemID": 317317590,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis faipari t\u00E1rol\u00F3",
+    "ItemID": 1040245278,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Krist\u00E1lyl\u00E1ndzsa",
+    "ItemID": -2117279191,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen vas hossz\u00FA \u00EDj",
+    "ItemID": -1793793429,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szarvasfej",
+    "ItemID": 1707139699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Medvefej",
+    "ItemID": 714007172,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Halhatatlan Kir\u00E1ly pal\u00E1stja",
+    "ItemID": -1814109557,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ciklon",
+    "ItemID": -1697520941,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Egyszer\u0171 sz\u0151nyegek",
+    "ItemID": 1383064284,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "G\u00F6mbvill\u00E1m",
+    "ItemID": -1703746731,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenhose",
+    "ItemID": -481041545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u0171zvir\u00E1gmag",
+    "ItemID": 675013523,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Martal\u00F3c keszty\u0171k",
+    "ItemID": -258808647,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rongyos nadr\u00E1g",
+    "ItemID": 725607617,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szellemkrist\u00E1ly",
+    "ItemID": -1748835106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rombol\u00F3 K\u00EDgy\u00F3k\u00F6peny",
+    "ItemID": 1410262258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E1oszf\u00E1tyol",
+    "ItemID": 1613948207,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont kast\u00E9lykulcs \n1. szint",
+    "ItemID": 960030104,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szellemfonal",
+    "ItemID": 2106123809,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Denev\u00E9rb\u0151r",
+    "ItemID": -1886460367,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00FCl\u00F6tt g\u00F3lem",
+    "ItemID": -364321170,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rsz\u00FCl\u00F6tt h\u00E1rpia",
+    "ItemID": 215017089,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hal\u00E1llovag",
+    "ItemID": -318118264,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontbuzog\u00E1ny",
+    "ItemID": 1588258447,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont kast\u00E9lykulcs \n2. szint",
+    "ItemID": 724428437,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rf\u00E1tyol",
+    "ItemID": 1692133021,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan r\u00E9zkard",
+    "ItemID": -1219959051,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": -314251399,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Feny\u0151 csemete",
+    "ItemID": 1227483037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A K\u00E1rhozottak Wardja",
+    "ItemID": 665184248,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vasbalta",
+    "ItemID": 1259464735,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wrangler b\u00E1jitala",
+    "ItemID": 541321301,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Var\u00E1zslatsz\u00F6v\u0151 Mester amulettje",
+    "ItemID": -1803818846,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Norm\u00E1l rubin",
+    "ItemID": 51046573,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6ny\u00F6rtelen r\u00E9z hossz\u00FA \u00EDj",
+    "ItemID": 460843266,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00E1rmilyen vir\u00E1g",
+    "ItemID": -2101941878,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szent sz\u0151l\u0151",
+    "ItemID": 88009216,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si hossz\u00FA \u00EDj szil\u00E1nkok",
+    "ItemID": 19130904,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rtombol\u00E1s",
+    "ItemID": 662891042,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Horg\u00E1szbot",
+    "ItemID": 1302850112,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sz\u00FCrk\u00FCletid\u00E9z\u0151",
+    "ItemID": 1128262258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDrvad\u00E1sz fejfed\u0151",
+    "ItemID": -1785271534,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9z\u00E9rc",
+    "ItemID": -1805325497,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9r\u00E9kszer, 3. szint",
+    "ItemID": -41686151,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Patk\u00E1ny",
+    "ItemID": -869864524,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E1mp\u00EDrlovag mellv\u00E9rt",
+    "ItemID": 1953885108,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnycsap\u00E1s",
+    "ItemID": 918613164,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kvarc",
+    "ItemID": -1583485601,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ostromg\u00F3lem K\u0151",
+    "ItemID": -1461326411,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Jelek",
+    "ItemID": -1321865795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nyers smaragd",
+    "ItemID": -237441421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst hossz\u00FA \u00EDj",
+    "ItemID": -1830162796,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moszkit\u00F3",
+    "ItemID": 902426262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s balta",
+    "ItemID": -102830349,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenhandschuhe",
+    "ItemID": -196284663,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Arany\u00E9rc",
+    "ItemID": 660533034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Irgalmatlan vaskard",
+    "ItemID": 1637216050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rk\u00F6vet\u00E9s",
+    "ItemID": -170922187,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst balta",
+    "ItemID": -1130238142,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Kardmester amulettje",
+    "ItemID": -296161379,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fantom \u00E9gisz",
+    "ItemID": 1123282909,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ez\u00FCstr\u00FAd",
+    "ItemID": -1787563914,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fegyvert\u00E1rol\u00F3",
+    "ItemID": -1564741377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Napraforg\u00F3",
+    "ItemID": 1105981714,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Handschuhe",
+    "ItemID": 998240678,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si nagykard szil\u00E1nkok",
+    "ItemID": -1638796801,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Szellemgomba",
+    "ItemID": -164367832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1tfagy\u00E1s",
+    "ItemID": -930352575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dr\u00E1gak\u0151",
+    "ItemID": 2115367516,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ut\u00F3reng\u00E9s",
+    "ItemID": 1035334240,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Brustschutz",
+    "ItemID": 502133568,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Krist\u00E1ly",
+    "ItemID": -257494203,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Martal\u00F3c mell\u00E9ny",
+    "ItemID": -112921782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s sz\u00E1mszer\u00EDj",
+    "ItemID": 935392085,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vegyszerrel \u00E1titatott drap\u00E9ria",
+    "ItemID": -1514540144,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si kardszil\u00E1nkok",
+    "ItemID": 1048769481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "T\u0171z\u00E1ll\u00F3 f\u0151zet",
+    "ItemID": 970650569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csont\u0151r csizm\u00E1k",
+    "ItemID": 711062517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Csontsarl\u00F3k",
+    "ItemID": -588909332,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A S\u00EDrhoz\u00F3 kardja",
+    "ItemID": 220001518,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kisebb robban\u00F3csomag",
+    "ItemID": 1779299585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polarit\u00E1sv\u00E1lt\u00E1s",
+    "ItemID": -189270614,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Boszork\u00E1nymester csizma",
+    "ItemID": 1204352435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rf\u0151zet",
+    "ItemID": -1871776321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rv\u00F6r\u00F6s korb\u00E1cs",
+    "ItemID": 429323760,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A sz\u00F6rny l\u00E9lekszil\u00E1nkja",
+    "ItemID": -1581189572,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rombol\u00F3 K\u00EDgy\u00F3 lebernyeg",
+    "ItemID": -766642494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u0151t\u00E9gla",
+    "ItemID": 1788016417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rab etet\u00E9se",
+    "ItemID": 1814558673,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": " ",
+    "ItemID": -1624770558,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rvad\u00E1sz csizma",
+    "ItemID": 666433583,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sz\u00E9n",
+    "ItemID": -1932461974,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "R\u00E9zkasza",
+    "ItemID": 1522792650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "666ae7ccf3c54914b76a623033db5fe6",
+    "ItemID": -580716317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9resszencia kivon\u00E1sa",
+    "ItemID": -911541799,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rvad\u00E1sz mellv\u00E9rt",
+    "ItemID": 1561721357,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zar\u00E1ndoksapka",
+    "ItemID": -1071187362,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutendes-Herz-Samen",
+    "ItemID": -1463158090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "V\u00E9rszertart\u00E1s",
+    "ItemID": 1799289635,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCveg",
+    "ItemID": -1233716303,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fa",
+    "ItemID": -1593377811,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenstiefel",
+    "ItemID": 1469185034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Vads\u00E1g f\u0151zete",
+    "ItemID": 1556544548,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00F6rt\u00F6n padl\u00F3burkolat",
+    "ItemID": 1718353003,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "M\u0171hely padl\u00F3burkolat",
+    "ItemID": 1906638073,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00C1rnyj\u00E1r\u00F3 l\u00E1bsz\u00E1rv\u00E9d\u0151",
+    "ItemID": -90702575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten Dracula-Stiefel",
+    "ItemID": 1855323424,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9tez\u00FCst sarl\u00F3k",
+    "ItemID": 633666898,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Erd\u0151-lepel",
+    "ItemID": 1063517722,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kis szab\u00E1szati t\u00E1rol\u00F3",
+    "ItemID": -1304625582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vasl\u00E1ndzsa",
+    "ItemID": 1853029976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00F6t\u00E9t b\u0151rk\u00F6peny",
+    "ItemID": 1261174372,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fagyf\u00E1tyol",
+    "ItemID": -710738056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Stiefel",
+    "ItemID": 1529216919,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u0150si fegyver",
+    "ItemID": -1573584970,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "A Var\u00E1zsl\u00F3 med\u00E1lja",
+    "ItemID": 199425997,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Stiefel",
+    "ItemID": 51576788,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  }
+]

@@ -1,0 +1,6673 @@
+[
+  {
+    "name": "Gro\u00DFer stygischer Splitter",
+    "ItemID": 576389135,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Illusionsschleier",
+    "ItemID": 606339127,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenarmbrust-Splitter",
+    "ItemID": 2061238391,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lila gefiederter Umhang",
+    "ItemID": 1677983904,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelmagus-Handschuhe",
+    "ItemID": -46006079,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnengro\u00DFschwert-Splitter",
+    "ItemID": -1743584975,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten-Gro\u00DFschwert",
+    "ItemID": 1322254792,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Perfekter Saphir",
+    "ItemID": -2020212226,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mutantenfett",
+    "ItemID": -1527315816,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Handschuhe",
+    "ItemID": -752418019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Roher Nebelstein",
+    "ItemID": -1129708579,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Baumwollgarn",
+    "ItemID": 444400639,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schneiderei-Bodenbelag",
+    "ItemID": -137886670,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Technischer Schrott",
+    "ItemID": 834864259,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rostiger Helm",
+    "ItemID": 1364460757,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aschenvolk-Kristalleisumhang",
+    "ItemID": 239338934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tuch",
+    "ItemID": -700774739,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Alchemie",
+    "ItemID": 11798247,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenmeister-Stiefel",
+    "ItemID": -1601304786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafter Dracula-Brustschutz",
+    "ItemID": 1392314162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mortiras Klage",
+    "ItemID": -859437190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vasen und Pflanzen",
+    "ItemID": 1428883363,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFer Brunnen",
+    "ItemID": -1171060793,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Kupfer\u00E4xte",
+    "ItemID": 660670410,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ring des Hexenmeisters",
+    "ItemID": 336922685,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelensplitter des Behemoths",
+    "ItemID": 1247086852,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Material",
+    "ItemID": -513865346,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spinnling",
+    "ItemID": 2015299972,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verzaubertes Gebr\u00E4u",
+    "ItemID": 492964298,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutpeitsche",
+    "ItemID": -655095317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Helm des untoten Generals",
+    "ItemID": 764480170,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "S\u00E4gesp\u00E4ne",
+    "ItemID": -1979905169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenpistolen",
+    "ItemID": 1850870666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blut-Gro\u00DFschwert",
+    "ItemID": -1173681254,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Mantel",
+    "ItemID": 1712262077,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenpeitsche",
+    "ItemID": 567413754,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelensplitter des gefl\u00FCgelten Schreckens",
+    "ItemID": -1260254082,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u00F6llentr\u00F6te",
+    "ItemID": 813370507,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelmagus-Hose",
+    "ItemID": -595456862,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schweif des Erzfeinds",
+    "ItemID": 1863126275,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Baumwolle",
+    "ItemID": 362941759,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vogelscheuchenmaske",
+    "ItemID": 403967307,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gepanzerte Knochenschild-Handschuhe",
+    "ItemID": 1746537832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment verzauberter Fackeln",
+    "ItemID": 879103343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schloss-Unterhalt",
+    "ItemID": 421203343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenspeer",
+    "ItemID": 1307774440,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenmasse",
+    "ItemID": 988417522,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hohlzahn-Hose",
+    "ItemID": 12127911,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenpistolen-Splitter",
+    "ItemID": 1040125618,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelmagus-Brustschutz",
+    "ItemID": -2127687996,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sofa- und Diwan-Sammlung",
+    "ItemID": 2053574378,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatteng\u00E4nger-Handschuhe",
+    "ItemID": 1014370193,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschwert",
+    "ItemID": 1328680870,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Das Sirenengeheul",
+    "ItemID": 781586362,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Espensetzling",
+    "ItemID": 1996361886,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Armbrust",
+    "ItemID": -814739263,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger des Hexenmeisters",
+    "ItemID": -651554566,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostbarriere",
+    "ItemID": 1381699867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschwert",
+    "ItemID": -786493143,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenaxt-Splitter",
+    "ItemID": 442700150,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00FCsterholz",
+    "ItemID": -1740500585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutjuwel Klasse 4",
+    "ItemID": 271061481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pestarzt-Maske",
+    "ItemID": -262204844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kamine",
+    "ItemID": -946597284,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schemata",
+    "ItemID": 2085163661,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutspule",
+    "ItemID": 1785926321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferkeule",
+    "ItemID": -331345186,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Hose",
+    "ItemID": 1912738568,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aschenvolk-Krone",
+    "ItemID": -1988816037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferspeer",
+    "ItemID": 1370755976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFes Lager f\u00FCr Material",
+    "ItemID": -1061940339,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutarmbrust",
+    "ItemID": 1389040540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gold-Schlossschl\u00FCssel\nStufe 4/5",
+    "ItemID": 551949280,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutrausch",
+    "ItemID": 343217159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Handschuhe",
+    "ItemID": -204401621,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dienstm\u00E4dchen-Haube",
+    "ItemID": -1721887666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatteng\u00E4nger-Stiefel",
+    "ItemID": 1101206623,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Skelett",
+    "ItemID": -836889492,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenstiefel",
+    "ItemID": 1192629421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisensense",
+    "ItemID": -2081286944,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenkeulen-Splitter",
+    "ItemID": 1963988265,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seidenraupe",
+    "ItemID": 930747930,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schutz der Verdammten",
+    "ItemID": 1479677538,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutrose",
+    "ItemID": 1726420644,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wandpaneele \u201EGem\u00FCtlich\u201C",
+    "ItemID": -581757157,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lager f\u00FCr Juwelen",
+    "ItemID": -1870194782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutjuwel Klasse 1",
+    "ItemID": -113436752,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pflastersteinwege",
+    "ItemID": 2094602185,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenschlitzer-Splitter",
+    "ItemID": -1390536751,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisensense",
+    "ItemID": 1778128946,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marodeur-Weste",
+    "ItemID": 1850873910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenstiefel",
+    "ItemID": -1958602686,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Seelensplitter",
+    "ItemID": 666638454,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Trauerlilie",
+    "ItemID": -363718499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirritter-Handschuhe",
+    "ItemID": -745793193,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zwielichtschnapper",
+    "ItemID": -570287766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Roher Saphir",
+    "ItemID": 552409457,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Stiefel",
+    "ItemID": -668460646,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenexplosion",
+    "ItemID": -1123608041,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sklavenhelm",
+    "ItemID": 1587354182,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Stiefel",
+    "ItemID": -1214309698,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger der Morgenr\u00F6tel\u00E4uferin",
+    "ItemID": -224716062,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leerer Trinkschlauch",
+    "ItemID": -810738866,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blitzvorhang",
+    "ItemID": 394140527,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mortiras Klage",
+    "ItemID": 1801132968,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gepanzerte Knochenschild-Hose",
+    "ItemID": -2036196416,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ring der Zauberweberin",
+    "ItemID": 1310923765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dicke Tierhaut",
+    "ItemID": -2047402903,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloses Eisen-Gro\u00DFschwert",
+    "ItemID": 869276797,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Strohhut",
+    "ItemID": 1375804543,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Sonnen-Widerstandsgebr\u00E4u",
+    "ItemID": 756555009,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenlangbogen-Splitter",
+    "ItemID": 285875674,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutbrunnen",
+    "ItemID": -312598876,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutkeule",
+    "ItemID": -567468235,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gartenpflanzgef\u00E4\u00DFe \u201ESchlicht\u201C",
+    "ItemID": -1383718976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloser Saphir",
+    "ItemID": -1147920398,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u00E4ndler",
+    "ItemID": -696770536,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Standardstein",
+    "ItemID": -2017255390,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dompteurtrank",
+    "ItemID": -1242947472,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Onyxtr\u00E4ne",
+    "ItemID": -651878258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blitzvorhang",
+    "ItemID": -2134499162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Laternenpfahl",
+    "ItemID": 776216743,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silbererz",
+    "ItemID": 1686577386,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Kupfersense",
+    "ItemID": 1048518929,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafter Plattenbrustschutz",
+    "ItemID": 750788905,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostblitz",
+    "ItemID": -309124704,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sturmschleier",
+    "ItemID": -556391992,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00D6l",
+    "ItemID": -242277891,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutelementar",
+    "ItemID": -2141642225,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wandpaneele \u201EHeim\u201C",
+    "ItemID": -106224889,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gew\u00F6hnlicher Saphir",
+    "ItemID": 131015492,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Einfache Gartenpflanzgef\u00E4\u00DFe",
+    "ItemID": 1307976528,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirfluch",
+    "ItemID": -2137054310,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloses Eisen-Gro\u00DFschwert",
+    "ItemID": 82781195,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gr\u00E4te",
+    "ItemID": 424158416,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Kupfer\u00E4xte",
+    "ItemID": -491969324,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ring der Morgenr\u00F6tel\u00E4uferin",
+    "ItemID": -1542642288,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silberm\u00FCnze",
+    "ItemID": -949672483,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gew\u00F6hnlicher Topas",
+    "ItemID": -2118441460,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutrosengebr\u00E4u",
+    "ItemID": -895015382,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Todesfee",
+    "ItemID": -1513937321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blut\u00E4xte",
+    "ItemID": -2044057823,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rote Abwehr",
+    "ItemID": -1755568324,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Speer",
+    "ItemID": -352704566,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kraftkern",
+    "ItemID": -1190647720,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Resonator",
+    "ItemID": -1629804427,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloses Eisen-Gro\u00DFschwert",
+    "ItemID": 1126901893,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndige Dracula-Handschuhe",
+    "ItemID": 1039083725,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnensensen-Splitter",
+    "ItemID": -413259500,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Brustschutz",
+    "ItemID": -69916288,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosjuwel Klasse 3",
+    "ItemID": -1601295908,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des Purpurkommandanten",
+    "ItemID": -1063966176,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Solarus-Seelensplitter",
+    "ItemID": -21943750,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostblitz",
+    "ItemID": -1530254765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenpistolen",
+    "ItemID": 14297698,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Stiefel",
+    "ItemID": -15390086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Gro\u00DFschwert",
+    "ItemID": 674704033,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenpeitsche",
+    "ItemID": 710159072,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattensense",
+    "ItemID": -465491217,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Trauerweidensetzling",
+    "ItemID": 858598154,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Perfekter Smaragd",
+    "ItemID": 1354115931,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makellose Haut",
+    "ItemID": 1658596502,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Hose",
+    "ItemID": -996201260,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mit Chemikalien durchtr\u00E4nkter Umhang",
+    "ItemID": -1324340002,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Perfekter Topas",
+    "ItemID": -1983566585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sturmjuwel Klasse 2",
+    "ItemID": 876293388,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Roher Edelstein",
+    "ItemID": -2039337521,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferlangbogen",
+    "ItemID": 532033005,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blut-Gro\u00DFschwert",
+    "ItemID": 730869315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenpeitschen-Splitter",
+    "ItemID": -1222824286,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenarmbrust",
+    "ItemID": -20041991,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutpistolen",
+    "ItemID": 1071656850,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenkeule",
+    "ItemID": 1526542305,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nachtschrat-Hose",
+    "ItemID": 1925394440,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pflanzenfaser",
+    "ItemID": -1409142667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenhandschuhe",
+    "ItemID": -1512099553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verbesserte Blutessenz",
+    "ItemID": 271594022,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schr\u00E4gsporen",
+    "ItemID": 1915695899,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ghul",
+    "ItemID": 2042311455,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nebeltrance",
+    "ItemID": 2075997018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Helm des untoten Generals",
+    "ItemID": 409678749,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Entladung",
+    "ItemID": 1448686547,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitternachtsadelsgewand",
+    "ItemID": 538326235,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenschlitzer",
+    "ItemID": 506082542,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisnova",
+    "ItemID": 1947940084,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gew\u00F6hnlicher Amethyst",
+    "ItemID": -1962855117,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unheiliges Juwel Klasse 3",
+    "ItemID": -647547545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenarmbrust",
+    "ItemID": 937375187,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenblitz",
+    "ItemID": 738473666,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blut-Knochenring",
+    "ItemID": -652069131,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verst\u00E4rkte Knochen\u00E4xte",
+    "ItemID": -1391446205,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Dracula-Hose",
+    "ItemID": 205207385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Au\u00DFergew\u00F6hnliche magische Komponente",
+    "ItemID": 1488205677,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnengro\u00DFschwert-Splitter",
+    "ItemID": 747911021,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCbelt\u00E4ter Dracula-Stiefel",
+    "ItemID": 1531721602,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": -114411609,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Die roten Zwillinge",
+    "ItemID": 2099198078,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenpistolen",
+    "ItemID": 769603740,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenpeitsche",
+    "ItemID": 1393113320,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sonnenblumensamen",
+    "ItemID": -473351958,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schmiede-Bodenbelag",
+    "ItemID": -1233700610,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment von Fenstern",
+    "ItemID": 1905539368,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geisterspeer",
+    "ItemID": 998259069,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Roher Rubin",
+    "ItemID": 287586809,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschild-Hose",
+    "ItemID": 1355823667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zyklon",
+    "ItemID": 994654794,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutkeule",
+    "ItemID": -126076280,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Apokalypse",
+    "ItemID": 1272855317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosbarriere",
+    "ItemID": 1112619884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "9cf16903e72643c8b23710b7e9f4567b",
+    "ItemID": -1838793646,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alchemielabor-Bodenbelag",
+    "ItemID": 978074988,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Distelsamen",
+    "ItemID": -1370210913,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Perfekter Amethyst",
+    "ItemID": -106283194,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitra",
+    "ItemID": -548847761,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenkeule",
+    "ItemID": -1714012261,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Die roten Zwillinge",
+    "ItemID": 1239564213,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kristalllanze",
+    "ItemID": -390381611,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schutz der Verdammten",
+    "ItemID": -593608743,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bilderrahmen",
+    "ItemID": 1553481703,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenpeitsche",
+    "ItemID": 1705984031,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Adlige Z\u00E4une und Brunnen",
+    "ItemID": 679755989,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Totengr\u00E4berring",
+    "ItemID": -1588051702,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenschlitzer-Splitter",
+    "ItemID": 1271087499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verdorbener Sch\u00E4del",
+    "ItemID": 140526202,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitternachtsballkleid",
+    "ItemID": -511360389,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger der Zauberweberin",
+    "ItemID": 759775881,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Reiseumhang",
+    "ItemID": -1819786494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFes Lager f\u00FCr Alchemie",
+    "ItemID": -67943596,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silber-Widerstandsgebr\u00E4u",
+    "ItemID": 272647158,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Baumwollsamen",
+    "ItemID": -1289010178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisnova",
+    "ItemID": -535477182,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "EMP",
+    "ItemID": -1447213995,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCbelt\u00E4ter Dracula-Hose",
+    "ItemID": 1592149279,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moskito",
+    "ItemID": -826325611,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leere",
+    "ItemID": -2054797612,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafter Plattenbrustschutz",
+    "ItemID": -1161279574,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seuchendorn",
+    "ItemID": 1474643910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wolfskopf",
+    "ItemID": -1169471531,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Brustschutz",
+    "ItemID": 626083889,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ausmerzer",
+    "ItemID": 1630030026,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutrausch",
+    "ItemID": -1952560879,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nachtschreiterkopf",
+    "ItemID": -2073081569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirritter-Stiefel",
+    "ItemID": 830032282,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spektralwolf",
+    "ItemID": 455494178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupfer\u00E4xte",
+    "ItemID": 518802008,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Illusionsschleier",
+    "ItemID": -1206629745,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Teppichrolle",
+    "ItemID": 1046366876,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenexplosion",
+    "ItemID": 977816262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloses Leder",
+    "ItemID": -2043983118,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnensensen-Splitter",
+    "ItemID": -2136716453,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": -1205777419,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenlangbogen",
+    "ItemID": 1283345494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Todesritter",
+    "ItemID": -340571020,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutbeflecktes Tuch",
+    "ItemID": 150621304,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": -811840389,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schriftrolle",
+    "ItemID": 2065714452,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschwert",
+    "ItemID": 1075465533,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verdorbenes Herz",
+    "ItemID": 947998050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lumpentunika",
+    "ItemID": -1723445833,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger des Ritters",
+    "ItemID": -1658630722,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lehmform",
+    "ItemID": -1257026088,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Birkensetzling",
+    "ItemID": 1552240197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schneeblume",
+    "ItemID": 106516056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelensplitter des Monsters",
+    "ItemID": -1619308732,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nebeltrance",
+    "ItemID": 101601247,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenarmbrust-Splitter",
+    "ItemID": 517296275,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger der D\u00E4mmerungsw\u00E4chterin",
+    "ItemID": 1474515294,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Der Morgenstern",
+    "ItemID": 950358400,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutkeule",
+    "ItemID": 1994084762,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment von Schlossst\u00FChlen",
+    "ItemID": -1929817673,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenblitz",
+    "ItemID": 1279283644,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u00E4ngelaternen",
+    "ItemID": -452767162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCbelt\u00E4ter Dracula-Handschuhe",
+    "ItemID": -1899539896,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten Dracula-Brustschutz",
+    "ItemID": 933057100,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schneeblumensamen",
+    "ItemID": 1985892973,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenpeitschen-Splitter",
+    "ItemID": 1340494453,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gew\u00F6hnlicher Nebelstein",
+    "ItemID": 802050789,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Roher Amethyst",
+    "ItemID": 225530658,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hohlzahn-Brustschutz",
+    "ItemID": -604941435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Steinw\u00E4nde \u201EStattlich\u201C",
+    "ItemID": 1884115881,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment von Schr\u00E4nken",
+    "ItemID": 1691702273,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Stygischer Splitter",
+    "ItemID": 2103989354,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelmagus-Brustschutz",
+    "ItemID": -2066262923,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verst\u00E4rktes Knochenschwert",
+    "ItemID": -796306296,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Weisenfisch",
+    "ItemID": 736318803,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Beliebiger Edelstein",
+    "ItemID": 1128027535,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Dracula-Handschuhe",
+    "ItemID": 1982551454,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger des Ritters",
+    "ItemID": -425306671,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisen-Schlossschl\u00FCssel\nStufe 3",
+    "ItemID": -950839771,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenspeer-Splitter",
+    "ItemID": 2142983740,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirj\u00E4ger-Kopfbedeckung",
+    "ItemID": 974739126,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "J\u00E4gerumhang",
+    "ItemID": 786585343,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Hose",
+    "ItemID": -1260890289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kugelblitz",
+    "ItemID": -1927784576,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenbrustschutz",
+    "ItemID": -1840162782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lumpen der Untoten",
+    "ItemID": -305440546,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenbrustschutz",
+    "ItemID": -919709436,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Edelsteine",
+    "ItemID": 1150376281,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment von breiten Lagerregalen",
+    "ItemID": 1519475093,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seuchendornsamen",
+    "ItemID": -1495639636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenschwert",
+    "ItemID": -903587404,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Eisenspeer",
+    "ItemID": -1783670291,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gew\u00F6hnlicher Edelstein",
+    "ItemID": -2099422426,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Handwerkerecke",
+    "ItemID": -1221174479,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutj\u00E4ger-Stiefel",
+    "ItemID": -1788912715,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenring",
+    "ItemID": 1557814269,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makellose Ledertasche",
+    "ItemID": 1117281334,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenschlitzer",
+    "ItemID": -314614708,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Urblut-Essenz",
+    "ItemID": 1566989408,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenschlitzer-Splitter",
+    "ItemID": 3759455,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutessenz",
+    "ItemID": 862477668,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenarmbrust",
+    "ItemID": 836066667,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tasche \u201EBerggipfel\u201C",
+    "ItemID": -1922998918,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Juwel",
+    "ItemID": 1075994038,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitternachtsadels-Hose",
+    "ItemID": 213736942,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verst\u00E4rkte Knochensense",
+    "ItemID": 1402953369,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6niglicher Schleier des Narren",
+    "ItemID": 379281083,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Haube",
+    "ItemID": -152150271,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferschlitzer",
+    "ItemID": 1499160417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Perfekter Nebelstein",
+    "ItemID": 750542699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenschlitzer",
+    "ItemID": 866934844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spektralstaub",
+    "ItemID": -2130812821,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Umhang des unsterblichen K\u00F6nigs",
+    "ItemID": -1067360120,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sturmschleier",
+    "ItemID": 182214837,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelmagus-Stiefel",
+    "ItemID": -1147510581,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenarmbrust",
+    "ItemID": -517906196,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenkeulen-Splitter",
+    "ItemID": -1810734832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Sonnen-Widerstandsgebr\u00E4u",
+    "ItemID": -38051433,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschwert",
+    "ItemID": 269771183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kraftschub",
+    "ItemID": -1090887222,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Handschuhe",
+    "ItemID": -1344118299,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferarmbrust",
+    "ItemID": -1277074895,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloser Nebelstein",
+    "ItemID": -1963826510,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Goldbarren",
+    "ItemID": -1027710236,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polarit\u00E4tswechsel",
+    "ItemID": -844537086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Heilige Traubensamen",
+    "ItemID": -1681104075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lager f\u00FCr R\u00FCstung",
+    "ItemID": 207381334,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelensense des Generals",
+    "ItemID": 1887724512,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sturmjuwel Klasse 3",
+    "ItemID": 189228039,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lager f\u00FCr Materialien und Edelsteine",
+    "ItemID": 686122001,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenspeer-Splitter",
+    "ItemID": -958110636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seidenraupe",
+    "ItemID": -11246506,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fl\u00FCgel der Gefallenen",
+    "ItemID": -1930402723,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ausmerzer",
+    "ItemID": 1759077469,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenstaub",
+    "ItemID": -223452038,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dokument",
+    "ItemID": 1334469825,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschwert",
+    "ItemID": -2085919458,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Kupferarmbrust",
+    "ItemID": -1636801169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment gro\u00DFer Feuerschalen",
+    "ItemID": 835610037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lumpenschuhe",
+    "ItemID": -2137364987,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Brustschutz",
+    "ItemID": -1595316636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ausr\u00FCstungslager",
+    "ItemID": 1249076837,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostjuwel Klasse 4",
+    "ItemID": -147757377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schwefel",
+    "ItemID": 880699252,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verfluchtes Holz",
+    "ItemID": 608397239,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Die Tausend St\u00FCrme",
+    "ItemID": -1674680373,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Steinornamente",
+    "ItemID": -449615886,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": -1798608844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostschleier",
+    "ItemID": 1729390800,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gebr\u00E4u der Wildheit",
+    "ItemID": -269326085,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Sense",
+    "ItemID": 6711686,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des b\u00F6sen Propheten",
+    "ItemID": 860383634,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unheiliges Juwel Klasse 4",
+    "ItemID": 1412786604,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Handschuhe",
+    "ItemID": 2020764183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelensplitter des gefl\u00FCgelten Schreckens",
+    "ItemID": -222860772,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostbarriere",
+    "ItemID": -483235215,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fledermausleder-Tasche",
+    "ItemID": -181179773,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloser Edelstein",
+    "ItemID": 1613130430,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eichensang",
+    "ItemID": 1102277512,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger des Zauberers",
+    "ItemID": 587164554,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenlangbogen",
+    "ItemID": -1993708658,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutendes Herz",
+    "ItemID": -135435342,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutsense",
+    "ItemID": -105026635,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisen-Gro\u00DFschwert",
+    "ItemID": -768054337,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Brustschutz",
+    "ItemID": 1871735757,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Au\u00DFergew\u00F6hnliche Schneidereikomponente",
+    "ItemID": 828271620,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment von Samenpflanzgef\u00E4\u00DFen",
+    "ItemID": 1336896559,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Peitsche",
+    "ItemID": -960205578,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lager f\u00FCr Fische",
+    "ItemID": -205820651,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger des Hexenmeisters",
+    "ItemID": 1939500376,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenarmbrust-Splitter",
+    "ItemID": 572026243,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unbeflecktes Herz",
+    "ItemID": -204051056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fieser Stecher",
+    "ItemID": 447901086,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatteng\u00E4nger-Weste",
+    "ItemID": -849449432,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostjuwel Klasse 3",
+    "ItemID": 223899244,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Edelsteinstaub",
+    "ItemID": 820932258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutrosensamen",
+    "ItemID": 531984050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenmeister-Handschuhe",
+    "ItemID": 1840869087,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mutierte Ratte",
+    "ItemID": -338333923,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatteng\u00E4nger-Weste",
+    "ItemID": 763326246,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenschwert-Splitter",
+    "ItemID": -1421775051,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Apokalypse",
+    "ItemID": 820408138,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenaxt-Splitter",
+    "ItemID": -1024626758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenhose",
+    "ItemID": 703230071,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Totenkopfmaske",
+    "ItemID": -2125696865,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndige Dracula-Stiefel",
+    "ItemID": 1646489863,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochen",
+    "ItemID": 1821405450,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenmeister-Weste",
+    "ItemID": 2025615662,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaossalve",
+    "ItemID": 1243967840,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nachtschrat-Handschuhe",
+    "ItemID": -1183157751,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Hose",
+    "ItemID": -262114802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verst\u00E4rktes Brett",
+    "ItemID": -1397591435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutlangbogen",
+    "ItemID": 722498174,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschlitzer",
+    "ItemID": 1322545846,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E4lteeinbruch",
+    "ItemID": 55473000,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenhose",
+    "ItemID": -2104396934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutbrunnen",
+    "ItemID": -1624411159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Herbstespensetzling",
+    "ItemID": -2035190786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Teppichsammlung \u201EHerrschaftlich\u201C",
+    "ItemID": -96701352,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutrosengebr\u00E4u",
+    "ItemID": 800879747,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kugelblitz",
+    "ItemID": 973763812,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mit Wasser gef\u00FCllte Flasche",
+    "ItemID": -1382451936,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostschleier",
+    "ItemID": -1190496962,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Steinmasse",
+    "ItemID": 689272399,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloser Topas",
+    "ItemID": -2051574178,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tasche mit silbernen F\u00E4den",
+    "ItemID": -261654929,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geisterspeer",
+    "ItemID": -455117097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Brunnenanlage",
+    "ItemID": -1205373095,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kristalllanze",
+    "ItemID": 594180030,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u00DCbelt\u00E4ter Dracula-Brustschutz",
+    "ItemID": 114259912,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Handschuhe",
+    "ItemID": 1485993952,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tokifeder-Umhang",
+    "ItemID": -589858836,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutbrunnen",
+    "ItemID": 1755478077,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutarmbrust",
+    "ItemID": 1856338018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Manaschal",
+    "ItemID": -2091288477,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattengewebe",
+    "ItemID": -1458997116,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Solarus-Seelensplitter",
+    "ItemID": 2019195024,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geisterspeer",
+    "ItemID": 665418354,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Obsidian",
+    "ItemID": -543524210,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisensense",
+    "ItemID": -922125625,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger der D\u00E4mmerungsw\u00E4chterin",
+    "ItemID": 610958202,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Morgendorn-Brustschutz",
+    "ItemID": -930514044,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bibliotheks-Bodenbelag",
+    "ItemID": -946177070,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Feuerbl\u00FCte",
+    "ItemID": 455638025,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Kupferarmbrust",
+    "ItemID": -192381912,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Heiliges Holz",
+    "ItemID": -2014020548,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fu\u00DFsoldatenhelm",
+    "ItemID": -353076115,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aschenvolk-Helm",
+    "ItemID": -1607893829,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndige Dracula-Hose",
+    "ItemID": 993033515,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Keule",
+    "ItemID": -184713893,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenschlitzer",
+    "ItemID": 1930526079,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutspeer",
+    "ItemID": -1931117134,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosbarriere",
+    "ItemID": -374243736,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "a45f2523444840c29f964f2d43ada733",
+    "ItemID": -167936394,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Strahlender Brei",
+    "ItemID": 1851490036,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fledermaushaut",
+    "ItemID": 1262845777,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": 526090146,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Naschi, die F\u00E4ulnisratte",
+    "ItemID": 927039475,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Razer-Schlangenmantel",
+    "ItemID": 136740861,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenhandschuhe",
+    "ItemID": -1296203752,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Die Tausend St\u00FCrme",
+    "ItemID": 124616797,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ratte",
+    "ItemID": 2029158532,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutpistolen",
+    "ItemID": -349470582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenexplosion",
+    "ItemID": -749764415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschnapper",
+    "ItemID": -1779269313,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aschenvolk-Lauffeuerumhang",
+    "ItemID": -1023114892,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chitin",
+    "ItemID": -953253466,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutmerlot-Amulett",
+    "ItemID": 991396285,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Heilig-Widerstandsflasche",
+    "ItemID": 639992282,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wuttrank",
+    "ItemID": -2013887729,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutlangbogen",
+    "ItemID": 1177453385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenkeule",
+    "ItemID": -276593802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verfluchter Setzling",
+    "ItemID": -1897495615,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Todesritter",
+    "ItemID": -173571027,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenpeitschen-Splitter",
+    "ItemID": 1490846791,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Trauerliliensamen",
+    "ItemID": -1386314668,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unheiliges Juwel Klasse 2",
+    "ItemID": -860388090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marodeur-Hose",
+    "ItemID": -2095610608,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostbarriere",
+    "ItemID": 2134082866,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ring der Morgenr\u00F6tel\u00E4uferin",
+    "ItemID": 50824544,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Beliebiger Fisch",
+    "ItemID": 300582272,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenhandschuhe",
+    "ItemID": 1508214166,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferkabel",
+    "ItemID": -456161884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zylinder",
+    "ItemID": 690259405,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Handschuhe",
+    "ItemID": -1752332712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Phantomschleier",
+    "ItemID": -227965303,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des unnachgiebigen Angreifers",
+    "ItemID": -1424521314,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Aufgeladene Batterie",
+    "ItemID": -412448857,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Papier",
+    "ItemID": 780044299,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Handschuhe",
+    "ItemID": -1522497513,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Eisenlangbogen",
+    "ItemID": 1951565953,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Knoblauch-Widerstandsgebr\u00E4u",
+    "ItemID": 423790753,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostjuwel Klasse 1",
+    "ItemID": 1908312304,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rauer Faden",
+    "ItemID": -1562867444,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloser Rubin",
+    "ItemID": 74811721,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rowdains Ross",
+    "ItemID": -1270904319,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Schwert",
+    "ItemID": -1455388114,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Illusionsschleier",
+    "ItemID": -941913536,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutmerlot",
+    "ItemID": 1223264867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Goldener Flussbarsch",
+    "ItemID": 67930804,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Hose",
+    "ItemID": 347441899,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pranke des Winters",
+    "ItemID": 675187526,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutkristall",
+    "ItemID": -1913156733,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ungeziefersalbe",
+    "ItemID": -1885959251,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nachtschrat-Stiefel",
+    "ItemID": -1354920908,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Edelsteine",
+    "ItemID": 1455590675,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Herbstbirkensetzling",
+    "ItemID": 2000981302,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexentrank",
+    "ItemID": 1510182325,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutj\u00E4ger-Handschuhe",
+    "ItemID": -777417289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des Erz-Hexenmeisters",
+    "ItemID": -749171183,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatteng\u00E4nger-Handschuhe",
+    "ItemID": 181112381,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Werwolfkopf",
+    "ItemID": -2020831626,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFes Lager f\u00FCr Schriftst\u00FCcke",
+    "ItemID": 1823379076,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Regenbogenforelle",
+    "ItemID": -149778795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment von Lagerschr\u00E4nken",
+    "ItemID": -999518496,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFe Sprengstoffkiste",
+    "ItemID": -1021407417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Garten-Torb\u00F6gen und Pergolen",
+    "ItemID": -1645899934,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschwert",
+    "ItemID": 195858450,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lumpenhandschuhe",
+    "ItemID": 1216450741,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "\u003Ccolor=#C52443\u003EBlutschl\u00FCssel\u003C/color\u003E",
+    "ItemID": 1655869633,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloses Kupferschwert",
+    "ItemID": -1455124124,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marodeur-Hose",
+    "ItemID": 1172935197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Hose",
+    "ItemID": -1564372276,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenschwert-Splitter",
+    "ItemID": -830893351,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Hose",
+    "ItemID": -1385786654,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschleier",
+    "ItemID": -1347054873,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferbarren",
+    "ItemID": -1237019921,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marodeur-Stiefel",
+    "ItemID": 362386181,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Breites Blutregal",
+    "ItemID": 489001758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Einsiedlerschal",
+    "ItemID": 2147390246,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenpistolen-Splitter",
+    "ItemID": -1038642372,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenmeister-Hose",
+    "ItemID": 1458279255,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Stiefel",
+    "ItemID": -706178162,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenschwert",
+    "ItemID": -1215982687,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leere Glasflasche",
+    "ItemID": -437611596,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gef\u00E4ngnisw\u00E4nde",
+    "ItemID": -2086890414,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloses Eisenschwert",
+    "ItemID": 1427084419,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosschleier",
+    "ItemID": -2133879652,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Stiefel",
+    "ItemID": -1921018689,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosjuwel Klasse 1",
+    "ItemID": 2130810069,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Eisenspeer",
+    "ItemID": 1065194820,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisen\u00E4xte",
+    "ItemID": -1579575933,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenaxt-Splitter",
+    "ItemID": -2147445292,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenmeister-Hose",
+    "ItemID": -117205517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Der Morgenstern",
+    "ItemID": -671246832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosbarriere",
+    "ItemID": -209873380,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenpistolen-Splitter",
+    "ItemID": -1502177717,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenspeer-Splitter",
+    "ItemID": 1717016192,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Elektrizit\u00E4t",
+    "ItemID": -77555820,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenspeer",
+    "ItemID": 2038011836,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Beatrices Schal",
+    "ItemID": -2081646636,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostjuwel Klasse 2",
+    "ItemID": 1030854657,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nebeltrance",
+    "ItemID": -1513121786,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verzaubertes Gebr\u00E4u",
+    "ItemID": 248289327,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Skelett-Priester",
+    "ItemID": 1252366498,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verdorbener Sch\u00E4del",
+    "ItemID": -1508992859,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hohlzahn-Handschuhe",
+    "ItemID": -406808302,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutgargoyle",
+    "ItemID": -1199531707,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisen\u00E4xte",
+    "ItemID": -1596352033,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Imperialer Faden",
+    "ItemID": -898917584,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Handschuhe",
+    "ItemID": 322804535,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eichensetzling",
+    "ItemID": -626353315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wolkent\u00E4nzer",
+    "ItemID": -2068145306,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenkeule",
+    "ItemID": 160471982,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unheiliges Juwel Klasse 1",
+    "ItemID": 803445709,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment k\u00F6niglicher Gardinen",
+    "ItemID": 285318201,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Hose",
+    "ItemID": 1328323768,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Kupferspeer",
+    "ItemID": -1690985210,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten Dracula-Handschuhe",
+    "ItemID": -1826382550,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mitra des Nekromanten",
+    "ItemID": 607559019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dickes Leder",
+    "ItemID": -305160765,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten Dracula-Hose",
+    "ItemID": -345596442,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Perfekter Rubin",
+    "ItemID": 188653143,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Normale Edelsteinadern",
+    "ItemID": 889298519,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Kupferkeule",
+    "ItemID": -1003381140,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schr\u00E4gpilz",
+    "ItemID": -1566269773,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knoblauch-Widerstandstrank",
+    "ItemID": 791584738,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFes Lager f\u00FCr Holzbearbeitung",
+    "ItemID": 206151993,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Stiefel",
+    "ItemID": -1023762087,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenmeister-Weste",
+    "ItemID": -2100321922,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Stein",
+    "ItemID": -1531666018,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirfluch",
+    "ItemID": -1844141622,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutritus",
+    "ItemID": -2059886133,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Stiefel",
+    "ItemID": -534142437,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelmagus-Stiefel",
+    "ItemID": 138060378,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fliegende Lichter",
+    "ItemID": 1594270493,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00F6niglicher Mantel der Aschenvolkk\u00F6nige",
+    "ItemID": 584164197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Besticktes Eistuch",
+    "ItemID": -24337506,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Verbrauchsgegenst\u00E4nde",
+    "ItemID": -1624005683,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wollfaden",
+    "ItemID": 1872733144,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nachtschrat-Weste",
+    "ItemID": -957963240,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampir-Pferdesattel",
+    "ItemID": -1209228232,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E4lteeinbruch",
+    "ItemID": -441408420,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": -684874624,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschwert",
+    "ItemID": -774462329,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett der Meisterzauberweberin",
+    "ItemID": -1306155896,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Goldsonnenm\u00FCnze",
+    "ItemID": -571562864,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nachbeben",
+    "ItemID": 685024499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knoblauch-Widerstandstrank",
+    "ItemID": -2139183850,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Pistolen",
+    "ItemID": 674407758,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Phantom-\u00C4gis",
+    "ItemID": 870884715,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutiger Leichenstapel",
+    "ItemID": 34841965,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelmagus-Handschuhe",
+    "ItemID": 1247389106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grabstaub",
+    "ItemID": -608131642,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschwert",
+    "ItemID": -1905547794,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Handschuhe",
+    "ItemID": 735880687,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment feiner Kerzenst\u00E4nder",
+    "ItemID": 1341367867,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirfluch",
+    "ItemID": -1337809256,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": 1110550218,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosjuwel Klasse 4",
+    "ItemID": -1796954295,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Kupferspeer",
+    "ItemID": 790210443,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostblitz",
+    "ItemID": 1793042384,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verst\u00E4rkte Knochenschlitzer",
+    "ItemID": 926722036,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Entladung",
+    "ItemID": 1533847605,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bluthexe",
+    "ItemID": 1452779821,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochensense",
+    "ItemID": -152327780,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Brett",
+    "ItemID": -1017402979,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verst\u00E4rkte Knochenkeule",
+    "ItemID": -1998017941,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloser Amethyst",
+    "ItemID": 1705028227,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Der Fisch",
+    "ItemID": 176401052,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenerz",
+    "ItemID": 1332980397,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marodeur-Handschuhe",
+    "ItemID": -764630320,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutspule",
+    "ItemID": 75934448,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochen",
+    "ItemID": 1413130999,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutpeitsche",
+    "ItemID": -1033721040,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenstiefel",
+    "ItemID": 1395895315,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutj\u00E4ger-Brustschutz",
+    "ItemID": -2102875089,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschild-Handschuhe",
+    "ItemID": -2029933415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Hose",
+    "ItemID": 125611165,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fass-Tarnung",
+    "ItemID": -82465606,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Der Grabesruf",
+    "ItemID": 2106567892,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Brustschutz",
+    "ItemID": -1641042717,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makellose Edelsteinadern",
+    "ItemID": 301051123,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger der Zauberweberin",
+    "ItemID": 1012837641,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenlangbogen-Splitter",
+    "ItemID": 649637190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gew\u00F6hnlicher Smaragd",
+    "ItemID": 357608868,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wuttrank",
+    "ItemID": -1568756102,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenpistolen",
+    "ItemID": -1265586439,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutritus",
+    "ItemID": 1881059081,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Illusionsjuwel Klasse 4",
+    "ItemID": 97169184,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Flickenumhang",
+    "ItemID": 1275572025,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kraftschub",
+    "ItemID": -1166627007,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Robuste Tierhaut",
+    "ItemID": -1222725729,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pestapotheker-Sattel",
+    "ItemID": -554782766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verst\u00E4rkter Knochenspeer",
+    "ItemID": 1244180446,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Baumwolle",
+    "ItemID": -656822228,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schwefelerz",
+    "ItemID": 1501868129,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Hose",
+    "ItemID": 680112231,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenarmbrust",
+    "ItemID": 1957540013,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFhelm des unsterblichen K\u00F6nigs",
+    "ItemID": 238268650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verdorbener Sch\u00E4del",
+    "ItemID": -1183600395,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sturmschleier",
+    "ItemID": -1416449755,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nachbeben",
+    "ItemID": -651841188,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Handschuhe",
+    "ItemID": -1242910338,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferschwert",
+    "ItemID": -2037272000,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seide",
+    "ItemID": 702067317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisnova",
+    "ItemID": 1123463900,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leere",
+    "ItemID": 157004582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutsense",
+    "ItemID": -2053917766,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment feiner Gem\u00E4lde",
+    "ItemID": 38319072,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sumpftaucher",
+    "ItemID": 177845365,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Distel",
+    "ItemID": -598100816,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Stiefel",
+    "ItemID": -1329744719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutbaumw\u00E4chter",
+    "ItemID": -112151309,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Morgendorn-Handschuhe",
+    "ItemID": 2055058719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaossalve",
+    "ItemID": -1111771702,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Eisenlangbogen",
+    "ItemID": -1003309553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Illusionsjuwel Klasse 2",
+    "ItemID": 437696083,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Banditentasche",
+    "ItemID": -219760992,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Kr\u00E4uter",
+    "ItemID": -853559619,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenkeule",
+    "ItemID": 1177597629,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Heilig-Widerstandstrank",
+    "ItemID": 890484447,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutj\u00E4ger-Handschuhe",
+    "ItemID": 1067300584,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spektralwolf",
+    "ItemID": -1444759832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelmagus-Hose",
+    "ItemID": -454576348,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenschlitzer",
+    "ItemID": 1942009728,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Stygischer Ursplitter",
+    "ItemID": 28358550,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenbarren",
+    "ItemID": -1750550553,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bergarbeiterkeule",
+    "ItemID": -687294429,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirstaub",
+    "ItemID": 805157024,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Kupferkeule",
+    "ItemID": 343324920,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnensensen-Splitter",
+    "ItemID": 886814985,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leere",
+    "ItemID": 666089763,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schmales Blutregal",
+    "ItemID": -130369231,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lager f\u00FCr Materialien und Edelsteine",
+    "ItemID": -651642571,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ring der Zauberweberin",
+    "ItemID": -886916793,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ring des Hexenmeisters",
+    "ItemID": -1913800363,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Feuer-Widerstandsgebr\u00E4u",
+    "ItemID": 2114304481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Brustschutz",
+    "ItemID": 1055898174,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutlangbogen",
+    "ItemID": 1860352606,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochen\u00E4xte",
+    "ItemID": -1958888844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Roher Topas",
+    "ItemID": 867351268,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ring der D\u00E4mmerungsw\u00E4chterin",
+    "ItemID": -809059551,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFes Lager f\u00FCr Kr\u00E4uter",
+    "ItemID": 473545520,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloses Herz",
+    "ItemID": -1413694594,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Schriftst\u00FCcke",
+    "ItemID": -1394295910,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gei\u00DFelstein-Anh\u00E4nger",
+    "ItemID": -650855520,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutsense",
+    "ItemID": 1350548439,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschlitzer",
+    "ItemID": 821410795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gew\u00F6hnlicher Edelstein",
+    "ItemID": -36717533,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Morgendorn-Stiefel",
+    "ItemID": 560446510,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschild-Brustschutz",
+    "ItemID": 329301090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Goldschmuck",
+    "ItemID": -1749304196,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wetzstein",
+    "ItemID": 1252507075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Tuch des unsterblichen K\u00F6nigs",
+    "ItemID": 1284160983,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kraftschub",
+    "ItemID": 1168555540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eichensang",
+    "ItemID": -557203874,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaossalve",
+    "ItemID": 818069106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hohlzahn-Brustschutz",
+    "ItemID": -625033436,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dekorative Steinw\u00E4nde",
+    "ItemID": -1957642407,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Angelrute",
+    "ItemID": -1766408331,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschleier",
+    "ItemID": -431964258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des Erz-Hexenmeisters",
+    "ItemID": 1380368392,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelenbrand",
+    "ItemID": 1277476884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chitin",
+    "ItemID": -1199259626,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schotterwege",
+    "ItemID": -94650344,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fette Grundel",
+    "ItemID": -1642545082,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Teppichsammlung \u201EVornehm\u201C",
+    "ItemID": -1696677607,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschlitzer",
+    "ItemID": 615301463,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Brustschutz",
+    "ItemID": -1279475298,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisensense",
+    "ItemID": -977419819,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frischer Fisch",
+    "ItemID": 193249843,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00FCstersetzling",
+    "ItemID": -1800289670,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leder",
+    "ItemID": -1907572080,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschild-Maske",
+    "ItemID": -2111388989,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutspule",
+    "ItemID": -562511117,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des Klingenmeisters",
+    "ItemID": 1702347530,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisen\u00E4xte",
+    "ItemID": 198951695,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenkeulen-Splitter",
+    "ItemID": -1845443712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sortiment feiner Feuerschalen",
+    "ItemID": 742900616,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marodeur-Stiefel",
+    "ItemID": -1359494169,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silber-Widerstandstrank",
+    "ItemID": 2107622409,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wei\u00DFer Kirschbl\u00FCtensetzling",
+    "ItemID": 1738392650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mit Chemikalien durchtr\u00E4nkte Insignien",
+    "ItemID": 821609569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gartenm\u00F6bel und -laternen",
+    "ItemID": -1060453249,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polarit\u00E4tswechsel",
+    "ItemID": -944716649,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutjuwel Klasse 2",
+    "ItemID": -996555621,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Radiumlegierung",
+    "ItemID": 2116142390,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Holzf\u00E4ller\u00E4xte",
+    "ItemID": 1541522788,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pranke des Winters",
+    "ItemID": -915028618,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Hose",
+    "ItemID": -1993947781,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zypressensetzling",
+    "ItemID": -1043479168,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": 172410251,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Alucard-Umhang",
+    "ItemID": -1177172544,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Kupferschlitzer",
+    "ItemID": -1042299347,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatteng\u00E4nger-Hose",
+    "ItemID": 1364444719,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelenbrand",
+    "ItemID": 282707515,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Eisenspeer",
+    "ItemID": 2001389164,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ring der D\u00E4mmerungsw\u00E4chterin",
+    "ItemID": -293419350,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hohlzahn-Hose",
+    "ItemID": 1217578824,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Weste",
+    "ItemID": 1809631067,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lager f\u00FCr M\u00FCnzen",
+    "ItemID": -832387204,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Stiefel",
+    "ItemID": 762038154,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloses Eisenschwert",
+    "ItemID": -435501075,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenpistolen",
+    "ItemID": 1370998844,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutw\u00E4chter",
+    "ItemID": 886819019,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenmeister-Handschuhe",
+    "ItemID": -399521517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4monenfragment",
+    "ItemID": -77477508,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirritter-Hose",
+    "ItemID": 1966590385,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des b\u00F6sen Propheten",
+    "ItemID": -175650376,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexentrank",
+    "ItemID": -1563178470,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Feine Esstisch-Kollektion",
+    "ItemID": -1236809045,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gepanzerter Knochenschild-Brustschutz",
+    "ItemID": -958936382,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geisterpilzsporen",
+    "ItemID": 1762839393,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupferm\u00FCnze",
+    "ItemID": 28625845,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Hose",
+    "ItemID": 744344540,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gei\u00DFelstein",
+    "ItemID": 1005440012,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Morgendorn-Hose",
+    "ItemID": -1555051415,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilberbarren",
+    "ItemID": -762000259,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Krone des Erzmagiers",
+    "ItemID": -2128818978,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Razer-Kapuze",
+    "ItemID": -1797796642,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blitzvorhang",
+    "ItemID": -464466648,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moskito",
+    "ItemID": 961990006,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zyklon",
+    "ItemID": -341717525,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Makelloser Smaragd",
+    "ItemID": 1898237421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bodenbelag der Juwelierskammer",
+    "ItemID": 626118128,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moskito",
+    "ItemID": -928330249,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kardinalsumhang",
+    "ItemID": -1768698241,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des unnachgiebigen Angreifers",
+    "ItemID": -1004351840,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Strahlende Faser",
+    "ItemID": -182923609,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leere Batterie",
+    "ItemID": 1270271716,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ritterhelm",
+    "ItemID": -1818243335,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Entladung",
+    "ItemID": -313733383,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blut-Gro\u00DFschwert",
+    "ItemID": 147836723,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vom Krieg zerrissener Weinumhang",
+    "ItemID": 707710831,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Spektralwolf",
+    "ItemID": 1520619383,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Dracula-Stiefel",
+    "ItemID": -382349289,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silber-Widerstandsgebr\u00E4u",
+    "ItemID": -1269116849,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatteng\u00E4nger-Stiefel",
+    "ItemID": -383004511,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Phantom-\u00C4gis",
+    "ItemID": -1766731531,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Milizhelm",
+    "ItemID": 417648894,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dracula-Stiefel",
+    "ItemID": 1400688919,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFes Lager f\u00FCr Schneiderei",
+    "ItemID": -63123159,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Apfelbaumsetzling",
+    "ItemID": 1226559814,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutspeer",
+    "ItemID": -1396190808,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pollen",
+    "ItemID": 855691699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirj\u00E4ger-Umhang",
+    "ItemID": 1335546377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger Dracula-Brustschutz",
+    "ItemID": 1033753207,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutrosentrank",
+    "ItemID": 429052660,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blut\u00E4xte",
+    "ItemID": -1519267007,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschleier",
+    "ItemID": -1302801575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des Purpurkommandanten",
+    "ItemID": -104934480,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Paladinhelm",
+    "ItemID": 1780339680,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Verst\u00E4rkte Knochenarmbrust",
+    "ItemID": 898159697,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ledertasche",
+    "ItemID": -1991977825,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Wolkent\u00E4nzer",
+    "ItemID": 1954207008,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten\u00E4xte",
+    "ItemID": 2100090213,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "H\u00F6llentr\u00F6tensporen",
+    "ItemID": -1987586694,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelenbrand",
+    "ItemID": 897635802,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Illusionsjuwel Klasse 1",
+    "ItemID": 1387124262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenhose",
+    "ItemID": -2049321404,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geschnitztes Holz",
+    "ItemID": -793913499,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anziehtische und Wandschirme",
+    "ItemID": -1676748911,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kirschbl\u00FCtensetzling",
+    "ItemID": 1818351545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fl\u00FCgel der Gefallenen",
+    "ItemID": 1570363331,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutj\u00E4ger-Hose",
+    "ItemID": -1718233147,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sturmjuwel Klasse 1",
+    "ItemID": -560146452,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosschleier",
+    "ItemID": 155899991,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gepanzerte Knochenschild-Stiefel",
+    "ItemID": 1241831522,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Das Sirenengeheul",
+    "ItemID": -1401104184,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutpistolen",
+    "ItemID": -944318126,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Besticktes Chaostuch",
+    "ItemID": -168044197,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Erlesenes Herz",
+    "ItemID": -1965958712,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Brustschutz",
+    "ItemID": -1261118965,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenpeitsche",
+    "ItemID": -847062445,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schlammkanister",
+    "ItemID": -1823614190,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hohlzahn-Stiefel",
+    "ItemID": -1837769884,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutspeer",
+    "ItemID": -850142339,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Illusionsjuwel Klasse 3",
+    "ItemID": 1540217782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschleier",
+    "ItemID": -1913987811,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutj\u00E4ger-Hose",
+    "ItemID": 206495029,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirgebr\u00E4u",
+    "ItemID": -2102469163,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Handschuhe",
+    "ItemID": -327754127,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gro\u00DFes Lager f\u00FCr Verbrauchsgegenst\u00E4nde",
+    "ItemID": 824237901,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschleier",
+    "ItemID": -1180115034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Kupferlangbogen",
+    "ItemID": 352247730,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisenarmbrust",
+    "ItemID": 1221976097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dienstm\u00E4dchen-Schal",
+    "ItemID": -1460281233,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bluttrank",
+    "ItemID": 828432508,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gef\u00FCllter Trinkschlauch",
+    "ItemID": -1322000172,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Riesenratte",
+    "ItemID": 213967097,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sturmjuwel Klasse 4",
+    "ItemID": 2023809276,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Steinstaub",
+    "ItemID": 1388962120,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Aufseher-Weste",
+    "ItemID": 1753801067,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger der Morgenr\u00F6tel\u00E4uferin",
+    "ItemID": -1046748791,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosjuwel Klasse 2",
+    "ItemID": 1083105737,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lehm",
+    "ItemID": 317317590,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Holzbearbeitung",
+    "ItemID": 1040245278,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kristalllanze",
+    "ItemID": -2117279191,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Eisenlangbogen",
+    "ItemID": -1793793429,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hirschkopf",
+    "ItemID": 1707139699,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "B\u00E4renkopf",
+    "ItemID": 714007172,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mantel des unsterblichen K\u00F6nigs",
+    "ItemID": -1814109557,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zyklon",
+    "ItemID": -1697520941,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Einfache Teppiche",
+    "ItemID": 1383064284,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kugelblitz",
+    "ItemID": -1703746731,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenhose",
+    "ItemID": -481041545,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Feuerbl\u00FCtensamen",
+    "ItemID": 675013523,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marodeur-Handschuhe",
+    "ItemID": -258808647,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Zerrissene Hose",
+    "ItemID": 725607617,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geistkristall",
+    "ItemID": -1748835106,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Razer-Schlangenumhang",
+    "ItemID": 1410262258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Chaosschleier",
+    "ItemID": 1613948207,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochen-Schlossschl\u00FCssel \nStufe 1",
+    "ItemID": 960030104,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geistergarn",
+    "ItemID": 2106123809,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Fledermausleder",
+    "ItemID": -1886460367,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutgolem",
+    "ItemID": -364321170,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutharpyie",
+    "ItemID": 215017089,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Todesritter",
+    "ItemID": -318118264,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenkeule",
+    "ItemID": 1588258447,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupfer-Schlossschl\u00FCssel\nStufe 2",
+    "ItemID": 724428437,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutschleier",
+    "ItemID": 1692133021,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloses Kupferschwert",
+    "ItemID": -1219959051,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": -314251399,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kiefernsetzling",
+    "ItemID": 1227483037,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schutz der Verdammten",
+    "ItemID": 665184248,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenlose Eisen\u00E4xte",
+    "ItemID": 1259464735,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dompteurtrank",
+    "ItemID": 541321301,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett der Meisterzauberweberin",
+    "ItemID": -1803818846,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gew\u00F6hnlicher Rubin",
+    "ItemID": 51046573,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloser Kupferlangbogen",
+    "ItemID": 460843266,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Beliebige Blume",
+    "ItemID": -2101941878,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Heilige Trauben",
+    "ItemID": 88009216,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenlangbogen-Splitter",
+    "ItemID": 19130904,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutrausch",
+    "ItemID": 662891042,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Angelrute",
+    "ItemID": 1302850112,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rufer der Abendd\u00E4mmerung",
+    "ItemID": 1128262258,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirj\u00E4ger-Kopfbedeckung",
+    "ItemID": -1785271534,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupfererz",
+    "ItemID": -1805325497,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutjuwel Klasse 3",
+    "ItemID": -41686151,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ratte",
+    "ItemID": -869864524,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Vampirritter-Brustschutz",
+    "ItemID": 1953885108,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenblitz",
+    "ItemID": 918613164,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Quarz",
+    "ItemID": -1583485601,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Belagerungsgolem-Stein",
+    "ItemID": -1461326411,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Banner",
+    "ItemID": -1321865795,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Roher Smaragd",
+    "ItemID": -237441421,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Langbogen",
+    "ItemID": -1830162796,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Moskito",
+    "ItemID": 902426262,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blut\u00E4xte",
+    "ItemID": -102830349,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Grauenhafte Plattenhandschuhe",
+    "ItemID": -196284663,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Golderz",
+    "ItemID": 660533034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gnadenloses Eisenschwert",
+    "ItemID": 1637216050,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutverfolgung",
+    "ItemID": -170922187,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-\u00C4xte",
+    "ItemID": -1130238142,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Amulett des Klingenmeisters",
+    "ItemID": -296161379,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Phantom-\u00C4gis",
+    "ItemID": 1123282909,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Silberbarren",
+    "ItemID": -1787563914,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Lager f\u00FCr Waffen",
+    "ItemID": -1564741377,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Sonnenblume",
+    "ItemID": 1105981714,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Unb\u00E4ndiger-Ritter-Handschuhe",
+    "ItemID": 998240678,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnengro\u00DFschwert-Splitter",
+    "ItemID": -1638796801,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Geisterpilz",
+    "ItemID": -164367832,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "K\u00E4lteeinbruch",
+    "ItemID": -930352575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Edelstein",
+    "ItemID": 2115367516,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Nachbeben",
+    "ItemID": 1035334240,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schattenmond-Brustschutz",
+    "ItemID": 502133568,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kristall",
+    "ItemID": -257494203,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Marodeur-Weste",
+    "ItemID": -112921782,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutarmbrust",
+    "ItemID": 935392085,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Mit Chemikalien durchtr\u00E4nktes Tuch",
+    "ItemID": -1514540144,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenschwert-Splitter",
+    "ItemID": 1048769481,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Feuer-Widerstandsgebr\u00E4u",
+    "ItemID": 970650569,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschild-Stiefel",
+    "ItemID": 711062517,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Knochenschlitzer",
+    "ItemID": -588909332,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Der Grabesruf",
+    "ItemID": 220001518,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleine Sprengstoffkiste",
+    "ItemID": 1779299585,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Polarit\u00E4tswechsel",
+    "ItemID": -189270614,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Hexenmeister-Stiefel",
+    "ItemID": 1204352435,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Bluttrank",
+    "ItemID": -1871776321,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutpeitsche",
+    "ItemID": 429323760,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Seelensplitter des Monsters",
+    "ItemID": -1581189572,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Razer-Schlangen\u00FCberwurf",
+    "ItemID": -766642494,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Steinziegel",
+    "ItemID": 1788016417,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gefangenen f\u00FCttern",
+    "ItemID": 1814558673,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": " ",
+    "ItemID": -1624770558,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutj\u00E4ger-Stiefel",
+    "ItemID": 666433583,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kohle",
+    "ItemID": -1932461974,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kupfersense",
+    "ItemID": 1522792650,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "666ae7ccf3c54914b76a623033db5fe6",
+    "ItemID": -580716317,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutessenz extrahieren",
+    "ItemID": -911541799,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutj\u00E4ger-Brustschutz",
+    "ItemID": 1561721357,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Pilgerhut",
+    "ItemID": -1071187362,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutendes-Herz-Samen",
+    "ItemID": -1463158090,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Blutritus",
+    "ItemID": 1799289635,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Glas",
+    "ItemID": -1233716303,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Holz",
+    "ItemID": -1593377811,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gelehrtenstiefel",
+    "ItemID": 1469185034,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gebr\u00E4u der Wildheit",
+    "ItemID": 1556544548,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Gef\u00E4ngnis-Bodenbelag",
+    "ItemID": 1718353003,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Werkstatt-Bodenbelag",
+    "ItemID": 1906638073,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatteng\u00E4nger-Hose",
+    "ItemID": -90702575,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Schatten Dracula-Stiefel",
+    "ItemID": 1855323424,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkelsilber-Schlitzer",
+    "ItemID": 633666898,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Leichentuch des Waldes",
+    "ItemID": 1063517722,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Kleines Lager f\u00FCr Schneiderei",
+    "ItemID": -1304625582,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Eisenspeer",
+    "ItemID": 1853029976,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Dunkler Lederumhang",
+    "ItemID": 1261174372,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Frostschleier",
+    "ItemID": -710738056,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Rottempler-Stiefel",
+    "ItemID": 1529216919,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Ahnenwaffe",
+    "ItemID": -1573584970,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "Anh\u00E4nger des Zauberers",
+    "ItemID": 199425997,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  },
+  {
+    "name": "D\u00E4mmerungsw\u00E4chter-Stiefel",
+    "ItemID": 51576788,
+    "Stack": 0,
+    "Chance": 1,
+    "Color": "#daa520"
+  }
+]
