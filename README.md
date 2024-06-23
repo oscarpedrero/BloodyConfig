@@ -2,4 +2,8 @@
 
 Windows application to configure Bloody mods By Trodi
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+## At the moment only Bloody Boss can be configured
+
+![Alt text](https://github.com/oscarpedrero/BloodyConfig/blob/master/Images/bloodyconfig.png?raw=true "BloodyConfig")
+
+
