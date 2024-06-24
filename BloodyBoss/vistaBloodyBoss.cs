@@ -241,5 +241,25 @@ namespace BloodyConfig
                 }
             }
         }
+
+        private void eliminarJefe_Click(object sender, EventArgs e)
+        {
+            if (listBosses.SelectedItem is CharModel selectedModel)
+            {
+                var result = MessageBox.Show("Do you want to delete the selected boss?", "Delete Boss", MessageBoxButtons.YesNo);
+                if (result == DialogResult.No)
+                {
+                    return;
+                }
+                else
+                {
+                    ConfigJefeControl.MarkSavedChanges();
+                    listBosses.SelectedIndex = -1;
+                    Chars.Remove(selectedModel);
+                    listBosses.Refresh();
+                    ConfigJefeControl.Visible = false;
+                }
+            }
+        }
     }
 }

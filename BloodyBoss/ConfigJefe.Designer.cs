@@ -780,8 +780,9 @@
             this.eliminarItem.Name = "eliminarItem";
             this.eliminarItem.Size = new System.Drawing.Size(75, 23);
             this.eliminarItem.TabIndex = 40;
-            this.eliminarItem.Text = "Remove Item";
+            this.eliminarItem.Text = "Delete";
             this.eliminarItem.UseVisualStyleBackColor = true;
+            this.eliminarItem.Click += new System.EventHandler(this.eliminarItem_Click);
             // 
             // anadirItem
             // 

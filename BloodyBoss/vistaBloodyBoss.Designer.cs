@@ -63,8 +63,9 @@
             this.eliminarJefe.Name = "eliminarJefe";
             this.eliminarJefe.Size = new System.Drawing.Size(89, 23);
             this.eliminarJefe.TabIndex = 2;
-            this.eliminarJefe.Text = "Remove";
+            this.eliminarJefe.Text = "Delete";
             this.eliminarJefe.UseVisualStyleBackColor = true;
+            this.eliminarJefe.Click += new System.EventHandler(this.eliminarJefe_Click);
             // 
             // panelConfigJefe
             // 

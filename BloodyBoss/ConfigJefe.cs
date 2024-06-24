@@ -576,5 +576,26 @@ namespace BloodyConfig.BloodyBoss
             }
 
         }
+
+        private void eliminarItem_Click(object sender, EventArgs e)
+        {
+            if (itemsList.SelectedItem is ItemModel selectedModel)
+            {
+                var result = MessageBox.Show("Do you want to delete the selected Item?", "Delete Item", MessageBoxButtons.YesNo);
+                if (result == DialogResult.No)
+                {
+                    return;
+                }
+                else
+                {
+                    ConfigItem.MarkSavedChanges();
+                    ItemsList.Remove(selectedModel);
+                    itemsList.Refresh();
+                    itemsList.SelectedIndex = -1;
+                    currentIndex = -100;
+                    ConfigItem.Visible = false;
+                }
+            }
+        }
     }
 }
