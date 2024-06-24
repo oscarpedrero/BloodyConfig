@@ -49,31 +49,31 @@ namespace BloodyConfig.BloodyBoss
             lifetime.KeyPress += NumericTextBox_KeyPress;
             multiplier.KeyPress += NumericTextBox_KeyPress;
 
-            PhysicalCriticalStrikeChance.KeyPress += NumericTextBox_KeyPress;
-            SpellCriticalStrikeChance.KeyPress += NumericTextBox_KeyPress;
-            PhysicalPower.KeyPress += NumericTextBox_KeyPress;
-            ResourcePower.KeyPress += NumericTextBox_KeyPress;
-            ResourceYieldModifier.KeyPress += NumericTextBox_KeyPress;
-            PhysicalResistance.KeyPress += NumericTextBox_KeyPress;
+            PhysicalCriticalStrikeChance.KeyPress += FloatTextBox_KeyPress;
+            SpellCriticalStrikeChance.KeyPress += FloatTextBox_KeyPress;
+            PhysicalPower.KeyPress += FloatTextBox_KeyPress;
+            ResourcePower.KeyPress += FloatTextBox_KeyPress;
+            ResourceYieldModifier.KeyPress += FloatTextBox_KeyPress;
+            PhysicalResistance.KeyPress += FloatTextBox_KeyPress;
             SunResistance.KeyPress += NumericTextBox_KeyPress;
             HolyResistance.KeyPress += NumericTextBox_KeyPress;
             SilverCoinResistance.KeyPress += NumericTextBox_KeyPress;
-            PassiveHealthRegen.KeyPress += NumericTextBox_KeyPress;
-            HealthRecovery.KeyPress += NumericTextBox_KeyPress;
-            HealingReceived.KeyPress += NumericTextBox_KeyPress;
-            BloodEfficiency.KeyPress += NumericTextBox_KeyPress;
-            PhysicalCriticalStrikeDamage.KeyPress += NumericTextBox_KeyPress;
-            SpellCriticalStrikeDamage.KeyPress += NumericTextBox_KeyPress;
-            SpellPower.KeyPress += NumericTextBox_KeyPress;
-            SiegePower.KeyPress += NumericTextBox_KeyPress;
-            ReducedResourceDurabilityLoss.KeyPress += NumericTextBox_KeyPress;
-            SpellResistance.KeyPress += NumericTextBox_KeyPress;
+            PassiveHealthRegen.KeyPress += FloatTextBox_KeyPress;
+            HealthRecovery.KeyPress += FloatTextBox_KeyPress;
+            HealingReceived.KeyPress += FloatTextBox_KeyPress;
+            BloodEfficiency.KeyPress += FloatTextBox_KeyPress;
+            PhysicalCriticalStrikeDamage.KeyPress += FloatTextBox_KeyPress;
+            SpellCriticalStrikeDamage.KeyPress += FloatTextBox_KeyPress;
+            SpellPower.KeyPress += FloatTextBox_KeyPress;
+            SiegePower.KeyPress += FloatTextBox_KeyPress;
+            ReducedResourceDurabilityLoss.KeyPress += FloatTextBox_KeyPress;
+            SpellResistance.KeyPress += FloatTextBox_KeyPress;
             FireResistance.KeyPress += NumericTextBox_KeyPress;
             SilverResistance.KeyPress += NumericTextBox_KeyPress;
             GarlicResistance.KeyPress += NumericTextBox_KeyPress;
             CCReduction.KeyPress += NumericTextBox_KeyPress;
-            DamageReduction.KeyPress += NumericTextBox_KeyPress;
-            ShieldAbsorbModifier.KeyPress += NumericTextBox_KeyPress;
+            DamageReduction.KeyPress += FloatTextBox_KeyPress;
+            ShieldAbsorbModifier.KeyPress += FloatTextBox_KeyPress;
 
             languagesBox.SelectedIndexChanged += new System.EventHandler(SelectedLanguageChanged);
             ConfigItem = new ItemConfig();
@@ -235,6 +235,17 @@ namespace BloodyConfig.BloodyBoss
 
         private void NumericTextBox_KeyPress(object sender, KeyPressEventArgs e)
         {
+            // Permitir solo números y teclas de control (como Backspace)
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+
+            changesSaved = false;
+        }
+
+        private void FloatTextBox_KeyPress(object sender, KeyPressEventArgs e)
+        {
             // Permitir solo dígitos, teclas de control, un signo negativo y un punto decimal
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) &&
                 (e.KeyChar != '.') && (e.KeyChar != '-'))
@@ -335,31 +346,32 @@ namespace BloodyConfig.BloodyBoss
                 currentModel.nameHash = name.Text.GetHashCode().ToString();
 
                 currentModel.unitStats = new UnitStatsModel();
-                currentModel.unitStats.PhysicalCriticalStrikeChance = int.Parse(PhysicalCriticalStrikeChance.Text);
-                currentModel.unitStats.SpellCriticalStrikeChance = int.Parse(SpellCriticalStrikeChance.Text);
+                currentModel.unitStats.PhysicalCriticalStrikeChance = float.Parse(PhysicalCriticalStrikeChance.Text);
+                currentModel.unitStats.PhysicalCriticalStrikeDamage = float.Parse(PhysicalCriticalStrikeDamage.Text);
+                currentModel.unitStats.SpellCriticalStrikeChance = float.Parse(SpellCriticalStrikeChance.Text);
+                currentModel.unitStats.SpellCriticalStrikeDamage = float.Parse(SpellCriticalStrikeDamage.Text);
                 currentModel.unitStats.PhysicalPower = float.Parse(PhysicalPower.Text);
-                currentModel.unitStats.ResourcePower = float.Parse(ResourcePower.Text);
-                currentModel.unitStats.ResourceYieldModifier = int.Parse(ResourceYieldModifier.Text);
-                currentModel.unitStats.PhysicalResistance = int.Parse(PhysicalResistance.Text);
-                currentModel.unitStats.SunResistance = int.Parse(SunResistance.Text);
-                currentModel.unitStats.HolyResistance = int.Parse(HolyResistance.Text);
-                currentModel.unitStats.SilverCoinResistance = int.Parse(SilverCoinResistance.Text);
-                currentModel.unitStats.PassiveHealthRegen = int.Parse(PassiveHealthRegen.Text);
-                currentModel.unitStats.HealthRecovery = float.Parse(HealthRecovery.Text);
-                currentModel.unitStats.HealingReceived = int.Parse(HealingReceived.Text);
-                currentModel.unitStats.BloodEfficiency = int.Parse(BloodEfficiency.Text);
-                currentModel.unitStats.PhysicalCriticalStrikeDamage = int.Parse(PhysicalCriticalStrikeDamage.Text);
-                currentModel.unitStats.SpellCriticalStrikeDamage = int.Parse(SpellCriticalStrikeDamage.Text);
                 currentModel.unitStats.SpellPower = float.Parse(SpellPower.Text);
+                currentModel.unitStats.ResourcePower = float.Parse(ResourcePower.Text);
                 currentModel.unitStats.SiegePower = float.Parse(SiegePower.Text);
-                currentModel.unitStats.ReducedResourceDurabilityLoss = int.Parse(ReducedResourceDurabilityLoss.Text);
-                currentModel.unitStats.SpellResistance = int.Parse(SpellResistance.Text);
+                currentModel.unitStats.ResourceYieldModifier = float.Parse(ResourceYieldModifier.Text);
+                currentModel.unitStats.ReducedResourceDurabilityLoss = float.Parse(ReducedResourceDurabilityLoss.Text);
+                currentModel.unitStats.PhysicalResistance = float.Parse(PhysicalResistance.Text);
+                currentModel.unitStats.SpellResistance = float.Parse(SpellResistance.Text);
+                currentModel.unitStats.SunResistance = int.Parse(SunResistance.Text);
                 currentModel.unitStats.FireResistance = int.Parse(FireResistance.Text);
+                currentModel.unitStats.HolyResistance = int.Parse(HolyResistance.Text);
                 currentModel.unitStats.SilverResistance = int.Parse(SilverResistance.Text);
+                currentModel.unitStats.SilverCoinResistance = int.Parse(SilverCoinResistance.Text);
                 currentModel.unitStats.GarlicResistance = int.Parse(GarlicResistance.Text);
+                currentModel.unitStats.PassiveHealthRegen = float.Parse(PassiveHealthRegen.Text);
                 currentModel.unitStats.CCReduction = int.Parse(CCReduction.Text);
-                currentModel.unitStats.DamageReduction = int.Parse(DamageReduction.Text);
-                currentModel.unitStats.ShieldAbsorbModifier = int.Parse(ShieldAbsorbModifier.Text);
+                currentModel.unitStats.HealthRecovery = float.Parse(HealthRecovery.Text);
+                currentModel.unitStats.DamageReduction = float.Parse(DamageReduction.Text);
+                currentModel.unitStats.HealingReceived = float.Parse(HealingReceived.Text);
+                currentModel.unitStats.ShieldAbsorbModifier = float.Parse(ShieldAbsorbModifier.Text);
+                currentModel.unitStats.BloodEfficiency = float.Parse(BloodEfficiency.Text);
+                
                 currentModel.items = new List<ItemModel>();
 
                 foreach (ItemModel item in ItemsList)
@@ -368,6 +380,8 @@ namespace BloodyConfig.BloodyBoss
                 }
 
                 changesSaved = true;
+                ConfigItem.MarkSavedChanges();
+                ConfigItem.Visible = false;
                 ModelSaved?.Invoke(this, currentModel);
 
                 currentModel = null;

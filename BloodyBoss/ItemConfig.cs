@@ -49,21 +49,9 @@ namespace BloodyConfig.BloodyBoss
 
         private void NumericTextBox_KeyPress(object sender, KeyPressEventArgs e)
         {
-            // Permitir solo dígitos, teclas de control, un signo negativo y un punto decimal
-            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar) &&
-                (e.KeyChar != '.') && (e.KeyChar != '-'))
-            {
-                e.Handled = true;
-            }
 
-            // Solo permitir un punto decimal
-            if ((e.KeyChar == '.') && ((sender as TextBox).Text.IndexOf('.') > -1))
-            {
-                e.Handled = true;
-            }
-
-            // Solo permitir un signo negativo al inicio del texto
-            if ((e.KeyChar == '-') && ((sender as TextBox).Text.Length > 0))
+            // Permitir solo números y teclas de control (como Backspace)
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
             }
