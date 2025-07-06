@@ -16,6 +16,7 @@ namespace BloodyConfig
         public static BindingList<CharModel> Chars = new BindingList<CharModel>();
 
         private ConfigJefe ConfigJefeControl;
+        private ModConfig ModConfigControl;
         private int currentIndex;
 
         private CharModel lastAddedItem;
@@ -27,11 +28,15 @@ namespace BloodyConfig
             InitializeComponent();
             listBosses.DataSource = Chars;
             listBosses.SelectedIndexChanged += SelectedBossIndexChanged;
+            
             ConfigJefeControl = new ConfigJefe();
             ConfigJefeControl.Visible = false;
             aplicarFiltros(ConfigJefeControl);
-
             ConfigJefeControl.ModelSaved += BossSaved;
+
+            ModConfigControl = new ModConfig();
+            ModConfigControl.Dock = DockStyle.Fill;
+            tabModConfig.Controls.Add(ModConfigControl);
         }
 
         private void BossSaved(object sender, CharModel e)
@@ -261,5 +266,6 @@ namespace BloodyConfig
                 }
             }
         }
+
     }
 }

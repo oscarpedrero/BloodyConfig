@@ -1,0 +1,716 @@
+namespace BloodyConfig.BloodyBoss
+{
+    partial class ModConfig
+    {
+        /// <summary> 
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary> 
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Component Designer generated code
+
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabDynamicScaling = new System.Windows.Forms.TabPage();
+            this.groupDynamicScaling = new System.Windows.Forms.GroupBox();
+            this.chkEnableDynamicScaling = new System.Windows.Forms.CheckBox();
+            this.lblBaseHealthMultiplier = new System.Windows.Forms.Label();
+            this.numBaseHealthMultiplier = new System.Windows.Forms.NumericUpDown();
+            this.lblHealthPerPlayer = new System.Windows.Forms.Label();
+            this.numHealthPerPlayer = new System.Windows.Forms.NumericUpDown();
+            this.lblDamagePerPlayer = new System.Windows.Forms.Label();
+            this.numDamagePerPlayer = new System.Windows.Forms.NumericUpDown();
+            this.lblMaxPlayersForScaling = new System.Windows.Forms.Label();
+            this.numMaxPlayersForScaling = new System.Windows.Forms.NumericUpDown();
+            this.tabProgressiveDifficulty = new System.Windows.Forms.TabPage();
+            this.groupProgressiveDifficulty = new System.Windows.Forms.GroupBox();
+            this.chkEnableProgressiveDifficulty = new System.Windows.Forms.CheckBox();
+            this.lblDifficultyIncrease = new System.Windows.Forms.Label();
+            this.numDifficultyIncrease = new System.Windows.Forms.NumericUpDown();
+            this.lblMaxDifficultyMultiplier = new System.Windows.Forms.Label();
+            this.numMaxDifficultyMultiplier = new System.Windows.Forms.NumericUpDown();
+            this.chkResetDifficultyOnKill = new System.Windows.Forms.CheckBox();
+            this.tabTeleport = new System.Windows.Forms.TabPage();
+            this.groupTeleport = new System.Windows.Forms.GroupBox();
+            this.chkEnableTeleportCommand = new System.Windows.Forms.CheckBox();
+            this.chkTeleportAdminOnly = new System.Windows.Forms.CheckBox();
+            this.lblTeleportCooldown = new System.Windows.Forms.Label();
+            this.numTeleportCooldown = new System.Windows.Forms.NumericUpDown();
+            this.chkTeleportOnlyToActiveBosses = new System.Windows.Forms.CheckBox();
+            this.chkTeleportRequireBossAlive = new System.Windows.Forms.CheckBox();
+            this.lblTeleportCostItemGUID = new System.Windows.Forms.Label();
+            this.txtTeleportCostItemGUID = new System.Windows.Forms.TextBox();
+            this.lblTeleportCostAmount = new System.Windows.Forms.Label();
+            this.numTeleportCostAmount = new System.Windows.Forms.NumericUpDown();
+            this.tabPhaseAnnouncements = new System.Windows.Forms.TabPage();
+            this.groupPhaseAnnouncements = new System.Windows.Forms.GroupBox();
+            this.chkEnablePhaseAnnouncements = new System.Windows.Forms.CheckBox();
+            this.chkAnnounceEveryPhase = new System.Windows.Forms.CheckBox();
+            this.chkAnnounceMilestoneSpawns = new System.Windows.Forms.CheckBox();
+            this.btnSave = new System.Windows.Forms.Button();
+            this.btnReset = new System.Windows.Forms.Button();
+            this.lblVersion = new System.Windows.Forms.Label();
+            this.tabControl1.SuspendLayout();
+            this.tabDynamicScaling.SuspendLayout();
+            this.groupDynamicScaling.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numBaseHealthMultiplier)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numHealthPerPlayer)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numDamagePerPlayer)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numMaxPlayersForScaling)).BeginInit();
+            this.tabProgressiveDifficulty.SuspendLayout();
+            this.groupProgressiveDifficulty.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numDifficultyIncrease)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numMaxDifficultyMultiplier)).BeginInit();
+            this.tabTeleport.SuspendLayout();
+            this.groupTeleport.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numTeleportCooldown)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numTeleportCostAmount)).BeginInit();
+            this.tabPhaseAnnouncements.SuspendLayout();
+            this.groupPhaseAnnouncements.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tabControl1.Controls.Add(this.tabDynamicScaling);
+            this.tabControl1.Controls.Add(this.tabProgressiveDifficulty);
+            this.tabControl1.Controls.Add(this.tabTeleport);
+            this.tabControl1.Controls.Add(this.tabPhaseAnnouncements);
+            this.tabControl1.Location = new System.Drawing.Point(3, 30);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(544, 350);
+            this.tabControl1.TabIndex = 0;
+            // 
+            // tabDynamicScaling
+            // 
+            this.tabDynamicScaling.Controls.Add(this.groupDynamicScaling);
+            this.tabDynamicScaling.Location = new System.Drawing.Point(4, 22);
+            this.tabDynamicScaling.Name = "tabDynamicScaling";
+            this.tabDynamicScaling.Padding = new System.Windows.Forms.Padding(3);
+            this.tabDynamicScaling.Size = new System.Drawing.Size(536, 324);
+            this.tabDynamicScaling.TabIndex = 0;
+            this.tabDynamicScaling.Text = "Dynamic Scaling";
+            this.tabDynamicScaling.UseVisualStyleBackColor = true;
+            // 
+            // groupDynamicScaling
+            // 
+            this.groupDynamicScaling.Controls.Add(this.chkEnableDynamicScaling);
+            this.groupDynamicScaling.Controls.Add(this.lblBaseHealthMultiplier);
+            this.groupDynamicScaling.Controls.Add(this.numBaseHealthMultiplier);
+            this.groupDynamicScaling.Controls.Add(this.lblHealthPerPlayer);
+            this.groupDynamicScaling.Controls.Add(this.numHealthPerPlayer);
+            this.groupDynamicScaling.Controls.Add(this.lblDamagePerPlayer);
+            this.groupDynamicScaling.Controls.Add(this.numDamagePerPlayer);
+            this.groupDynamicScaling.Controls.Add(this.lblMaxPlayersForScaling);
+            this.groupDynamicScaling.Controls.Add(this.numMaxPlayersForScaling);
+            this.groupDynamicScaling.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupDynamicScaling.Location = new System.Drawing.Point(3, 3);
+            this.groupDynamicScaling.Name = "groupDynamicScaling";
+            this.groupDynamicScaling.Size = new System.Drawing.Size(530, 318);
+            this.groupDynamicScaling.TabIndex = 0;
+            this.groupDynamicScaling.TabStop = false;
+            this.groupDynamicScaling.Text = "Dynamic Scaling Settings";
+            // 
+            // chkEnableDynamicScaling
+            // 
+            this.chkEnableDynamicScaling.AutoSize = true;
+            this.chkEnableDynamicScaling.Location = new System.Drawing.Point(15, 25);
+            this.chkEnableDynamicScaling.Name = "chkEnableDynamicScaling";
+            this.chkEnableDynamicScaling.Size = new System.Drawing.Size(216, 17);
+            this.chkEnableDynamicScaling.TabIndex = 0;
+            this.chkEnableDynamicScaling.Text = "Enable Dynamic Scaling (based on players)";
+            this.chkEnableDynamicScaling.UseVisualStyleBackColor = true;
+            // 
+            // lblBaseHealthMultiplier
+            // 
+            this.lblBaseHealthMultiplier.AutoSize = true;
+            this.lblBaseHealthMultiplier.Location = new System.Drawing.Point(15, 60);
+            this.lblBaseHealthMultiplier.Name = "lblBaseHealthMultiplier";
+            this.lblBaseHealthMultiplier.Size = new System.Drawing.Size(109, 13);
+            this.lblBaseHealthMultiplier.TabIndex = 1;
+            this.lblBaseHealthMultiplier.Text = "Base Health Multiplier:";
+            // 
+            // numBaseHealthMultiplier
+            // 
+            this.numBaseHealthMultiplier.DecimalPlaces = 1;
+            this.numBaseHealthMultiplier.Increment = new decimal(new int[] {
+            1,
+            0,
+            0,
+            65536});
+            this.numBaseHealthMultiplier.Location = new System.Drawing.Point(200, 58);
+            this.numBaseHealthMultiplier.Maximum = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
+            this.numBaseHealthMultiplier.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            65536});
+            this.numBaseHealthMultiplier.Name = "numBaseHealthMultiplier";
+            this.numBaseHealthMultiplier.Size = new System.Drawing.Size(120, 20);
+            this.numBaseHealthMultiplier.TabIndex = 2;
+            this.numBaseHealthMultiplier.Value = new decimal(new int[] {
+            10,
+            0,
+            0,
+            65536});
+            // 
+            // lblHealthPerPlayer
+            // 
+            this.lblHealthPerPlayer.AutoSize = true;
+            this.lblHealthPerPlayer.Location = new System.Drawing.Point(15, 95);
+            this.lblHealthPerPlayer.Name = "lblHealthPerPlayer";
+            this.lblHealthPerPlayer.Size = new System.Drawing.Size(179, 13);
+            this.lblHealthPerPlayer.TabIndex = 3;
+            this.lblHealthPerPlayer.Text = "Health Per Player (0.25 = +25% HP):";
+            // 
+            // numHealthPerPlayer
+            // 
+            this.numHealthPerPlayer.DecimalPlaces = 2;
+            this.numHealthPerPlayer.Increment = new decimal(new int[] {
+            5,
+            0,
+            0,
+            131072});
+            this.numHealthPerPlayer.Location = new System.Drawing.Point(200, 93);
+            this.numHealthPerPlayer.Maximum = new decimal(new int[] {
+            2,
+            0,
+            0,
+            0});
+            this.numHealthPerPlayer.Name = "numHealthPerPlayer";
+            this.numHealthPerPlayer.Size = new System.Drawing.Size(120, 20);
+            this.numHealthPerPlayer.TabIndex = 4;
+            this.numHealthPerPlayer.Value = new decimal(new int[] {
+            25,
+            0,
+            0,
+            131072});
+            // 
+            // lblDamagePerPlayer
+            // 
+            this.lblDamagePerPlayer.AutoSize = true;
+            this.lblDamagePerPlayer.Location = new System.Drawing.Point(15, 130);
+            this.lblDamagePerPlayer.Name = "lblDamagePerPlayer";
+            this.lblDamagePerPlayer.Size = new System.Drawing.Size(179, 13);
+            this.lblDamagePerPlayer.TabIndex = 5;
+            this.lblDamagePerPlayer.Text = "Damage Per Player (0.15 = +15%):";
+            // 
+            // numDamagePerPlayer
+            // 
+            this.numDamagePerPlayer.DecimalPlaces = 2;
+            this.numDamagePerPlayer.Increment = new decimal(new int[] {
+            5,
+            0,
+            0,
+            131072});
+            this.numDamagePerPlayer.Location = new System.Drawing.Point(200, 128);
+            this.numDamagePerPlayer.Maximum = new decimal(new int[] {
+            2,
+            0,
+            0,
+            0});
+            this.numDamagePerPlayer.Name = "numDamagePerPlayer";
+            this.numDamagePerPlayer.Size = new System.Drawing.Size(120, 20);
+            this.numDamagePerPlayer.TabIndex = 6;
+            this.numDamagePerPlayer.Value = new decimal(new int[] {
+            15,
+            0,
+            0,
+            131072});
+            // 
+            // lblMaxPlayersForScaling
+            // 
+            this.lblMaxPlayersForScaling.AutoSize = true;
+            this.lblMaxPlayersForScaling.Location = new System.Drawing.Point(15, 165);
+            this.lblMaxPlayersForScaling.Name = "lblMaxPlayersForScaling";
+            this.lblMaxPlayersForScaling.Size = new System.Drawing.Size(140, 13);
+            this.lblMaxPlayersForScaling.TabIndex = 7;
+            this.lblMaxPlayersForScaling.Text = "Max Players For Scaling:";
+            // 
+            // numMaxPlayersForScaling
+            // 
+            this.numMaxPlayersForScaling.Location = new System.Drawing.Point(200, 163);
+            this.numMaxPlayersForScaling.Maximum = new decimal(new int[] {
+            50,
+            0,
+            0,
+            0});
+            this.numMaxPlayersForScaling.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.numMaxPlayersForScaling.Name = "numMaxPlayersForScaling";
+            this.numMaxPlayersForScaling.Size = new System.Drawing.Size(120, 20);
+            this.numMaxPlayersForScaling.TabIndex = 8;
+            this.numMaxPlayersForScaling.Value = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
+            // 
+            // tabProgressiveDifficulty
+            // 
+            this.tabProgressiveDifficulty.Controls.Add(this.groupProgressiveDifficulty);
+            this.tabProgressiveDifficulty.Location = new System.Drawing.Point(4, 22);
+            this.tabProgressiveDifficulty.Name = "tabProgressiveDifficulty";
+            this.tabProgressiveDifficulty.Padding = new System.Windows.Forms.Padding(3);
+            this.tabProgressiveDifficulty.Size = new System.Drawing.Size(536, 324);
+            this.tabProgressiveDifficulty.TabIndex = 1;
+            this.tabProgressiveDifficulty.Text = "Progressive Difficulty";
+            this.tabProgressiveDifficulty.UseVisualStyleBackColor = true;
+            // 
+            // groupProgressiveDifficulty
+            // 
+            this.groupProgressiveDifficulty.Controls.Add(this.chkEnableProgressiveDifficulty);
+            this.groupProgressiveDifficulty.Controls.Add(this.lblDifficultyIncrease);
+            this.groupProgressiveDifficulty.Controls.Add(this.numDifficultyIncrease);
+            this.groupProgressiveDifficulty.Controls.Add(this.lblMaxDifficultyMultiplier);
+            this.groupProgressiveDifficulty.Controls.Add(this.numMaxDifficultyMultiplier);
+            this.groupProgressiveDifficulty.Controls.Add(this.chkResetDifficultyOnKill);
+            this.groupProgressiveDifficulty.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupProgressiveDifficulty.Location = new System.Drawing.Point(3, 3);
+            this.groupProgressiveDifficulty.Name = "groupProgressiveDifficulty";
+            this.groupProgressiveDifficulty.Size = new System.Drawing.Size(530, 318);
+            this.groupProgressiveDifficulty.TabIndex = 0;
+            this.groupProgressiveDifficulty.TabStop = false;
+            this.groupProgressiveDifficulty.Text = "Progressive Difficulty Settings";
+            // 
+            // chkEnableProgressiveDifficulty
+            // 
+            this.chkEnableProgressiveDifficulty.AutoSize = true;
+            this.chkEnableProgressiveDifficulty.Location = new System.Drawing.Point(15, 25);
+            this.chkEnableProgressiveDifficulty.Name = "chkEnableProgressiveDifficulty";
+            this.chkEnableProgressiveDifficulty.Size = new System.Drawing.Size(258, 17);
+            this.chkEnableProgressiveDifficulty.TabIndex = 0;
+            this.chkEnableProgressiveDifficulty.Text = "Enable Progressive Difficulty (consecutive spawns)";
+            this.chkEnableProgressiveDifficulty.UseVisualStyleBackColor = true;
+            // 
+            // lblDifficultyIncrease
+            // 
+            this.lblDifficultyIncrease.AutoSize = true;
+            this.lblDifficultyIncrease.Location = new System.Drawing.Point(15, 60);
+            this.lblDifficultyIncrease.Name = "lblDifficultyIncrease";
+            this.lblDifficultyIncrease.Size = new System.Drawing.Size(189, 13);
+            this.lblDifficultyIncrease.TabIndex = 1;
+            this.lblDifficultyIncrease.Text = "Difficulty Increase Per Spawn (0.1 = +10%):";
+            // 
+            // numDifficultyIncrease
+            // 
+            this.numDifficultyIncrease.DecimalPlaces = 2;
+            this.numDifficultyIncrease.Increment = new decimal(new int[] {
+            5,
+            0,
+            0,
+            131072});
+            this.numDifficultyIncrease.Location = new System.Drawing.Point(220, 58);
+            this.numDifficultyIncrease.Maximum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.numDifficultyIncrease.Name = "numDifficultyIncrease";
+            this.numDifficultyIncrease.Size = new System.Drawing.Size(120, 20);
+            this.numDifficultyIncrease.TabIndex = 2;
+            this.numDifficultyIncrease.Value = new decimal(new int[] {
+            10,
+            0,
+            0,
+            131072});
+            // 
+            // lblMaxDifficultyMultiplier
+            // 
+            this.lblMaxDifficultyMultiplier.AutoSize = true;
+            this.lblMaxDifficultyMultiplier.Location = new System.Drawing.Point(15, 95);
+            this.lblMaxDifficultyMultiplier.Name = "lblMaxDifficultyMultiplier";
+            this.lblMaxDifficultyMultiplier.Size = new System.Drawing.Size(199, 13);
+            this.lblMaxDifficultyMultiplier.TabIndex = 3;
+            this.lblMaxDifficultyMultiplier.Text = "Max Difficulty Multiplier (2.0 = 200% max):";
+            // 
+            // numMaxDifficultyMultiplier
+            // 
+            this.numMaxDifficultyMultiplier.DecimalPlaces = 1;
+            this.numMaxDifficultyMultiplier.Increment = new decimal(new int[] {
+            1,
+            0,
+            0,
+            65536});
+            this.numMaxDifficultyMultiplier.Location = new System.Drawing.Point(220, 93);
+            this.numMaxDifficultyMultiplier.Maximum = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
+            this.numMaxDifficultyMultiplier.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.numMaxDifficultyMultiplier.Name = "numMaxDifficultyMultiplier";
+            this.numMaxDifficultyMultiplier.Size = new System.Drawing.Size(120, 20);
+            this.numMaxDifficultyMultiplier.TabIndex = 4;
+            this.numMaxDifficultyMultiplier.Value = new decimal(new int[] {
+            20,
+            0,
+            0,
+            65536});
+            // 
+            // chkResetDifficultyOnKill
+            // 
+            this.chkResetDifficultyOnKill.AutoSize = true;
+            this.chkResetDifficultyOnKill.Checked = true;
+            this.chkResetDifficultyOnKill.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkResetDifficultyOnKill.Location = new System.Drawing.Point(15, 130);
+            this.chkResetDifficultyOnKill.Name = "chkResetDifficultyOnKill";
+            this.chkResetDifficultyOnKill.Size = new System.Drawing.Size(206, 17);
+            this.chkResetDifficultyOnKill.TabIndex = 5;
+            this.chkResetDifficultyOnKill.Text = "Reset Difficulty When Boss is Defeated";
+            this.chkResetDifficultyOnKill.UseVisualStyleBackColor = true;
+            // 
+            // tabTeleport
+            // 
+            this.tabTeleport.Controls.Add(this.groupTeleport);
+            this.tabTeleport.Location = new System.Drawing.Point(4, 22);
+            this.tabTeleport.Name = "tabTeleport";
+            this.tabTeleport.Size = new System.Drawing.Size(536, 324);
+            this.tabTeleport.TabIndex = 2;
+            this.tabTeleport.Text = "Teleportation";
+            this.tabTeleport.UseVisualStyleBackColor = true;
+            // 
+            // groupTeleport
+            // 
+            this.groupTeleport.Controls.Add(this.chkEnableTeleportCommand);
+            this.groupTeleport.Controls.Add(this.chkTeleportAdminOnly);
+            this.groupTeleport.Controls.Add(this.lblTeleportCooldown);
+            this.groupTeleport.Controls.Add(this.numTeleportCooldown);
+            this.groupTeleport.Controls.Add(this.chkTeleportOnlyToActiveBosses);
+            this.groupTeleport.Controls.Add(this.chkTeleportRequireBossAlive);
+            this.groupTeleport.Controls.Add(this.lblTeleportCostItemGUID);
+            this.groupTeleport.Controls.Add(this.txtTeleportCostItemGUID);
+            this.groupTeleport.Controls.Add(this.lblTeleportCostAmount);
+            this.groupTeleport.Controls.Add(this.numTeleportCostAmount);
+            this.groupTeleport.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupTeleport.Location = new System.Drawing.Point(0, 0);
+            this.groupTeleport.Name = "groupTeleport";
+            this.groupTeleport.Size = new System.Drawing.Size(536, 324);
+            this.groupTeleport.TabIndex = 0;
+            this.groupTeleport.TabStop = false;
+            this.groupTeleport.Text = "Teleportation Settings";
+            // 
+            // chkEnableTeleportCommand
+            // 
+            this.chkEnableTeleportCommand.AutoSize = true;
+            this.chkEnableTeleportCommand.Checked = true;
+            this.chkEnableTeleportCommand.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkEnableTeleportCommand.Location = new System.Drawing.Point(15, 25);
+            this.chkEnableTeleportCommand.Name = "chkEnableTeleportCommand";
+            this.chkEnableTeleportCommand.Size = new System.Drawing.Size(149, 17);
+            this.chkEnableTeleportCommand.TabIndex = 0;
+            this.chkEnableTeleportCommand.Text = "Enable Teleport Command";
+            this.chkEnableTeleportCommand.UseVisualStyleBackColor = true;
+            // 
+            // chkTeleportAdminOnly
+            // 
+            this.chkTeleportAdminOnly.AutoSize = true;
+            this.chkTeleportAdminOnly.Checked = true;
+            this.chkTeleportAdminOnly.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkTeleportAdminOnly.Location = new System.Drawing.Point(15, 55);
+            this.chkTeleportAdminOnly.Name = "chkTeleportAdminOnly";
+            this.chkTeleportAdminOnly.Size = new System.Drawing.Size(179, 17);
+            this.chkTeleportAdminOnly.TabIndex = 1;
+            this.chkTeleportAdminOnly.Text = "Restrict Teleport to Admins Only";
+            this.chkTeleportAdminOnly.UseVisualStyleBackColor = true;
+            // 
+            // lblTeleportCooldown
+            // 
+            this.lblTeleportCooldown.AutoSize = true;
+            this.lblTeleportCooldown.Location = new System.Drawing.Point(15, 90);
+            this.lblTeleportCooldown.Name = "lblTeleportCooldown";
+            this.lblTeleportCooldown.Size = new System.Drawing.Size(130, 13);
+            this.lblTeleportCooldown.TabIndex = 2;
+            this.lblTeleportCooldown.Text = "Teleport Cooldown (seconds):";
+            // 
+            // numTeleportCooldown
+            // 
+            this.numTeleportCooldown.Location = new System.Drawing.Point(200, 88);
+            this.numTeleportCooldown.Maximum = new decimal(new int[] {
+            3600,
+            0,
+            0,
+            0});
+            this.numTeleportCooldown.Name = "numTeleportCooldown";
+            this.numTeleportCooldown.Size = new System.Drawing.Size(120, 20);
+            this.numTeleportCooldown.TabIndex = 3;
+            this.numTeleportCooldown.Value = new decimal(new int[] {
+            60,
+            0,
+            0,
+            0});
+            // 
+            // chkTeleportOnlyToActiveBosses
+            // 
+            this.chkTeleportOnlyToActiveBosses.AutoSize = true;
+            this.chkTeleportOnlyToActiveBosses.Checked = true;
+            this.chkTeleportOnlyToActiveBosses.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkTeleportOnlyToActiveBosses.Location = new System.Drawing.Point(15, 125);
+            this.chkTeleportOnlyToActiveBosses.Name = "chkTeleportOnlyToActiveBosses";
+            this.chkTeleportOnlyToActiveBosses.Size = new System.Drawing.Size(183, 17);
+            this.chkTeleportOnlyToActiveBosses.TabIndex = 4;
+            this.chkTeleportOnlyToActiveBosses.Text = "Only Allow Teleport to Active Bosses";
+            this.chkTeleportOnlyToActiveBosses.UseVisualStyleBackColor = true;
+            // 
+            // chkTeleportRequireBossAlive
+            // 
+            this.chkTeleportRequireBossAlive.AutoSize = true;
+            this.chkTeleportRequireBossAlive.Checked = true;
+            this.chkTeleportRequireBossAlive.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkTeleportRequireBossAlive.Location = new System.Drawing.Point(15, 155);
+            this.chkTeleportRequireBossAlive.Name = "chkTeleportRequireBossAlive";
+            this.chkTeleportRequireBossAlive.Size = new System.Drawing.Size(168, 17);
+            this.chkTeleportRequireBossAlive.TabIndex = 5;
+            this.chkTeleportRequireBossAlive.Text = "Require Boss to be Alive";
+            this.chkTeleportRequireBossAlive.UseVisualStyleBackColor = true;
+            // 
+            // lblTeleportCostItemGUID
+            // 
+            this.lblTeleportCostItemGUID.AutoSize = true;
+            this.lblTeleportCostItemGUID.Location = new System.Drawing.Point(15, 190);
+            this.lblTeleportCostItemGUID.Name = "lblTeleportCostItemGUID";
+            this.lblTeleportCostItemGUID.Size = new System.Drawing.Size(145, 13);
+            this.lblTeleportCostItemGUID.TabIndex = 6;
+            this.lblTeleportCostItemGUID.Text = "Cost Item GUID (0 = no cost):";
+            // 
+            // txtTeleportCostItemGUID
+            // 
+            this.txtTeleportCostItemGUID.Location = new System.Drawing.Point(200, 187);
+            this.txtTeleportCostItemGUID.Name = "txtTeleportCostItemGUID";
+            this.txtTeleportCostItemGUID.Size = new System.Drawing.Size(120, 20);
+            this.txtTeleportCostItemGUID.TabIndex = 7;
+            this.txtTeleportCostItemGUID.Text = "0";
+            // 
+            // lblTeleportCostAmount
+            // 
+            this.lblTeleportCostAmount.AutoSize = true;
+            this.lblTeleportCostAmount.Location = new System.Drawing.Point(15, 225);
+            this.lblTeleportCostAmount.Name = "lblTeleportCostAmount";
+            this.lblTeleportCostAmount.Size = new System.Drawing.Size(123, 13);
+            this.lblTeleportCostAmount.TabIndex = 8;
+            this.lblTeleportCostAmount.Text = "Cost Item Amount:";
+            // 
+            // numTeleportCostAmount
+            // 
+            this.numTeleportCostAmount.Location = new System.Drawing.Point(200, 223);
+            this.numTeleportCostAmount.Maximum = new decimal(new int[] {
+            1000,
+            0,
+            0,
+            0});
+            this.numTeleportCostAmount.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.numTeleportCostAmount.Name = "numTeleportCostAmount";
+            this.numTeleportCostAmount.Size = new System.Drawing.Size(120, 20);
+            this.numTeleportCostAmount.TabIndex = 9;
+            this.numTeleportCostAmount.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            // 
+            // tabPhaseAnnouncements
+            // 
+            this.tabPhaseAnnouncements.Controls.Add(this.groupPhaseAnnouncements);
+            this.tabPhaseAnnouncements.Location = new System.Drawing.Point(4, 22);
+            this.tabPhaseAnnouncements.Name = "tabPhaseAnnouncements";
+            this.tabPhaseAnnouncements.Size = new System.Drawing.Size(536, 324);
+            this.tabPhaseAnnouncements.TabIndex = 3;
+            this.tabPhaseAnnouncements.Text = "Phase Announcements";
+            this.tabPhaseAnnouncements.UseVisualStyleBackColor = true;
+            // 
+            // groupPhaseAnnouncements
+            // 
+            this.groupPhaseAnnouncements.Controls.Add(this.chkEnablePhaseAnnouncements);
+            this.groupPhaseAnnouncements.Controls.Add(this.chkAnnounceEveryPhase);
+            this.groupPhaseAnnouncements.Controls.Add(this.chkAnnounceMilestoneSpawns);
+            this.groupPhaseAnnouncements.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupPhaseAnnouncements.Location = new System.Drawing.Point(0, 0);
+            this.groupPhaseAnnouncements.Name = "groupPhaseAnnouncements";
+            this.groupPhaseAnnouncements.Size = new System.Drawing.Size(536, 324);
+            this.groupPhaseAnnouncements.TabIndex = 0;
+            this.groupPhaseAnnouncements.TabStop = false;
+            this.groupPhaseAnnouncements.Text = "Phase Announcement Settings";
+            // 
+            // chkEnablePhaseAnnouncements
+            // 
+            this.chkEnablePhaseAnnouncements.AutoSize = true;
+            this.chkEnablePhaseAnnouncements.Checked = true;
+            this.chkEnablePhaseAnnouncements.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkEnablePhaseAnnouncements.Location = new System.Drawing.Point(15, 25);
+            this.chkEnablePhaseAnnouncements.Name = "chkEnablePhaseAnnouncements";
+            this.chkEnablePhaseAnnouncements.Size = new System.Drawing.Size(167, 17);
+            this.chkEnablePhaseAnnouncements.TabIndex = 0;
+            this.chkEnablePhaseAnnouncements.Text = "Enable Phase Announcements";
+            this.chkEnablePhaseAnnouncements.UseVisualStyleBackColor = true;
+            // 
+            // chkAnnounceEveryPhase
+            // 
+            this.chkAnnounceEveryPhase.AutoSize = true;
+            this.chkAnnounceEveryPhase.Location = new System.Drawing.Point(15, 55);
+            this.chkAnnounceEveryPhase.Name = "chkAnnounceEveryPhase";
+            this.chkAnnounceEveryPhase.Size = new System.Drawing.Size(233, 17);
+            this.chkAnnounceEveryPhase.TabIndex = 1;
+            this.chkAnnounceEveryPhase.Text = "Announce Every Phase (not just increases)";
+            this.chkAnnounceEveryPhase.UseVisualStyleBackColor = true;
+            // 
+            // chkAnnounceMilestoneSpawns
+            // 
+            this.chkAnnounceMilestoneSpawns.AutoSize = true;
+            this.chkAnnounceMilestoneSpawns.Checked = true;
+            this.chkAnnounceMilestoneSpawns.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkAnnounceMilestoneSpawns.Location = new System.Drawing.Point(15, 85);
+            this.chkAnnounceMilestoneSpawns.Name = "chkAnnounceMilestoneSpawns";
+            this.chkAnnounceMilestoneSpawns.Size = new System.Drawing.Size(224, 17);
+            this.chkAnnounceMilestoneSpawns.TabIndex = 2;
+            this.chkAnnounceMilestoneSpawns.Text = "Announce Milestone Spawns (every 3)";
+            this.chkAnnounceMilestoneSpawns.UseVisualStyleBackColor = true;
+            // 
+            // btnSave
+            // 
+            this.btnSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSave.Location = new System.Drawing.Point(390, 390);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(75, 23);
+            this.btnSave.TabIndex = 1;
+            this.btnSave.Text = "Save";
+            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.BtnSave_Click);
+            // 
+            // btnReset
+            // 
+            this.btnReset.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnReset.Location = new System.Drawing.Point(470, 390);
+            this.btnReset.Name = "btnReset";
+            this.btnReset.Size = new System.Drawing.Size(75, 23);
+            this.btnReset.TabIndex = 2;
+            this.btnReset.Text = "Reset";
+            this.btnReset.UseVisualStyleBackColor = true;
+            this.btnReset.Click += new System.EventHandler(this.BtnReset_Click);
+            // 
+            // lblVersion
+            // 
+            this.lblVersion.AutoSize = true;
+            this.lblVersion.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblVersion.ForeColor = System.Drawing.Color.Blue;
+            this.lblVersion.Location = new System.Drawing.Point(3, 5);
+            this.lblVersion.Name = "lblVersion";
+            this.lblVersion.Size = new System.Drawing.Size(222, 13);
+            this.lblVersion.TabIndex = 3;
+            this.lblVersion.Text = "BloodyBoss v2.1.0 Advanced Settings";
+            // 
+            // ModConfig
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.lblVersion);
+            this.Controls.Add(this.btnReset);
+            this.Controls.Add(this.btnSave);
+            this.Controls.Add(this.tabControl1);
+            this.Name = "ModConfig";
+            this.Size = new System.Drawing.Size(550, 420);
+            this.tabControl1.ResumeLayout(false);
+            this.tabDynamicScaling.ResumeLayout(false);
+            this.groupDynamicScaling.ResumeLayout(false);
+            this.groupDynamicScaling.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numBaseHealthMultiplier)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numHealthPerPlayer)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numDamagePerPlayer)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numMaxPlayersForScaling)).EndInit();
+            this.tabProgressiveDifficulty.ResumeLayout(false);
+            this.groupProgressiveDifficulty.ResumeLayout(false);
+            this.groupProgressiveDifficulty.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numDifficultyIncrease)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numMaxDifficultyMultiplier)).EndInit();
+            this.tabTeleport.ResumeLayout(false);
+            this.groupTeleport.ResumeLayout(false);
+            this.groupTeleport.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.numTeleportCooldown)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numTeleportCostAmount)).EndInit();
+            this.tabPhaseAnnouncements.ResumeLayout(false);
+            this.groupPhaseAnnouncements.ResumeLayout(false);
+            this.groupPhaseAnnouncements.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabDynamicScaling;
+        private System.Windows.Forms.GroupBox groupDynamicScaling;
+        private System.Windows.Forms.CheckBox chkEnableDynamicScaling;
+        private System.Windows.Forms.Label lblBaseHealthMultiplier;
+        private System.Windows.Forms.NumericUpDown numBaseHealthMultiplier;
+        private System.Windows.Forms.Label lblHealthPerPlayer;
+        private System.Windows.Forms.NumericUpDown numHealthPerPlayer;
+        private System.Windows.Forms.Label lblDamagePerPlayer;
+        private System.Windows.Forms.NumericUpDown numDamagePerPlayer;
+        private System.Windows.Forms.Label lblMaxPlayersForScaling;
+        private System.Windows.Forms.NumericUpDown numMaxPlayersForScaling;
+        private System.Windows.Forms.TabPage tabProgressiveDifficulty;
+        private System.Windows.Forms.GroupBox groupProgressiveDifficulty;
+        private System.Windows.Forms.CheckBox chkEnableProgressiveDifficulty;
+        private System.Windows.Forms.Label lblDifficultyIncrease;
+        private System.Windows.Forms.NumericUpDown numDifficultyIncrease;
+        private System.Windows.Forms.Label lblMaxDifficultyMultiplier;
+        private System.Windows.Forms.NumericUpDown numMaxDifficultyMultiplier;
+        private System.Windows.Forms.CheckBox chkResetDifficultyOnKill;
+        private System.Windows.Forms.TabPage tabTeleport;
+        private System.Windows.Forms.GroupBox groupTeleport;
+        private System.Windows.Forms.CheckBox chkEnableTeleportCommand;
+        private System.Windows.Forms.CheckBox chkTeleportAdminOnly;
+        private System.Windows.Forms.Label lblTeleportCooldown;
+        private System.Windows.Forms.NumericUpDown numTeleportCooldown;
+        private System.Windows.Forms.CheckBox chkTeleportOnlyToActiveBosses;
+        private System.Windows.Forms.CheckBox chkTeleportRequireBossAlive;
+        private System.Windows.Forms.Label lblTeleportCostItemGUID;
+        private System.Windows.Forms.TextBox txtTeleportCostItemGUID;
+        private System.Windows.Forms.Label lblTeleportCostAmount;
+        private System.Windows.Forms.NumericUpDown numTeleportCostAmount;
+        private System.Windows.Forms.TabPage tabPhaseAnnouncements;
+        private System.Windows.Forms.GroupBox groupPhaseAnnouncements;
+        private System.Windows.Forms.CheckBox chkEnablePhaseAnnouncements;
+        private System.Windows.Forms.CheckBox chkAnnounceEveryPhase;
+        private System.Windows.Forms.CheckBox chkAnnounceMilestoneSpawns;
+        private System.Windows.Forms.Button btnSave;
+        private System.Windows.Forms.Button btnReset;
+        private System.Windows.Forms.Label lblVersion;
+    }
+}

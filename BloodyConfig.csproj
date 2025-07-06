@@ -83,6 +83,15 @@
     <Compile Include="BloodyBoss\ConfigJefe.Designer.cs">
       <DependentUpon>ConfigJefe.cs</DependentUpon>
     </Compile>
+    <Compile Include="BloodyBoss\ModConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BloodyBoss\ModConfig.Designer.cs">
+      <DependentUpon>ModConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BloodyBoss\DB\AdvancedConfigModel.cs" />
+    <Compile Include="BloodyBoss\DB\GeneralConfigModel.cs" />
+    <Compile Include="BloodyBoss\DB\ModConfigurationModel.cs" />
     <Compile Include="BloodyBoss\DB\CharModel.cs" />
     <Compile Include="BloodyBoss\DB\ItemModel.cs" />
     <Compile Include="BloodyBoss\DB\LanguageModel.cs" />
@@ -109,6 +118,9 @@
       <DependentUpon>vistaBloodyBoss.cs</DependentUpon>
     </Compile>
     <Compile Include="ResourceAccessor.cs" />
+    <EmbeddedResource Include="BloodyBoss\ModConfig.resx">
+      <DependentUpon>ModConfig.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BloodyBoss\ConfigJefe.resx">
       <DependentUpon>ConfigJefe.cs</DependentUpon>
     </EmbeddedResource>
